@@ -1,2 +1,2 @@
-api: DEBUG="${DEBUG:-true}" PYTHONUNBUFFERED=1 PYTHONASYNCIODEBUG=1 python app/main.py
-site: mkdocs serve --dev-addr localhost:5001
+api: DEBUG="${DEBUG:-true}" PYTHONUNBUFFERED=1 PYTHONASYNCIODEBUG=1 uvicorn app.main:app --host 0.0.0.0 --port 5001 --reload
+site: mkdocs serve --dev-addr localhost:5002

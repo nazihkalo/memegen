@@ -1,20 +1,20 @@
 [tool.poetry]
 
 name = "memegen"
-version = "11.1"
-description = "The free and open source API to generate memes."
-authors = ["Jace Browning <support@maketested.com>"]
+version = "0.1.0"
+description = "A meme generator API"
+authors = ["Your Name <your.email@example.com>"]
 license = "MIT"
 
 packages = [{ include = "app" }]
 
 [tool.poetry.dependencies]
 
-python = "~3.12.2"
+python = "^3.12"
 
 # Sanic
-sanic = "~24.6" # run 'poetry update sanic-ext sanic-testing' when changing this
-sanic-ext = "*"
+sanic = "^24.6.0"
+sanic-ext = "^23.12.0"
 
 # Markdown
 markdown = "~3.5.1"
@@ -22,7 +22,7 @@ pymdown-extensions = "^10.0"
 pygments = "^2.15.0"
 
 # Images
-pillow = "^10.4" # run 'poetry update types-pillow' when changing this
+pillow = "^10.4.0"
 pilmoji = { git = "https://github.com/jay3332/pilmoji", branch = "2.0" }
 spongemock = "~0.3.4"
 
@@ -39,6 +39,11 @@ bugsnag = "^4.6"
 gunicorn = "^22.0"
 uvicorn = "~0.23.2"
 locust = { version = "^2.12", optional = true }
+
+# Embeddings
+chromadb = "^0.5.23"
+sentence-transformers = "^3.3.1"
+pyyaml = "^6.0.2"
 
 [tool.poetry.group.dev.dependencies]
 
