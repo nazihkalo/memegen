@@ -1,0 +1,29 @@
+# Files
+/images/
+/templates/_custom*
+/templates/<*
+/templates/*/_*
+/templates/*/*.*.*
+
+# Dependencies
+.venv/
+setup.py
+*.egg-info
+
+# Cache
+__pycache__/
+.cache/
+
+# Development
+.idea/
+
+# Testing
+.coverage
+htmlcov/
+
+# Server
+.env
+.envrc
+
+# Site
+/site/
