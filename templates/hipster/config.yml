@@ -1,35 +1,162 @@
-name: Hipster Barista
-source: http://knowyourmeme.com/memes/hipster-barista
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - puts coffee deal on Groupon
-  - rolls eyes when you actually use it
+- puts coffee deal on Groupon
+- rolls eyes when you actually use it
+keywords:
+- null
+name: Hipster Barista
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Hipster Barista | Know Your Meme Sup! You must login or signup first!\
+  \ Already a memeber? Login Now! Don't have an account? Sign up Now! Meme Encyclopedia\
+  \ All Cultures Events People Sites Subcultures Videos Submit \u2192 Images Trending\
+  \ Most Commented Most Favorited High Score Low Score Most Viewed All Templates Upload\
+  \ an Image Articles News Explainers Collections Interviews Meme Insider Magazine\
+  \ More Discord Newsletter Episodes Forums Meme Store Login Abstract user icon Memes\
+  \ Categories Trending News Images Trending Images Videos Trending Videos Editorials\
+  \ Meme Insider Magazine Newsletter Policies and Guidelines Meme Store Old site Login\
+  \ Know Your Meme is the property of Literally Media \xA92024 Literally Media. All\
+  \ Rights Reserved. This image Of Woman Confidently Strolling Through A Glass Panel\
+  \ Has Been A Redraw Format Since 2021 Three Years Ago, This Boar's Head 'Exploded'\
+  \ Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess Memes Turns Two Years\
+  \ Old Today Phrase 'The Fridge Protects The Snacks' A Growing Favorite Among Pickup\
+  \ Artist Influencers Jamie G, The Bosh British Charva, Has Taken Over TikTok With\
+  \ His Signature 'Oh Cherie Amour' Sound Also Trending: Honey Extension Influencer\
+  \ Scam Renegade Raider Copypasta Assassination of UnitedHealthcare CEO Hipster Barista\
+  \ Added 13 years ago / Updated 8 days ago Confirmed 490,863 Part of a series on\
+  \ Hipster. [View Related Entries] View All 70 Images Navigation About \u2022 Origin\
+  \ \u2022 Spread \u2022 Notable Derivatives \u2022 Template \u2022 External References\
+  \ \u2022 Recent Images About Hipster Barista is an image macro series featuring\
+  \ a tattoo covered man wearing a black v-neck t-shirt, glasses and scarf with a\
+  \ scowling expression. Influenced by the common \"hipster\" stereotypes of being\
+  \ judgmental yet hypocritical, Hipster Barista acknowledges the snobby side of American\
+  \ coffee culture. See also: Hipster Kitty and Hipster Ariel. Origin The first noted\
+  \ instance of Hipster Barista was uploaded on August 24, 2011 as a Quickmeme[2]\
+  \ submission with the caption \u201CI got this tattoo for my love of coffee / I\
+  \ got this one because it\u2019s ironic.\u201D On August 25th, 2011, a link to another\
+  \ Quickmeme submission was posted in Reddit's /r/AdviceAnimals[8] subreddit, which\
+  \ featured the caption \"Che Guevara changed my life / Manager at Starbucks\" and\
+  \ received 2,872 up votes (as of September 6th). Spread The restaurant & bar review\
+  \ blog Eater.com posted an article titled \"The Hipster Barista Meme Is a Thing\
+  \ Now\"[3] on August, 26, 2011. They identified the man in the original photograph\
+  \ as Dustin Mattson, a \"coffee boss\" at Octane Coffee in Atlanta, GA who placed\
+  \ 5th at the Southeast Regional Barista Competition 2010 and 27th place at the US\
+  \ Barista Championship 2010. On August 26, 2011, Dustin tweeted about the notoriety\
+  \ stating \"yeah it's real representative of what I do to feed my family.\"[5] On\
+  \ August 29, 2011, Eater.com posted an interview with Dustin[4] in which he talks\
+  \ about how seriously he takes his job. \"I do find it discouraging and disappointing\
+  \ that there was so much exposure brought to an attempt at making a joke of a culinary\
+  \ industry and the professional barista. To me, it's very telling on how we laud\
+  \ farm-to-table food, craft beer, cocktail mixology, but it's ok to have no respect\
+  \ for the specialty coffee world and the people who are committed to it.\" On August\
+  \ 30th, several instances of the image macro popped up on both the Sherdog Forums[6]\
+  \ and Bodybuilding.com Forums.[7] On September 4th, 2011, a Facebook fan page[10]\
+  \ was created that has 7 likes as of September 6th, 2011. Additional derivatives\
+  \ can be found on Tumblr[9], and the Advice Animals subreddit.[11] Notable Derivatives\
+  \ Template External References [1] Coffee Snobology \u2013 Coffee Snob Archetypes\
+  \ / 9-29-2010 [2] Quickmeme \u2013 Hipster Barista / 8-24-2011 [3] Eater.com \u2013\
+  \ The Hipster Barista Meme Is a Thing Now / 8-26-2011 [4] Eater.com \u2013 Dustin\
+  \ Mattson, the 'Hipster Barista,' Speaks / 8/29/2011 [5] Twitter.com/DustinColeMmm\
+  \ \u2013 yeah it's real representative of what I do to feed my family. / 8/26/2011\
+  \ [6] Sherdog Forums \u2013 Hipster Barista / 8/30/2011 [7] Bodybuilding.com Forums\
+  \ = Hipster Barista Meme / 8/30/2011 [8] Reddit \u2013 Hipster Barista [9] Tumblr\
+  \ \u2013 #hipster barista [10] Facebook \u2013 Hipster Barista [11] Reddit \u2013\
+  \ hipster barista image macro hipster hipster kitty coffee social stereotype glasses\
+  \ Share Pin Related Entries 14 total Interior Semiotics Hipster Mermaid / Hipster\
+  \ Ariel Hipster Kitty Time Traveling Hipster View All Related Entries Recent Images\
+  \ 70 total View All Images Recent Videos 0 total There are no recent videos. Sign\
+  \ up for our Newsletter Load 23 Comments Comments 23 total 28 Hipster Barista 490,863\
+  \ 0 70 23 Part of a series on Hipster. [View Related Entries] Updated Dec 15, 2024\
+  \ at 06:43PM EST by LiterallyAustin. Added Sep 03, 2011 at 01:46AM EDT by yatta.\
+  \ Like us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press 'i' to view the\
+  \ image gallery, 'v' to view the video gallery, or 'r' to view a random entry. Meme\
+  \ Status Confirmed Year 2011 Origin Unknown Tags image macro, hipster, hipster kitty,\
+  \ coffee, social stereotype, glasses About Hipster Barista is an image macro series\
+  \ featuring a tattoo covered man wearing a black v-neck t-shirt, glasses and scarf\
+  \ with a scowling expression. Influenced by the common \"hipster\" stereotypes of\
+  \ being judgmental yet hypocritical, Hipster Barista acknowledges the snobby side\
+  \ of American coffee culture. See also: Hipster Kitty and Hipster Ariel. Origin\
+  \ The first noted instance of Hipster Barista was uploaded on August 24, 2011 as\
+  \ a Quickmeme[2] submission with the caption \u201CI got this tattoo for my love\
+  \ of coffee / I got this one because it\u2019s ironic.\u201D On August 25th, 2011,\
+  \ a link to another Quickmeme submission was posted in Reddit's /r/AdviceAnimals[8]\
+  \ subreddit, which featured the caption \"Che Guevara changed my life / Manager\
+  \ at Starbucks\" and received 2,872 up votes (as of September 6th). Spread The restaurant\
+  \ & bar review blog Eater.com posted an article titled \"The Hipster Barista Meme\
+  \ Is a Thing Now\"[3] on August, 26, 2011. They identified the man in the original\
+  \ photograph as Dustin Mattson, a \"coffee boss\" at Octane Coffee in Atlanta, GA\
+  \ who placed 5th at the Southeast Regional Barista Competition 2010 and 27th place\
+  \ at the US Barista Championship 2010. On August 26, 2011, Dustin tweeted about\
+  \ the notoriety stating \"yeah it's real representative of what I do to feed my\
+  \ family.\"[5] On August 29, 2011, Eater.com posted an interview with Dustin[4]\
+  \ in which he talks about how seriously he takes his job. \"I do find it discouraging\
+  \ and disappointing that there was so much exposure brought to an attempt at making\
+  \ a joke of a culinary industry and the professional barista. To me, it's very telling\
+  \ on how we laud farm-to-table food, craft beer, cocktail mixology, but it's ok\
+  \ to have no respect for the specialty coffee world and the people who are committed\
+  \ to it.\" On August 30th, several instances of the image macro popped up on both\
+  \ the Sherdog Forums[6] and Bodybuilding.com Forums.[7] On September 4th, 2011,\
+  \ a Facebook fan page[10] was created that has 7 likes as of September 6th, 2011.\
+  \ Additional derivatives can be found on Tumblr[9], and the Advice Animals subreddit.[11]\
+  \ Notable Derivatives Template External References [1] Coffee Snobology \u2013 Coffee\
+  \ Snob Archetypes / 9-29-2010 [2] Quickmeme \u2013 Hipster Barista / 8-24-2011 [3]\
+  \ Eater.com \u2013 The Hipster Barista Meme Is a Thing Now / 8-26-2011 [4] Eater.com\
+  \ \u2013 Dustin Mattson, the 'Hipster Barista,' Speaks / 8/29/2011 [5] Twitter.com/DustinColeMmm\
+  \ \u2013 yeah it's real representative of what I do to feed my family. / 8/26/2011\
+  \ [6] Sherdog Forums \u2013 Hipster Barista / 8/30/2011 [7] Bodybuilding.com Forums\
+  \ = Hipster Barista Meme / 8/30/2011 [8] Reddit \u2013 Hipster Barista [9] Tumblr\
+  \ \u2013 #hipster barista [10] Facebook \u2013 Hipster Barista [11] Reddit \u2013\
+  \ hipster barista Related Entries 14 total Interior Semiotics Hipster Mermaid /\
+  \ Hipster Ariel Hipster Kitty Time Traveling Hipster Hipster Glasses Hipster Hitler\
+  \ Man Bun Hipster Disney Villains Hipster Runoff Look at This Fucking Hipster Put\
+  \ a Bird on It Riot Hipster View All Related Entries Recent Videos There are no\
+  \ videos currently available. + Add a Video Recent Images 70 total Hipster Barista\
+  \ Uploaded by Y F Hipster Barista Uploaded by Steve51 Hipster Barista Uploaded by\
+  \ 20three Hipster Barista Uploaded by Saul Ami Hipster Barista Uploaded by seamusokitt\
+  \ Hipster Barista Uploaded by Roan Hipster Barista Uploaded by Papa Coolface Hipster\
+  \ Barista Uploaded by Guitarlover72 Hipster Barista Uploaded by Jake Khosrowzadeh\
+  \ Hipster Barista Uploaded by Brad Hipster Barista Uploaded by Brad Hipster Barista\
+  \ Uploaded by Brad + Add an Image View All Images Sign up for our Newsletter Top\
+  \ Comments Delete Sensitive ZillieZephyr Sep 06, 2011 at 10:54PM EDT @rapturjesus\
+  \ implying that every single person has to see it to be a meme implying that every\
+  \ meme has to be funny. I\u2019m just saying. +21 Reply Delete Sensitive Lunas Gonna\
+  \ Lune Jan 28, 2012 at 02:53AM EST (Reads top comment) \"Heh, wonder what rapturjesus\
+  \ said.\" (Scrolls down and finds it) \"Oh, it's hidden. This must be good\" This\
+  \ user has been deactivated +9 Reply + Add a Comment Comments (23) Display Comments\
+  \ Add a Comment Top Entries This Month Meme Saika Kawakita Smile GIF Event Assassination\
+  \ of UnitedHealthcare CEO Person Luigi Mangione UHC CEO Shooter Subculture The Ki\
+  \ Sisters Culture Pornography Site Whisper View More Suggest a Change Edit History\
+  \ Entry Editors (4) yatta Internet Scientist Don Administrator & Meme Daddy Brad\
+  \ Digital Archaeologist & Treasurer & Pundit & Gallery Housekeeper amanda b. Meme\
+  \ Librarian + Request Editorship View All Editors Today's Top Image Galleries Assassination\
+  \ of UnitedHealthcare CEO Squirrel Girl (Doreen Green) Team Fortress 2 The Amazing\
+  \ Digital Circus About Our Story Site Rules Policies and Guidelines Credits Contact\
+  \ Meme DB Memes Episodes News Staff Contact Extras! Style Guide RSS Feeds"
+source: http://knowyourmeme.com/memes/hipster-barista
+template_id: hipster
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

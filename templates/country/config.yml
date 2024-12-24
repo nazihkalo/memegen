@@ -1,36 +1,48 @@
-name: What a Country
-source: https://www.youtube.com/watch?v=Q8mD2hsxrhQ
-keywords:
-  - The Simpsons
-  - Dr. Nick
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - Inflammable means flammable?
-  - What a country!
+- Inflammable means flammable?
+- What a country!
+keywords:
+- The Simpsons
+- Dr. Nick
+name: What a Country
 overlay:
-  - center_x: 0.36
-    center_y: 0.44
-    angle: 0.0
-    scale: 0.6
+- angle: 0.0
+  center_x: 0.36
+  center_y: 0.44
+  scale: 0.6
+scraped_content: "Inflammable means flammable? - YouTube\u062D\u0648\u0644\u0627\u0644\
+  \u0635\u062D\u0627\u0641\u0629\u062D\u0642\u0648\u0642 \u0627\u0644\u0637\u0628\u0639\
+  \ \u0648\u0627\u0644\u0646\u0634\u0631\u0627\u0644\u062A\u0648\u0627\u0635\u0644\
+  \ \u0645\u0639\u0646\u0627\u0635\u0646\u0651\u0627\u0639 \u0627\u0644\u0645\u062D\
+  \u062A\u0648\u0649\u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0645\u0637\u0648\u0651\
+  \u0631\u0648 \u0627\u0644\u0628\u0631\u0627\u0645\u062C\u0627\u0644\u0623\u062D\u0643\
+  \u0627\u0645\u0627\u0644\u062E\u0635\u0648\u0635\u064A\u0629\u0627\u0644\u0633\u064A\
+  \u0627\u0633\u0629 \u0648\u0627\u0644\u0623\u0645\u0627\u0646\u0622\u0644\u064A\u0629\
+  \ \u0639\u0645\u0644 YouTube\u062A\u062C\u0631\u0628\u0629 \u0627\u0644\u0645\u064A\
+  \u0632\u0627\u062A \u0627\u0644\u062C\u062F\u064A\u062F\u0629\xA9 2024 Google LLC"
+source: https://www.youtube.com/watch?v=Q8mD2hsxrhQ
+template_id: country
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

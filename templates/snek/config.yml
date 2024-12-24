@@ -1,35 +1,64 @@
-name: Skeptical Snake
-source: https://www.reddit.com/r/JoeRogan/comments/5kga5k/skeptical_snake/
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - when you already checked that one leaf
-  - and it starts moving
+- when you already checked that one leaf
+- and it starts moving
+keywords:
+- null
+name: Skeptical Snake
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Reddit - Dive into anything Skip to main content Open menu Open\
+  \ navigation Go to Reddit Home r/JoeRogan A chip A close button Get App Get the\
+  \ Reddit app Log In Log in to Reddit Expand user menu Open settings menu Log In\
+  \ / Sign Up Advertise on Reddit Shop Collectible Avatars Go to JoeRogan r/JoeRogan\
+  \ r/JoeRogan A portal to discuss Joe Rogan, JRE, comedy, cars, MMA, music, food,\
+  \ psychedelics, science, mind-expanding revelations, conspiracies, insights, and\
+  \ fitness & health...and all other cool shit. Members Online \u2022 B1gWh17 ADMIN\
+  \ MOD Skeptical Snake Archived post. New comments cannot be posted and votes cannot\
+  \ be cast. Public Anyone can view, post, and comment to this community Top Posts\
+  \ Reddit reReddit: Top posts of December 26, 2016 Reddit reReddit: Top posts of\
+  \ December 2016 Reddit reReddit: Top posts of 2016 &nbsp; &nbsp; TOPICS Internet\
+  \ Culture (Viral) Amazing Animals & Pets Cringe & Facepalm Funny Interesting Memes\
+  \ Oddly Satisfying Reddit Meta Wholesome & Heartwarming Games Action Games Adventure\
+  \ Games Esports Gaming Consoles & Gear Gaming News & Discussion Mobile Games Other\
+  \ Games Role-Playing Games Simulation Games Sports & Racing Games Strategy Games\
+  \ Tabletop Games Q&As Q&As Stories & Confessions Technology 3D Printing Artificial\
+  \ Intelligence & Machine Learning Computers & Hardware Consumer Electronics DIY\
+  \ Electronics Programming Software & Apps Streaming Services Tech News & Discussion\
+  \ Virtual & Augmented Reality Pop Culture Celebrities Creators & Influencers Generations\
+  \ & Nostalgia Podcasts Streamers Tarot & Astrology Movies & TV Action Movies & Series\
+  \ Animated Movies & Series Comedy Movies & Series Crime, Mystery, & Thriller Movies\
+  \ & Series Documentary Movies & Series Drama Movies & Series Fantasy Movies & Series\
+  \ Horror Movies & Series Movie News & Discussion Reality TV Romance Movies & Series\
+  \ Sci-Fi Movies & Series Superhero Movies & Series TV News & Discussion RESOURCES\
+  \ About Reddit Advertise Help Blog Careers Press Communities Best of Reddit Topics\
+  \ Content Policy Privacy Policy User Agreement Reddit, Inc. \xA9 2024. All rights\
+  \ reserved."
+source: https://www.reddit.com/r/JoeRogan/comments/5kga5k/skeptical_snake/
+template_id: snek
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

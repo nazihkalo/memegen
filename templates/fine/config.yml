@@ -1,35 +1,43 @@
-name: This is Fine
-source: http://gunshowcomic.com/648
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - ''
-  - this is fine
+- ''
+- this is fine
+keywords:
+- null
+name: This is Fine
 overlay:
-  - center_x: 0.425
-    center_y: 0.54
-    angle: 0.0
-    scale: 0.5
+- angle: 0.0
+  center_x: 0.425
+  center_y: 0.54
+  scale: 0.5
+scraped_content: "Gunshow - On Fire Tags for this comic: question hound Hello everyone.\
+  \ Feels like its been years.More shirts and stuff are on the way. I put in some\
+  \ new designs the other day. I hope you'll like em!! The Whole Story kickstarter\
+  \ is still goin. You can read the Dog's Sins now for only a $1. Please do!That's\
+  \ all. I've been watching a lot of Frasier. That's all. 70SASWAWDAEALMAZMPBLBCFC&GCRCSSC5000HCOGDCIGTHDoTDINOCDHMDrMcNDCDWECFBGPhoOJSTKBBGCH!AV!IDJatDRJCJWKFLHTLMNLTVMTTSMKMSPANDLnRNPDOPOCPSPFSCRCSSMBCBMSMTAZTACCDODHARBDoWLIGTLAtMWIGUPBFTPSTWPTKTT4DWMVattuSTHtMRuTLZSFAMQDDBDDFACN-CS101CD\
+  \ home archive about store tumblr extra content \xA9 kc green - site code by b lee"
+source: http://gunshowcomic.com/648
+template_id: fine
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

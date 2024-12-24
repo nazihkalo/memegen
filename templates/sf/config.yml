@@ -1,36 +1,41 @@
-name: Sealed Fate
-source: 
-  https://www.reddit.com/r/AdviceAnimals/comments/3fenos/i_like_the_idea_of_the_impending_doom_seal_i_hope/ctnxw3k
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - i accidentally used a swear word
-  - and i know my mom heard it from the other room
+- i accidentally used a swear word
+- and i know my mom heard it from the other room
+keywords:
+- null
+name: Sealed Fate
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: Reddit - Dive into anything Skip to main content Open menu Open navigation
+  Go to Reddit Home r/AdviceAnimals A chip A close button Get App Get the Reddit app
+  Log In Log in to Reddit Expand user menu Open settings menu Log In / Sign Up Advertise
+  on Reddit Shop Collectible Avatars
+source: https://www.reddit.com/r/AdviceAnimals/comments/3fenos/i_like_the_idea_of_the_impending_doom_seal_i_hope/ctnxw3k
+template_id: sf
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

@@ -1,23 +1,75 @@
-name: What Color Do You Want Your Dragon
-source: https://knowyourmeme.com/photos/1052192-tumblr
-keywords:
-  - wish
-text:
-  - style: upper
-    color: black
-    font: comic
-    anchor_x: 0.22
-    anchor_y: 0.505
-    angle: 0.0
-    scale_x: 0.25
-    scale_y: 0.119
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - OK I want a boyfriend
+- OK I want a boyfriend
+keywords:
+- wish
+name: What Color Do You Want Your Dragon
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "What color did you want your dragon | \"For Christmas I Want A Dragon!\"\
+  \ | Know Your Meme Yo Yo! You must login or signup first! Already a memeber? Login\
+  \ Now! Don't have an account? Sign up Now! Meme Encyclopedia All Cultures Events\
+  \ People Sites Subcultures Videos Submit \u2192 Images Trending Most Commented Most\
+  \ Favorited High Score Low Score Most Viewed All Templates Upload an Image Articles\
+  \ News Explainers Collections Interviews Meme Insider Magazine More Discord Newsletter\
+  \ Episodes Forums Meme Store Login Abstract user icon Memes Categories Trending\
+  \ News Images Trending Images Videos Trending Videos Editorials Meme Insider Magazine\
+  \ Newsletter Policies and Guidelines Meme Store Old site Login Know Your Meme is\
+  \ the property of Literally Media \xA92024 Literally Media. All Rights Reserved.\
+  \ This image Of Woman Confidently Strolling Through A Glass Panel Has Been A Redraw\
+  \ Format Since 2021 Three Years Ago, This Boar's Head 'Exploded' Onto The Meme Scene\
+  \ Remember Il Vaticano? The Anarchy Chess Memes Turns Two Years Old Today Phrase\
+  \ 'The Fridge Protects The Snacks' A Growing Favorite Among Pickup Artist Influencers\
+  \ Jamie G, The Bosh British Charva, Has Taken Over TikTok With His Signature 'Oh\
+  \ Cherie Amour' Sound Also Trending: Honey Extension Influencer Scam Renegade Raider\
+  \ Copypasta Assassination of UnitedHealthcare CEO +127 What color did you want your\
+  \ dragon Uploaded by Max Dec 11, 2015 at 03:03PM EST Share Pin Download More webcomic\
+  \ twitter: the comic illustratedtextposts dami lee santa claus christmas dragon\
+  \ boyfriend Origin Entry: \"For Christmas I Want A Dragon!\" Notes: Made by Dami\
+  \ Lee File type: png Resolution: (534px x 810px) File size: 355 KB View All 54 Images\
+  \ Load 17 Comments Comments 17 total More: Vive la R\xE9sistance Share Pin hmofa\
+  \ supremacists Share Pin Jayden Share Pin Felt very them coded Share Pin this is\
+  \ so wlw of him Share Pin Yukari 30 Times the Glass Was Not Strong Enough Share\
+  \ Pin #HELLTUBERS return! New display! Check out @ElaraVtuber @_Ruzuu_ @pipkinpippa\
+  \ and @ninomaeinanis ! Share Pin POV you're getting sleepy from the anesthesia but\
+  \ your surgeon does this Share Pin Interesting question Share Pin Solar Saturdays\
+  \ #8: I REMAIN THE BIGGEST SOLAR FLARE FAN ARTIST HOME BOY!!! Also hi @Peargor :3\
+  \ Share Pin Tears of the Kindgom ending.gif SPOILER Click to view Share Pin A manager's\
+  \ two cents Share Pin My Wife is a Half-Dragon - part 2 Share Pin Next 33 +127 \"\
+  For Christmas I Want A Dragon!\" - What color did you want your dragon Like us on\
+  \ Facebook! Like 1.8M Share Save Tweet PROTIP: Press the \u2190 and \u2192 keys\
+  \ to navigate the gallery, 'g' to view the gallery, or 'r' to view a random image.\
+  \ \u25C4 Previous View Gallery Random Image More: \"For Christmas I Want A Dragon!\"\
+  \ Uploaded by Reddit Moments \"For Christmas I Want A Dragon!\" Uploaded by Reddit\
+  \ Moments \"For Christmas I Want A Dragon!\" Uploaded by Rebecca Rhodes \"For Christmas\
+  \ I Want A Dragon!\" Uploaded by Reddit Moments Top Comments Delete Sensitive DefinitelyNotADog\
+  \ Dec 11, 2015 at 06:09PM EST in reply to Nod_Lucario Does anyone else remember\
+  \ this show? +42 Reply Delete Sensitive Nod_Lucario Dec 11, 2015 at 05:43PM EST\
+  \ why not have a boyfriend who is a dragon? +22 Reply + Add a Comment Comments (17)\
+  \ Display Comments Add a Comment + Add an Image Image Details 44,327 views (9 from\
+  \ today) Uploaded Dec 11, 2015 at 03:03PM EST Origin Entry \"For Christmas I Want\
+  \ A Dragon!\" Notes Made by Dami Lee click to expand Tags webcomic, twitter: the\
+  \ comic, illustratedtextposts, dami lee, santa claus, christmas, dragon, boyfriend\
+  \ Claim Authorship Edit History About the Uploader Max Sr. Researcher & Archivist\
+  \ & Pundit & Media Chauffeur Textile Embed !https://i.kym-cdn.com/photos/images/newsfeed/001/052/192/83e.png!\
+  \ Today's Top Image Galleries Assassination of UnitedHealthcare CEO Squirrel Girl\
+  \ (Doreen Green) Team Fortress 2 The Amazing Digital Circus About Our Story Site\
+  \ Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes News Staff\
+  \ Contact Extras! Style Guide RSS Feeds"
+source: https://knowyourmeme.com/photos/1052192-tumblr
+template_id: dragon
+text:
+- align: center
+  anchor_x: 0.22
+  anchor_y: 0.505
+  angle: 0.0
+  color: black
+  font: comic
+  scale_x: 0.25
+  scale_y: 0.119
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 1

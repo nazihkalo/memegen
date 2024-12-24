@@ -1,35 +1,232 @@
-name: Hide the Pain Harold
-source: https://knowyourmeme.com/memes/hide-the-pain-harold
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - when the boss sees
-  - your meme tab
+- when the boss sees
+- your meme tab
+keywords:
+- null
+name: Hide the Pain Harold
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Hide The Pain Harold | Know Your Meme Hello! You must login or signup\
+  \ first! Already a memeber? Login Now! Don't have an account? Sign up Now! Meme\
+  \ Encyclopedia All Cultures Events People Sites Subcultures Videos Submit \u2192\
+  \ Images Trending Most Commented Most Favorited High Score Low Score Most Viewed\
+  \ All Templates Upload an Image Articles News Explainers Collections Interviews\
+  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
+  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
+  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
+  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
+  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
+  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
+  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
+  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
+  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
+  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
+  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
+  \ CEO Hide The Pain Harold Added 10 years ago / Updated 12 days ago Confirmed 3,064,404\
+  \ Part of a series on Stock Photography. [View Related Entries] [View Related Sub-entries]\
+  \ View All 198 Images Featured Episode Navigation About \u2022 Origin \u2022 Spread\
+  \ \u2022 Notable Examples \u2022 Search Interest \u2022 External References \u2022\
+  \ Recent Images \u2022 Recent Videos About Hide The Pain Harold, also simply referred\
+  \ to as \"Harold\" or \"Maurice\" is the nickname given to a senior stock photography\
+  \ model whose facial expression appears to indicate suppressed pain and/or discomfort.\
+  \ Origin The earliest known archived thread, where Harold first got attention, can\
+  \ be found on Facepunch, dating back to 2011. On September 13th, Facepunch forum\
+  \ user Greenen72, posted stock photos with the old man[1], originally from the site\
+  \ DreamsTime due to pictures having the site's watermark on them. Spread On October\
+  \ 23rd, 2011, a Facebook page for Hide the Pain Harold[3] was created. Another Facebook\
+  \ page was created on January 1, 2014. This was titled \"Maurice\" (his alternate\
+  \ name) and has over 10k likes.[9] On May 5th, 2014, Harold's stock photos inspired\
+  \ a lengthy tribute thread on 4chan's /b/[7][4], crafting a fictional story about\
+  \ an unhappy old man working as a stock photography model. Then on September 7th,\
+  \ Imgur user someshitbag[2] compiled notable quotes from the 4chan thread into a\
+  \ gallery post titled \"Hide-the-pain-harold,\"[8] which garnered more than 880,000\
+  \ views in just over three weeks. On September 10th, a Youtuber ChinnyxD uploaded\
+  \ the story, narrated through text-to-speech. On October 31st, 2013, a subreddit\
+  \ community for stock images, including Harold, /r/youdontsurf[6], was created.\
+  \ On sites like MemeCenter[5], stock photos featuring Harold have been edited to\
+  \ image macros, mostly used for sex or similar kinds of jokes. Identity On March\
+  \ 3rd, K\u0151szeg, Hungary resident Andr\xE1s Arat\xF3[10] identified himself as\
+  \ the man in the stock photo on the pain_harold[11] group on the Russian language\
+  \ social network VK (shown below). On March 5th, 2016, Redditor The_Shreckoning\
+  \ announced Arat\xF3's identity on the /r/youdontsurf[12] subrredit. The same day,\
+  \ YouTuber Gigatless uploaded footage of Arat\xF3 appearing on a Hungarian television\
+  \ game show (shown below, left). On March 6th, the hidyourpain YouTube channel uploaded\
+  \ footage of Arat\xF3 verifying his identity. Manchester Trip On March 23rd, 2018,\
+  \ Instagram user fuckitimarobot[13] posted a photograph of Arat\xF3 posing with\
+  \ a fan at a bar with the caption \"So my friend just met Harold tonight. Don't\
+  \ let your memes be dreams\" (shown below). Within 48 hours, the post gained over\
+  \ 16,100 likes. That day, YouTuber smillmf uploaded a mini documentary video of\
+  \ in which Arat\xF3 visits Manchester, England to watch a football game (shown below).\
+  \ In the coming days, articles about the video were published by BoingBoing[14]\
+  \ and Manchester Evening News.[15] TedxTalk In September 2018, Arato hosted a Tedx\
+  \ Talk in Kyiv, Ukraine. In the talk, Arato discusses the story of his life as a\
+  \ \"meme-hero,\" as well as his career as an electrical engineer in Ukraine. His\
+  \ story begins with a vacation in Turkey, where a photograph of him was taken. After\
+  \ uploading the photograph to Facebook, a professional photographer contacted Arato\
+  \ regarding modeling, inviting him to a trial shooting. Both were happy with the\
+  \ results and continue to work together, resulting in a \"couple hundred\" stock\
+  \ photographs. Several months later, Arato began finding the photographs used in\
+  \ a variety of other contexts, outside of the stock photographs he agreed to. While\
+  \ he considered taking action, he says, Arato decided there was not much he could\
+  \ do. There was \"no solution--only a temporary solution.\" In the remainder of\
+  \ the speech, Arato discusses how he began to accept his meme celebrity and his\
+  \ embracing of the notoriety, establishing a homepage for the photographs. On June\
+  \ 25th, 2019, the presentation was uploaded to YouTube. The post received more than\
+  \ 580,000 views in three days (shown below). Interview with Know Your Meme On April\
+  \ 9th, 2020, KYM interviewed Andr\xE1s Arat\xF3 as part of their editorial series\
+  \ that follows up on people featured in prominent memes. In the interview, he shared\
+  \ his backstory alongside detailed information about how the stock photos became\
+  \ memes and how he ultimately learned to embrace the persona of \"Hide the Pain\
+  \ Harold.\" Notable Examples Search Interest External References [1] Facepunch \u2013\
+  \ original post [2] Imgur \u2013 Hide-the-pain-Harold [3] Facebook \u2013 Hide the\
+  \ Pain Harold [4] Reddit \u2013 Anon tells the story of Hide-the-Pain-Harold [5]\
+  \ MemeCenter \u2013 Hide the pain Harold search results [6] Reddit \u2013 /r/youdontsurf\
+  \ [7] Reddit \u2013 Anon tells the story of Hide-the-Pain-Harold [8] Reddit \u2013\
+  \ Hide the Pain Harold [9] Facebook \u2013 Maurice [10] vk.com \u2013 Andr\xE1s\
+  \ Arat\xF3's Profile [11] vk.com \u2013 pain_harold (Russian) [12] Reddit \u2013\
+  \ We found him [13] Instagram \u2013 fuckitimarobot [14] BoingBoing \u2013 Meme\
+  \ Star Hide The Pain Harold [15] Manchester Evening News \u2013 Meme Star facepunch\
+  \ stock photos harold discomfort stock photo andr\xE1s arat\xF3 greenen72 someshitbag\
+  \ chinnyxd the_shreckoning gigatless fuckitimarobot smillmf dreamstime maurice meme\
+  \ harold Share Pin Related Entries 22 total Guess I'll Die Stock Photo Clich\xE9\
+  s \"I Bet the Jews Did This\" Stocking View All Related Entries Sub-entries 1 total\
+  \ It's a Role Given to Me by th... Recent Images 198 total View All Images Recent\
+  \ Videos 87 total View All Videos Sign up for our Newsletter Load 123 Comments Comments\
+  \ 123 total 236 Hide The Pain Harold 3,064,406 87 198 123 Part of a series on Stock\
+  \ Photography. [View Related Entries] [View Related Sub-entries] Updated Dec 11,\
+  \ 2024 at 04:16PM EST by LiterallyAustin. Added Sep 27, 2014 at 07:59PM EDT by Craftypasta.\
+  \ Like us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press 'i' to view the\
+  \ image gallery, 'v' to view the video gallery, or 'r' to view a random entry. Featured\
+  \ Episode Meme Status Confirmed Type: Character, Image Macro Year 2011 Origin Facepunch\
+  \ Tags facepunch, stock photos, harold, discomfort, stock photo, andr\xE1s arat\xF3\
+  , greenen72, someshitbag, chinnyxd, the_shreckoning, gigatless, fuckitimarobot,\
+  \ smillmf, dreamstime, maurice, meme harold Additional References Dreamstime Facebook\
+  \ Meme Generator Reddit Twitter Urban Dictionary Wikipedia About Hide The Pain Harold,\
+  \ also simply referred to as \"Harold\" or \"Maurice\" is the nickname given to\
+  \ a senior stock photography model whose facial expression appears to indicate suppressed\
+  \ pain and/or discomfort. Origin The earliest known archived thread, where Harold\
+  \ first got attention, can be found on Facepunch, dating back to 2011. On September\
+  \ 13th, Facepunch forum user Greenen72, posted stock photos with the old man[1],\
+  \ originally from the site DreamsTime due to pictures having the site's watermark\
+  \ on them. Spread On October 23rd, 2011, a Facebook page for Hide the Pain Harold[3]\
+  \ was created. Another Facebook page was created on January 1, 2014. This was titled\
+  \ \"Maurice\" (his alternate name) and has over 10k likes.[9] On May 5th, 2014,\
+  \ Harold's stock photos inspired a lengthy tribute thread on 4chan's /b/[7][4],\
+  \ crafting a fictional story about an unhappy old man working as a stock photography\
+  \ model. Then on September 7th, Imgur user someshitbag[2] compiled notable quotes\
+  \ from the 4chan thread into a gallery post titled \"Hide-the-pain-harold,\"[8]\
+  \ which garnered more than 880,000 views in just over three weeks. On September\
+  \ 10th, a Youtuber ChinnyxD uploaded the story, narrated through text-to-speech.\
+  \ On October 31st, 2013, a subreddit community for stock images, including Harold,\
+  \ /r/youdontsurf[6], was created. On sites like MemeCenter[5], stock photos featuring\
+  \ Harold have been edited to image macros, mostly used for sex or similar kinds\
+  \ of jokes. Identity On March 3rd, K\u0151szeg, Hungary resident Andr\xE1s Arat\xF3\
+  [10] identified himself as the man in the stock photo on the pain_harold[11] group\
+  \ on the Russian language social network VK (shown below). On March 5th, 2016, Redditor\
+  \ The_Shreckoning announced Arat\xF3's identity on the /r/youdontsurf[12] subrredit.\
+  \ The same day, YouTuber Gigatless uploaded footage of Arat\xF3 appearing on a Hungarian\
+  \ television game show (shown below, left). On March 6th, the hidyourpain YouTube\
+  \ channel uploaded footage of Arat\xF3 verifying his identity. Manchester Trip On\
+  \ March 23rd, 2018, Instagram user fuckitimarobot[13] posted a photograph of Arat\xF3\
+  \ posing with a fan at a bar with the caption \"So my friend just met Harold tonight.\
+  \ Don't let your memes be dreams\" (shown below). Within 48 hours, the post gained\
+  \ over 16,100 likes. That day, YouTuber smillmf uploaded a mini documentary video\
+  \ of in which Arat\xF3 visits Manchester, England to watch a football game (shown\
+  \ below). In the coming days, articles about the video were published by BoingBoing[14]\
+  \ and Manchester Evening News.[15] TedxTalk In September 2018, Arato hosted a Tedx\
+  \ Talk in Kyiv, Ukraine. In the talk, Arato discusses the story of his life as a\
+  \ \"meme-hero,\" as well as his career as an electrical engineer in Ukraine. His\
+  \ story begins with a vacation in Turkey, where a photograph of him was taken. After\
+  \ uploading the photograph to Facebook, a professional photographer contacted Arato\
+  \ regarding modeling, inviting him to a trial shooting. Both were happy with the\
+  \ results and continue to work together, resulting in a \"couple hundred\" stock\
+  \ photographs. Several months later, Arato began finding the photographs used in\
+  \ a variety of other contexts, outside of the stock photographs he agreed to. While\
+  \ he considered taking action, he says, Arato decided there was not much he could\
+  \ do. There was \"no solution--only a temporary solution.\" In the remainder of\
+  \ the speech, Arato discusses how he began to accept his meme celebrity and his\
+  \ embracing of the notoriety, establishing a homepage for the photographs. On June\
+  \ 25th, 2019, the presentation was uploaded to YouTube. The post received more than\
+  \ 580,000 views in three days (shown below). Interview with Know Your Meme On April\
+  \ 9th, 2020, KYM interviewed Andr\xE1s Arat\xF3 as part of their editorial series\
+  \ that follows up on people featured in prominent memes. In the interview, he shared\
+  \ his backstory alongside detailed information about how the stock photos became\
+  \ memes and how he ultimately learned to embrace the persona of \"Hide the Pain\
+  \ Harold.\" Notable Examples Search Interest External References [1] Facepunch \u2013\
+  \ original post [2] Imgur \u2013 Hide-the-pain-Harold [3] Facebook \u2013 Hide the\
+  \ Pain Harold [4] Reddit \u2013 Anon tells the story of Hide-the-Pain-Harold [5]\
+  \ MemeCenter \u2013 Hide the pain Harold search results [6] Reddit \u2013 /r/youdontsurf\
+  \ [7] Reddit \u2013 Anon tells the story of Hide-the-Pain-Harold [8] Reddit \u2013\
+  \ Hide the Pain Harold [9] Facebook \u2013 Maurice [10] vk.com \u2013 Andr\xE1s\
+  \ Arat\xF3's Profile [11] vk.com \u2013 pain_harold (Russian) [12] Reddit \u2013\
+  \ We found him [13] Instagram \u2013 fuckitimarobot [14] BoingBoing \u2013 Meme\
+  \ Star Hide The Pain Harold [15] Manchester Evening News \u2013 Meme Star Related\
+  \ Entries 22 total Guess I'll Die Stock Photo Clich\xE9s \"I Bet the Jews Did This\"\
+  \ Stocking Identifying Wood Ariane the Overexposed Stock Photo Model Awkward Stock\
+  \ Photos Getty Images Baboons Lemon Car Royalty Free Ukulele Honey, Tell Me What's\
+  \ Wrong I'm Sorry Coach View All Related Entries Sub-entries 1 total It's a Role\
+  \ Given to Me by the Internet People Recent Videos 87 total How 'Hide the Pain Harold'\
+  \ Ac... Hide The Pain Harold Uploaded by Zach hide the pain harold gets chu... Hide\
+  \ The Pain Harold Uploaded by Y F HIDE THE PAIN HAROLD (o av\xF4 d... Hide The Pain\
+  \ Harold Uploaded by Y F How did I become a meme - Hid... Hide The Pain Harold Uploaded\
+  \ by Y F A Disturbing Roblox Avatar... Hide The Pain Harold Uploaded by Y F \u0418\
+  \u0434\u0443\u0449\u0438\u0439 \u043F\u043E \u043E\u043A\u0435\u0430\u043D\u0443\
+  \ Harold \u0434\u0430\u0451\u0442 ... Hide The Pain Harold Uploaded by Y F Hide\
+  \ the Pain Harold: Wer ist... Hide The Pain Harold Uploaded by Y F Hide The Pain\
+  \ Hide The Pain Harold Uploaded by Y F + Add a Video View All Videos Recent Images\
+  \ 198 total Hide The Pain Harold Uploaded by Jaimie Hamilton Hide The Pain Harold\
+  \ Uploaded by Reddit Moments Hide The Pain Harold Uploaded by Triplem Hide The Pain\
+  \ Harold Uploaded by Reddit Moments Hide The Pain Harold Uploaded by Don Hide The\
+  \ Pain Harold Uploaded by Reddit Moments Hide The Pain Harold Uploaded by Reddit\
+  \ Moments Hide The Pain Harold Uploaded by elchew Hide The Pain Harold Uploaded\
+  \ by Reddit Moments Hide The Pain Harold Uploaded by Reddit Moments Hide The Pain\
+  \ Harold Uploaded by ishgoogleman2212 Hide The Pain Harold Uploaded by heuueh +\
+  \ Add an Image View All Images Sign up for our Newsletter Top Comments Delete Sensitive\
+  \ No Sep 27, 2014 at 09:30PM EDT +140 Reply Delete Sensitive Schabbs Sep 28, 2014\
+  \ at 11:12PM EDT This face seems quite familiar, I think i've seen it somewhere\
+  \ else, now where have I seen that before? +127 Reply + Add a Comment Comments (123)\
+  \ Display Comments Add a Comment Top Entries This Month Meme Saika Kawakita Smile\
+  \ GIF Event Assassination of UnitedHealthcare CEO Person Luigi Mangione UHC CEO\
+  \ Shooter Subculture The Ki Sisters Culture Pornography Site Whisper View More Suggest\
+  \ a Change Edit History Entry Editors (16) Craftypasta MScratch Database Moderator\
+  \ & Historical Meme Historian & \u300CStand User\u300D shramorama Brad Digital Archaeologist\
+  \ & Treasurer & Pundit & Gallery Housekeeper The Cute Master :3 Sr. Entry Moderator\
+  \ \xAD\xAD\xADAlex Mercer Entry Moderator & YouTube Scatologist Z. Database Moderator\
+  \ & Rage Comicologist RandomMan Database Moderator & God Tier Swag & Protip Advisor\
+  \ & Karma Tycoon & Meme Boi Shape Sleuth & Scrapbooker & Pundit Don Administrator\
+  \ & Meme Daddy SabrinaTibbetts Memepuff Y F Digital Archaeologist & Treasurer &\
+  \ Media Maid andcallmeshirley Digital Archaeologist & Treasurer & Collection Butler\
+  \ Matt Secretary of Memes s0urce Sleuth Zach Memenator \u25BC + Request Editorship\
+  \ View All Editors Today's Top Image Galleries Assassination of UnitedHealthcare\
+  \ CEO Squirrel Girl (Doreen Green) Team Fortress 2 The Amazing Digital Circus About\
+  \ Our Story Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes\
+  \ News Staff Contact Extras! Style Guide RSS Feeds"
+source: https://knowyourmeme.com/memes/hide-the-pain-harold
+template_id: harold
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

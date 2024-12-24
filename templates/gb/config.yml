@@ -1,59 +1,218 @@
-name: Galaxy Brain
-source: https://knowyourmeme.com/memes/galaxy-brain
-keywords:
-  -
-text:
-  - style: none
-    color: black
-    font: thin
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 0.49
-    scale_y: 0.245
-    align: center
-    start: 0.1
-    stop: 1.0
-  - style: none
-    color: black
-    font: thin
-    anchor_x: 0.0
-    anchor_y: 0.255
-    angle: 0.0
-    scale_x: 0.49
-    scale_y: 0.246
-    align: center
-    start: 0.3
-    stop: 1.0
-  - style: none
-    color: black
-    font: thin
-    anchor_x: 0.0
-    anchor_y: 0.51
-    angle: 0.0
-    scale_x: 0.489
-    scale_y: 0.224
-    align: center
-    start: 0.5
-    stop: 1.0
-  - style: none
-    color: black
-    font: thin
-    anchor_x: 0.0
-    anchor_y: 0.746
-    angle: 0.0
-    scale_x: 0.49
-    scale_y: 0.255
-    align: center
-    start: 0.7
-    stop: 1.0
 example:
-  - Who
-  - Whom
-  - Whom'st
-  - Whomst'd
+- Who
+- Whom
+- Whom'st
+- Whomst'd
+keywords:
+- null
+name: Galaxy Brain
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Galaxy Brain | Know Your Meme O HAI! You must login or signup first!\
+  \ Already a memeber? Login Now! Don't have an account? Sign up Now! Meme Encyclopedia\
+  \ All Cultures Events People Sites Subcultures Videos Submit \u2192 Images Trending\
+  \ Most Commented Most Favorited High Score Low Score Most Viewed All Templates Upload\
+  \ an Image Articles News Explainers Collections Interviews Meme Insider Magazine\
+  \ More Discord Newsletter Episodes Forums Meme Store Login Abstract user icon Memes\
+  \ Categories Trending News Images Trending Images Videos Trending Videos Editorials\
+  \ Meme Insider Magazine Newsletter Policies and Guidelines Meme Store Old site Login\
+  \ Know Your Meme is the property of Literally Media \xA92024 Literally Media. All\
+  \ Rights Reserved. This image Of Woman Confidently Strolling Through A Glass Panel\
+  \ Has Been A Redraw Format Since 2021 Three Years Ago, This Boar's Head 'Exploded'\
+  \ Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess Memes Turns Two Years\
+  \ Old Today Phrase 'The Fridge Protects The Snacks' A Growing Favorite Among Pickup\
+  \ Artist Influencers Jamie G, The Bosh British Charva, Has Taken Over TikTok With\
+  \ His Signature 'Oh Cherie Amour' Sound Also Trending: Honey Extension Influencer\
+  \ Scam Renegade Raider Copypasta Galaxy Brain Added 7 years ago / Updated 2 years\
+  \ ago Confirmed 1,341,986 Part of a series on Whomst. [View Related Entries] [View\
+  \ Related Sub-entries] View All 780 Images Navigation About \u2022 Origin \u2022\
+  \ Spread \u2022 Similar Memes \u2022 Various Examples \u2022 Search Interest \u2022\
+  \ External References \u2022 Recent Images \u2022 Recent Videos About Galaxy Brain,\
+  \ also known as Expanding Brain, is a multi-panel exploitable image series comparing\
+  \ the brain size of a person relative to other variables. Though the expanding brain\
+  \ is usually implied to showcase intellectual superiority over various objects,\
+  \ it is more often used in an ironic sense to imply the opposite, where objects\
+  \ of derision are implied to be of higher standard than objects that are usually\
+  \ highly regarded. For example, when used with Whomst, a person who uses \"who\"\
+  \ will be shown with the smallest brain, while a person who uses the most ridiculous\
+  \ variation, i.e. \"whomst'd've\", will be shown with the largest brain. Origin\
+  \ This meme originated as part of the \"Whomst\" meme where the left column was\
+  \ derivations of the word \"Who\" were paired with increasingly elaborate pictures\
+  \ of brains depending on how intense the \"who\" variation was. One of the most\
+  \ popular early examples was posted to /r/dankmemes on Reddit on January 31st, 2017\
+  \ by janskishimanski[1] in a post that gained nearly 1,200 upvotes. Spread As \"\
+  whomst\" variations on the Expanding Brain template grew more elaborate, other subjects\
+  \ were applied to Expanding Brain, such as video games and politics. Expanding Brain\
+  \ variations continued appearing on /r/dankmemes and /r/MemeEconomy throughout the\
+  \ month of February. A video version of the meme posted by user BagelBoy in February\
+  \ 2017 gained over 2.1 million views (shown below). The meme was covered by media\
+  \ outlets including PopSugar,[3] New York Magazine,[4] Mic,[5] and others. Similar\
+  \ Memes The template of the Expanding Brain meme has been used with various other\
+  \ characters. Vince McMahon Reaction While the Vince McMahon Reaction existed as\
+  \ a video and GIF meme prior to its use as an Expanding Brain meme, the clips of\
+  \ McMahon were used in the Expanding Brain template after that meme got popular.\
+  \ Motion Blurred Astronaut Motion Blurred Astronaut refers to three images of an\
+  \ astronaut in a photography textbook taken to demonstrate the effect shutter speed\
+  \ can have on motion-blur. It began being used in memes in April 2017 due to its\
+  \ aesthetic similarity to other popular memes of the time which use motion-blur\
+  \ and distortion effects. On April 2nd, 2017, Tumblr user the-captains-on-shore-leave\
+  \ uploaded a picture of a photography textbook demonstrating the effects shutter\
+  \ speed has on motion blur by showing three different pictures of an astronaut.\
+  \ They captioned the post, shown below, \"i can\u2019t stop laughing like i know\
+  \ it\u2019s supposed to be educating me on shutter speed but it just looks like\
+  \ a fucking meme.\" The post has gained over 35,000 notes as of April 11th. Various\
+  \ Examples Drake Sprite Commercial Remix In 2010, Sprite released a commercial featuring\
+  \ rapper Drake, drinking a Sprite while recording and exploding (shown below). Eight\
+  \ years later, a series of Expanding Brain memes featuring three respective stages\
+  \ of Drake's explosion.[2] On June 23rd, 2018, Instagram account @SonnySideUp[6]\
+  \ posted a Tanking the Bus Driver edition of the meme, garnering 43,600 likes within\
+  \ the first 90 days. Two days later, it was shared on Reddit. Shortly after, more\
+  \ users began using the format (examples below, center / right). Various Examples\
+  \ Search Interest External References [1] /r/dankmemes \u2013 whomst'd [2] Billboard\
+  \ \u2013 Drake Teams With Sprite for 'Spark' Campaign [3] Popsugar \u2013 The Internet\
+  \ Is Obsessed With This New Meme About How Smart People Are [4] Intelligencer (formerly\
+  \ Select All) \u2013 What Level of Brain-Meme Irony Are You On? [5] Mic \u2013 The\
+  \ expanding brain meme will take you to new frontiers of knowledge and understanding\
+  \ [6] Instagram \u2013 @SonnySideUp's Post brain expanding knowledge whomst intelligence\
+  \ exploitable image series janskishimanski bagelboy galaxy brain the-captains-on-shore-leave\
+  \ sonnysideup galaxybrain galaxybrainf Share Pin Sub-entries 2 total Motion Blurred\
+  \ Astronaut Making Memes Recent Images 780 total View All Images Recent Videos 29\
+  \ total View All Videos Sign up for our Newsletter Load 46 Comments Comments 46\
+  \ total 144 Galaxy Brain 1,341,988 29 780 46 Part of a series on Whomst. [View Related\
+  \ Entries] [View Related Sub-entries] Updated May 17, 2022 at 11:09AM EDT by Zach.\
+  \ Added Feb 17, 2017 at 06:58PM EST by TheYolocast. Like us on Facebook! Like 1.8M\
+  \ Share Save Tweet PROTIP: Press 'i' to view the image gallery, 'v' to view the\
+  \ video gallery, or 'r' to view a random entry. Meme Status Confirmed Type: Exploitable\
+  \ Year 2017 Origin Reddit Tags brain, expanding, knowledge, whomst, intelligence,\
+  \ exploitable, image series, janskishimanski, bagelboy, galaxy brain, the-captains-on-shore-leave,\
+  \ sonnysideup, galaxybrain, galaxybrainf Additional References Facebook Meme Generator\
+  \ Reddit About Galaxy Brain, also known as Expanding Brain, is a multi-panel exploitable\
+  \ image series comparing the brain size of a person relative to other variables.\
+  \ Though the expanding brain is usually implied to showcase intellectual superiority\
+  \ over various objects, it is more often used in an ironic sense to imply the opposite,\
+  \ where objects of derision are implied to be of higher standard than objects that\
+  \ are usually highly regarded. For example, when used with Whomst, a person who\
+  \ uses \"who\" will be shown with the smallest brain, while a person who uses the\
+  \ most ridiculous variation, i.e. \"whomst'd've\", will be shown with the largest\
+  \ brain. Origin This meme originated as part of the \"Whomst\" meme where the left\
+  \ column was derivations of the word \"Who\" were paired with increasingly elaborate\
+  \ pictures of brains depending on how intense the \"who\" variation was. One of\
+  \ the most popular early examples was posted to /r/dankmemes on Reddit on January\
+  \ 31st, 2017 by janskishimanski[1] in a post that gained nearly 1,200 upvotes. Spread\
+  \ As \"whomst\" variations on the Expanding Brain template grew more elaborate,\
+  \ other subjects were applied to Expanding Brain, such as video games and politics.\
+  \ Expanding Brain variations continued appearing on /r/dankmemes and /r/MemeEconomy\
+  \ throughout the month of February. A video version of the meme posted by user BagelBoy\
+  \ in February 2017 gained over 2.1 million views (shown below). The meme was covered\
+  \ by media outlets including PopSugar,[3] New York Magazine,[4] Mic,[5] and others.\
+  \ Similar Memes The template of the Expanding Brain meme has been used with various\
+  \ other characters. Vince McMahon Reaction While the Vince McMahon Reaction existed\
+  \ as a video and GIF meme prior to its use as an Expanding Brain meme, the clips\
+  \ of McMahon were used in the Expanding Brain template after that meme got popular.\
+  \ Motion Blurred Astronaut Motion Blurred Astronaut refers to three images of an\
+  \ astronaut in a photography textbook taken to demonstrate the effect shutter speed\
+  \ can have on motion-blur. It began being used in memes in April 2017 due to its\
+  \ aesthetic similarity to other popular memes of the time which use motion-blur\
+  \ and distortion effects. On April 2nd, 2017, Tumblr user the-captains-on-shore-leave\
+  \ uploaded a picture of a photography textbook demonstrating the effects shutter\
+  \ speed has on motion blur by showing three different pictures of an astronaut.\
+  \ They captioned the post, shown below, \"i can\u2019t stop laughing like i know\
+  \ it\u2019s supposed to be educating me on shutter speed but it just looks like\
+  \ a fucking meme.\" The post has gained over 35,000 notes as of April 11th. Various\
+  \ Examples Drake Sprite Commercial Remix In 2010, Sprite released a commercial featuring\
+  \ rapper Drake, drinking a Sprite while recording and exploding (shown below). Eight\
+  \ years later, a series of Expanding Brain memes featuring three respective stages\
+  \ of Drake's explosion.[2] On June 23rd, 2018, Instagram account @SonnySideUp[6]\
+  \ posted a Tanking the Bus Driver edition of the meme, garnering 43,600 likes within\
+  \ the first 90 days. Two days later, it was shared on Reddit. Shortly after, more\
+  \ users began using the format (examples below, center / right). Various Examples\
+  \ Search Interest External References [1] /r/dankmemes \u2013 whomst'd [2] Billboard\
+  \ \u2013 Drake Teams With Sprite for 'Spark' Campaign [3] Popsugar \u2013 The Internet\
+  \ Is Obsessed With This New Meme About How Smart People Are [4] Intelligencer (formerly\
+  \ Select All) \u2013 What Level of Brain-Meme Irony Are You On? [5] Mic \u2013 The\
+  \ expanding brain meme will take you to new frontiers of knowledge and understanding\
+  \ [6] Instagram \u2013 @SonnySideUp's Post Sub-entries 2 total Motion Blurred Astronaut\
+  \ Making Memes Recent Videos 29 total EXPANDING BRAIN (which is kin... Galaxy Brain\
+  \ Uploaded by andcallmeshirley Expanding brain Galaxy Brain Uploaded by andcallmeshirley\
+  \ Just an expanding brain meme Galaxy Brain Uploaded by andcallmeshirley brain expansion\
+  \ meme haha Galaxy Brain Uploaded by andcallmeshirley Expanding Brain Meme - Ninten...\
+  \ Galaxy Brain Uploaded by andcallmeshirley Expanding Brain Meme Compilation Galaxy\
+  \ Brain Uploaded by andcallmeshirley Two Decades of Memes: Expandi... Galaxy Brain\
+  \ Uploaded by andcallmeshirley Brain Meme Galaxy Brain Uploaded by andcallmeshirley\
+  \ + Add a Video View All Videos Recent Images 780 total Galaxy Brain Uploaded by\
+  \ DarkMaster1333 Galaxy Brain Uploaded by ncolon9929 Galaxy Brain Uploaded by ncolon9929\
+  \ Galaxy Brain Uploaded by Aidan Walker Galaxy Brain Uploaded by TheBBQStarz Galaxy\
+  \ Brain Uploaded by Evilthing Galaxy Brain Uploaded by AverageZoomer Galaxy Brain\
+  \ Uploaded by Johnson Tran Galaxy Brain Uploaded by TOMNICE Galaxy Brain Uploaded\
+  \ by Evilthing Galaxy Brain Uploaded by gothaya Galaxy Brain Uploaded by Reddit\
+  \ Moments + Add an Image View All Images Sign up for our Newsletter Top Comments\
+  \ Delete Sensitive MahWaht Feb 18, 2017 at 12:13PM EST +106 Reply Delete Sensitive\
+  \ Mistress Fortune Feb 19, 2017 at 07:12PM EST The images in the gallery seem to\
+  \ be more of a mix of ironic and unironic usage of the meme so it certainly feels\
+  \ like the usage of this fad varies from person to person. One that's clearly meant\
+  \ to be ironic: And then one that certainly feels unironic: +48 Reply + Add a Comment\
+  \ Comments (46) Display Comments Add a Comment Top Entries This Month Meme Saika\
+  \ Kawakita Smile GIF Event Assassination of UnitedHealthcare CEO Person Luigi Mangione\
+  \ UHC CEO Shooter Subculture The Ki Sisters Culture Pornography Site Whisper View\
+  \ More Suggest a Change Edit History Entry Editors (14) TheYolocast The Spicy Meme\
+  \ Himself Sleuth Precious Roy Deactivated 3kole5 Sr. Entry Moderator Adam Know Your\
+  \ Meme Universal Champion Brad Digital Archaeologist & Treasurer & Pundit & Gallery\
+  \ Housekeeper LNH Deactivated Y F Digital Archaeologist & Treasurer & Media Maid\
+  \ Matt Secretary of Memes Don Administrator & Meme Daddy andcallmeshirley Digital\
+  \ Archaeologist & Treasurer & Collection Butler Kevinvq2 Sr. Researcher & Scrapbooker\
+  \ & Media Chauffeur Philipp Memesplainer Zach Memenator \u25BC + Request Editorship\
+  \ View All Editors Today's Top Image Galleries Assassination of UnitedHealthcare\
+  \ CEO Team Fortress 2 Squirrel Girl (Doreen Green) The Amazing Digital Circus About\
+  \ Our Story Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes\
+  \ News Staff Contact Extras! Style Guide RSS Feeds"
+source: https://knowyourmeme.com/memes/galaxy-brain
+template_id: gb
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: black
+  font: thin
+  scale_x: 0.49
+  scale_y: 0.245
+  start: 0.1
+  stop: 1.0
+  style: none
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.255
+  angle: 0.0
+  color: black
+  font: thin
+  scale_x: 0.49
+  scale_y: 0.246
+  start: 0.3
+  stop: 1.0
+  style: none
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.51
+  angle: 0.0
+  color: black
+  font: thin
+  scale_x: 0.489
+  scale_y: 0.224
+  start: 0.5
+  stop: 1.0
+  style: none
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.746
+  angle: 0.0
+  color: black
+  font: thin
+  scale_x: 0.49
+  scale_y: 0.255
+  start: 0.7
+  stop: 1.0
+  style: none
+text_zones: 4

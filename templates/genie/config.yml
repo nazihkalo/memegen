@@ -1,35 +1,48 @@
-name: Genie Lamp
-source: https://imgflip.com/memetemplate/205390462
-keywords:
-  - Aladin
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - phenomenal cosmic power
-  - itty bitty living space
+- phenomenal cosmic power
+- itty bitty living space
+keywords:
+- Aladin
+name: Genie Lamp
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Aladdin Genie Phenomenal Cosmic Power Itty Bitty Living Space Blank\
+  \ Template - Imgflip Create Make a Meme Make a GIF Make a Chart Make a Demotivational\
+  \ Aladdin Genie Phenomenal Cosmic Power Itty Bitty Living Space Template Outrageous\
+  \ claim with much smaller revelation Caption this Meme All Meme Templates Template\
+  \ ID: 205390462 Format: png Dimensions: 984x1067 px Filesize: 841 KB Uploaded by\
+  \ an Imgflip user 5 years ago Featured Aladdin Genie Phenomenal Cosmic Power Itty\
+  \ Bitty Living Space Memes see all Aladdin Genie Phenomenal Cosmic Power Itty Bitty\
+  \ Living Space memes Imgflip Pro GIF Maker Meme Generator Blank Meme Templates GIF\
+  \ Templates Chart Maker Demotivational Maker Image Resizer About Privacy Terms API\
+  \ Slack App Request Image Removal Facebook Twitter Android App Chrome Extension\
+  \ Empowering creativity on teh interwebz Imgflip LLC 2024\t\tAre you a web developer?"
+source: https://imgflip.com/memetemplate/205390462
+template_id: genie
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

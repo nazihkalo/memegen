@@ -1,35 +1,110 @@
-name: Grumpy Cat
-source: https://imgflip.com/memegenerator/Grumpy-Cat
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - i hope that what does not kill you
-  - tries again
+- i hope that what does not kill you
+- tries again
+keywords:
+- null
+name: Grumpy Cat
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Grumpy Cat Meme Generator - Imgflip Create Make a Meme Make a GIF\
+  \ Make a Chart Make a Demotivational s Grumpy Cat Meme Generator The Fastest Meme\
+  \ Generator on the Planet. Easily add text to images or memes. Draw Add Image Spacing\
+  \ No Spacing Top & Bottom Top Bottom Auto Color White Black Custom 5% 10% 15% 20%\
+  \ 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 100% Upload new template\
+  \ Popular My Include NSFW GIFs Only loading... BlankAIView All Meme Templates (1,000s\
+  \ more...) 4:3 1:1 2:3 \xD7 \u2190 Background color. Click to change. Smart Posterize\
+  \ JPEG Degrade JPEG Min Quality Median Filter Blur Sharpen Grayscale Sepia Invert\
+  \ Brightness Generate meme text with AI. AI-Generate More Options Add Text Effects\
+  \ AI Note: font can be customized per-textbox by clicking the gear icon. Enable\
+  \ drag/drop & resize Use resolution of original template image, do not resize. Potentially\
+  \ higher quality, but larger filesize. Tip: If you log in, your memes will be saved\
+  \ in your account Private (must download image to save or share) Create Anonymously\
+  \ Remove \"imgflip.com\" watermark Generate Meme Reset Save Text Box Settings Featured\
+  \ Grumpy Cat Memes See All What is the Meme Generator? It's a free online image\
+  \ maker that lets you add custom resizable text, images, and much more to templates.\
+  \ People often use the generator to customize established memes, such as those found\
+  \ in Imgflip's collection of Meme Templates. However, you can also upload your own\
+  \ templates or start from scratch with empty templates. How to make a meme Choose\
+  \ a template. You can use one of the popular templates, search through more than\
+  \ 1 million user-uploaded templates using the search input, or hit \"Upload new\
+  \ template\" to upload your own template from your device or from a url. For designing\
+  \ from scratch, try searching \"empty\" or \"blank\" templates. Add customizations.\
+  \ Add text, images, stickers, drawings, and spacing using the buttons beside your\
+  \ meme canvas. Create and share. Hit \"Generate Meme\" and then choose how to share\
+  \ and save your meme. You can share to social apps or through your phone, or share\
+  \ a link, or download to your device. You can also share with one of Imgflip's many\
+  \ meme communities. How can I customize my meme? You can move and resize the text\
+  \ boxes by dragging them around. If you're on a mobile device, you may have to first\
+  \ check \"enable drag/drop\" in the More Options section. You can add as many additional\
+  \ text boxes as you want with the Add Text button. You can customize the font color\
+  \ and outline color next to where you type your text. You can further customize\
+  \ the font for each text box using the gear icon next to the text input. Imgflip\
+  \ supports all fonts installed on your device including the default Windows, Mac,\
+  \ and web fonts, including bold and italic. Over 1,300 free fonts are also supported\
+  \ for all devices. Any other font you want can be used if you first install it on\
+  \ your device and then type in the font name on Imgflip. You can insert popular\
+  \ or custom stickers and other images including scumbag hats, deal-with-it sunglasses,\
+  \ speech bubbles, and more. Opacity and resizing are supported, and you can copy/paste\
+  \ images using CMD/CTRL + C/V for quick creation. You can rotate, flip, and crop\
+  \ any templates you upload. You can draw, outline, or scribble on your meme using\
+  \ the panel just above the meme preview image. You can create \"meme chains\" of\
+  \ multiple images stacked vertically by adding new images with the \"below current\
+  \ image\" setting. You can add special image effects like posterize, jpeg artifacts,\
+  \ blur, sharpen, and color filters like grayscale, sepia, invert, and brightness.\
+  \ You can remove our subtle imgflip.com watermark (as well as remove ads and supercharge\
+  \ your image creation abilities) using Imgflip Pro or Imgflip Pro Basic. Can I use\
+  \ the generator for more than just memes? Yes! The Meme Generator is a flexible\
+  \ tool for many purposes. By uploading custom images and using all the customizations,\
+  \ you can design many creative works including posters, banners, advertisements,\
+  \ and other custom graphics. Can I make animated or video memes? Yes! Animated meme\
+  \ templates will show up when you search in the Meme Generator above (try \"party\
+  \ parrot\"). If you don't find the meme you want, browse all the GIF Templates or\
+  \ upload and save your own animated template using the GIF Maker. Do you have a\
+  \ wacky AI that can write memes for me? Funny you ask. Why yes, we do. Here you\
+  \ go: imgflip.com/ai-meme (warning, may contain vulgarity) Free Basic Pro Access\
+  \ over 1 million meme templates Yes Yes Yes Disable ads No Yes Yes AI creation tools\
+  \ No Yes Yes Remove imgflip.com watermark when creating memes No Yes Yes Remove\
+  \ watermark from GIFs. Higher quality GIFs. No No Yes 3.95/mo 9.95/mo selected Go\
+  \ Pro 4.95 / month 3.95 / month Bill Yearly (save 20%) Pay with Card Free Pro Remove\
+  \ \"imgflip.com\" watermark when creating GIFs and memes No Yes Disable all ads\
+  \ on Imgflip (faster pageloads!) No Yes. Ads won't be shown to users viewing your\
+  \ images either. Crop, Rotate, Reverse, Forverse\u2728, Draw, Slow Mo, or add text\
+  \ & images to your GIFs Yes Yes Video to GIF Max frames per GIF 160 1600 (better\
+  \ framerate, smoother animation) Max Dimensions 360x360 (not HD) Unlimited (HD,\
+  \ UHD, & beyond!) Max Total Resolution (Frames \xD7 Width \xD7 Height) 12M 240M\
+  \ Max Video Segment Length 24 Seconds 240 Seconds Sound on GIFs No Yes Images to\
+  \ GIF Max frames per GIF 1600 Unlimited Max Dimensions 500x500 (not HD) Unlimited\
+  \ (HD, UHD, & beyond!) 12.95 / month 9.95 / month Bill Yearly (save 23%) Pay with\
+  \ Card Imgflip Pro GIF Maker Meme Generator Blank Meme Templates GIF Templates Chart\
+  \ Maker Demotivational Maker Image Resizer About Privacy Terms API Slack App Request\
+  \ Image Removal Facebook Twitter Android App Chrome Extension Empowering creativity\
+  \ on teh interwebz Imgflip LLC 2024\t\tAre you a web developer?"
+source: https://imgflip.com/memegenerator/Grumpy-Cat
+template_id: grumpycat
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

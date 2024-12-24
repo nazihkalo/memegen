@@ -1,35 +1,248 @@
-name: Philosoraptor
-source: http://knowyourmeme.com/memes/philosoraptor
-keywords:
-  -
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - if the earth is the third planet from the sun
-  - then isn't every country a third world country?
+- if the earth is the third planet from the sun
+- then isn't every country a third world country?
+keywords:
+- null
+name: Philosoraptor
 overlay:
-  - center_x: 0.5
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.25
+- angle: 0.0
+  center_x: 0.5
+  center_y: 0.5
+  scale: 0.25
+scraped_content: "Philosoraptor | Know Your Meme Namaste! You must login or signup\
+  \ first! Already a memeber? Login Now! Don't have an account? Sign up Now! Meme\
+  \ Encyclopedia All Cultures Events People Sites Subcultures Videos Submit \u2192\
+  \ Images Trending Most Commented Most Favorited High Score Low Score Most Viewed\
+  \ All Templates Upload an Image Articles News Explainers Collections Interviews\
+  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
+  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
+  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
+  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
+  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
+  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
+  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
+  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
+  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
+  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
+  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
+  \ CEO Philosoraptor Added 15 years ago / Updated 12 days ago Confirmed 3,254,684\
+  \ Part of a series on Advice Animals. [View Related Entries] View All 694 Images\
+  \ Featured Episode Navigation About \u2022 Origin \u2022 Spread \u2022 Notable Examples\
+  \ \u2022 Search Interest \u2022 External References \u2022 Recent Images \u2022\
+  \ Recent Videos About Philosoraptor is an advice animal image macro series featuring\
+  \ an illustration of a Velociraptor paired with captions depicting the dinosaur\
+  \ as being deeply immersed in metaphysical inquiries or unraveling quirky paradoxes.\
+  \ Origin On October 8th, 2008, the original illustration of the Philosoraptor was\
+  \ released and copyrighted by creator Sam Smith as a T-shirt design for sale on\
+  \ the online retailer Lonely Dinosaur[1] (shown below). In an e-mail exchange with\
+  \ Know Your Meme, Smith revealed that the idea for \"Philosoraptor\" image was conceived\
+  \ sometime in the early of summer of 2008. The final image wasn't created until\
+  \ late summer and the t-shirts went into production in August and September that\
+  \ year. The image itself was a mix of several images of velociraptors I got online,\
+  \ which I compressed to one-color images, then mixed together. I took the jaw off\
+  \ of one at the mouth, and cut it open to make the mouth look like it was hanging\
+  \ open. The claw was based off an image of an eagle talon that I flattened, drew\
+  \ in some bits, and moved and enlarged one of them to make the raptor-like claw.\
+  \ The last thing I did was nudge the eye slit over to the right like three times,\
+  \ and that pulled it all together- really gives him that far-away look. It was inspired\
+  \ by our friend Devin, who was a philosophy major and was always hunched over his\
+  \ desk thinking, so we called him the philosoraptor. We had never heard of it before\
+  \ at the time, but apparently the joke had been made previously on the interwebs.\
+  \ On 4chan On March 30th, 2007,[3] the earliest known depiction of a Philosoraptor\
+  \ dinosaur was posted on YTMND page titled \"New species of dinosaur discovered!\"\
+  , featuring a photoshopped image of a Velociraptor from the 1993 action film Jurassic\
+  \ Park holding a copy of Plato's complete works (shown below, left). On February\
+  \ 18th, 2009, the earliest archived appearance of an image macro featuring the Lonely\
+  \ Dinosaur illustration was posted on 4chan /b/ board.[5] Etymology Although \"\
+  Philosoraptor\" (combination of Philosopher and velociraptor) appears on the original\
+  \ t-shirt design, the portmanteau word has been used elsewhere prior to the release\
+  \ of Lonely Dinosaur merchandises. Due to the similar sounds of the two words, it\
+  \ is quite likely that various people arrived at the concept of a Philosoraptor\
+  \ independent of one another. One of the earliest mentions of \"philosoraptor\"\
+  \ on the web can be found in a quote by a ten-year-old Hope from Kentucky, originally\
+  \ posted via children's site EnchantedLearning[4] on December 28th, 1998: I like\
+  \ the philosoraptor because it spits an acidy type of substance in its victims eyes.\
+  \ I saw this dinosaur in the movie Jurassic Park and I did a report on it also.\
+  \ This dinosaur is da bomb. \"Philosoraptor\" has been also used as online identities\
+  \ on various occasions, most notably the politics-religion blog Philosoraptor,[8]\
+  \ which has been active since March 2003, and a notorious debater named \"Philosoraptor\"\
+  \ on Democratic Underground forums[7]. Spread In November 2009, Philosoraptor was\
+  \ added to the Advice Dog \"variations\" section on Encyclopedia Dramatica.[9] On\
+  \ November 26th, an entry for Philosoraptor was created on Urban Dictionary[2] (shown\
+  \ below). In December that year, Sam Smith sent an e-mail to inform the Lonely Dinosaur\
+  \ staff that was fine with the image being used as a meme: We're not exactly sure\
+  \ who started putting text over it, and far be it from us to try and control a meme\u2026\
+  \ We put a creative commons non-commercial license on it, so all your stuff is cool\
+  \ and we think what you're doing is great, but now everyone thinks that the shirt\
+  \ we're selling is just something we cut and pasted off the web, which kind of sucks\
+  \ for us. It'd be cool to see if we could put our side of the story out there and\
+  \ see if we can find the person who first put text over it, and have a complete\
+  \ history of origin of the meme. On October 25th, 2010, the Internet humor blog\
+  \ Smosh[10] published a listicle featuring 20 notable Philosoraptor examples. On\
+  \ November 23rd, the Internet news blog Mary Sue[11] posted an image gallery highlighting\
+  \ 50 Philosoraptor examples. By July 2011, Philosoraptor reached the \"God Tier\"\
+  \ on Memegenerator[6] with over 38,000 instances and 12 different templates. On\
+  \ December 29th, YouTuber Chris Schultz published an original pop song featuring\
+  \ lyrics inspired by Philosoraptor images (shown below, left). On August 28th, 2012,\
+  \ the animeme YouTube channel uploaded several animated versions of Philosoraptor\
+  \ image macros (shown below, right). In October 2013, a thread inviting users to\
+  \ post the best Philosoraptor jokes was submitted to the discussion site Quora.[12]\
+  \ On March 30th, 2016, the news site Observer[13] published an article describing\
+  \ the history of Philosoraptor and several other classic internet memes. Notable\
+  \ Examples Search Interest The largest peak in Philosoraptor queries began in December\
+  \ of 2008, two months following Smith's copyright registration. External References\
+  \ [1] LonelyDinosaur (via Wayback Machine) \u2013 Philosoraptor Shirt [2] Urban\
+  \ Dictionary \u2013 Philosoraptor [3] YTMND \u2013 New species of dinosaur discovered!\
+  \ [4] EnchantedLearning \u2013 Dinosaur Favorites [5] chanarchive (via Wayback Machine)\
+  \ \u2013 Philosoraptor [6] MemeGenerator (via Wayback Machine) \u2013 Philosoraptor\
+  \ [7] Democratic Underground Forum \u2013 Search Results for Philosoraptor [8] Blogspot\
+  \ \u2013 Philosoraptor [9] Encyclopedia Dramatica \u2013 Philosoraptor (page unavailable)\
+  \ [10] Smosh (via Wayback Machine) \u2013 The 20 Wisest Philosoraptor Quotes [11]\
+  \ The Mary Sue \u2013 Philosoraptors 50 Wisest Musings [12] Quora- What are the\
+  \ best philosoraptor jokes [13] Observer \u2013 The Origin Stories Behind 5 of the\
+  \ Internets Most Popular Memes philosoraptor raptor philosophy 4chan advice dog\
+  \ sam smith plato this dinosaur is da bomb single character image macro lonely dinosaur\
+  \ chris schultz Share Pin Related Entries 115 total Ermahgerd Overly Attached Girlfriend\
+  \ Scumbag Steve Good Guy Greg View All Related Entries Recent Images 694 total View\
+  \ All Images Recent Videos 7 total View All Videos Sign up for our Newsletter Load\
+  \ 94 Comments Comments 94 total 303 Philosoraptor 3,254,684 7 694 94 Part of a series\
+  \ on Advice Animals. [View Related Entries] Updated Dec 11, 2024 at 12:14PM EST\
+  \ by LiterallyAustin. Added Mar 21, 2009 at 02:45AM EDT by kikinak. Like us on Facebook!\
+  \ Like 1.8M Share Save Tweet PROTIP: Press 'i' to view the image gallery, 'v' to\
+  \ view the video gallery, or 'r' to view a random entry. Featured Episode Meme Status\
+  \ Confirmed Type: Image Macro Year 2008 Origin 4chan Tags philosoraptor, raptor,\
+  \ philosophy, 4chan, advice dog, sam smith, plato, this dinosaur is da bomb, single\
+  \ character image macro, lonely dinosaur, chris schultz Additional References Encyclopedia\
+  \ Dramatica Meme Generator Urban Dictionary About Philosoraptor is an advice animal\
+  \ image macro series featuring an illustration of a Velociraptor paired with captions\
+  \ depicting the dinosaur as being deeply immersed in metaphysical inquiries or unraveling\
+  \ quirky paradoxes. Origin On October 8th, 2008, the original illustration of the\
+  \ Philosoraptor was released and copyrighted by creator Sam Smith as a T-shirt design\
+  \ for sale on the online retailer Lonely Dinosaur[1] (shown below). In an e-mail\
+  \ exchange with Know Your Meme, Smith revealed that the idea for \"Philosoraptor\"\
+  \ image was conceived sometime in the early of summer of 2008. The final image wasn't\
+  \ created until late summer and the t-shirts went into production in August and\
+  \ September that year. The image itself was a mix of several images of velociraptors\
+  \ I got online, which I compressed to one-color images, then mixed together. I took\
+  \ the jaw off of one at the mouth, and cut it open to make the mouth look like it\
+  \ was hanging open. The claw was based off an image of an eagle talon that I flattened,\
+  \ drew in some bits, and moved and enlarged one of them to make the raptor-like\
+  \ claw. The last thing I did was nudge the eye slit over to the right like three\
+  \ times, and that pulled it all together- really gives him that far-away look. It\
+  \ was inspired by our friend Devin, who was a philosophy major and was always hunched\
+  \ over his desk thinking, so we called him the philosoraptor. We had never heard\
+  \ of it before at the time, but apparently the joke had been made previously on\
+  \ the interwebs. On 4chan On March 30th, 2007,[3] the earliest known depiction of\
+  \ a Philosoraptor dinosaur was posted on YTMND page titled \"New species of dinosaur\
+  \ discovered!\", featuring a photoshopped image of a Velociraptor from the 1993\
+  \ action film Jurassic Park holding a copy of Plato's complete works (shown below,\
+  \ left). On February 18th, 2009, the earliest archived appearance of an image macro\
+  \ featuring the Lonely Dinosaur illustration was posted on 4chan /b/ board.[5] Etymology\
+  \ Although \"Philosoraptor\" (combination of Philosopher and velociraptor) appears\
+  \ on the original t-shirt design, the portmanteau word has been used elsewhere prior\
+  \ to the release of Lonely Dinosaur merchandises. Due to the similar sounds of the\
+  \ two words, it is quite likely that various people arrived at the concept of a\
+  \ Philosoraptor independent of one another. One of the earliest mentions of \"philosoraptor\"\
+  \ on the web can be found in a quote by a ten-year-old Hope from Kentucky, originally\
+  \ posted via children's site EnchantedLearning[4] on December 28th, 1998: I like\
+  \ the philosoraptor because it spits an acidy type of substance in its victims eyes.\
+  \ I saw this dinosaur in the movie Jurassic Park and I did a report on it also.\
+  \ This dinosaur is da bomb. \"Philosoraptor\" has been also used as online identities\
+  \ on various occasions, most notably the politics-religion blog Philosoraptor,[8]\
+  \ which has been active since March 2003, and a notorious debater named \"Philosoraptor\"\
+  \ on Democratic Underground forums[7]. Spread In November 2009, Philosoraptor was\
+  \ added to the Advice Dog \"variations\" section on Encyclopedia Dramatica.[9] On\
+  \ November 26th, an entry for Philosoraptor was created on Urban Dictionary[2] (shown\
+  \ below). In December that year, Sam Smith sent an e-mail to inform the Lonely Dinosaur\
+  \ staff that was fine with the image being used as a meme: We're not exactly sure\
+  \ who started putting text over it, and far be it from us to try and control a meme\u2026\
+  \ We put a creative commons non-commercial license on it, so all your stuff is cool\
+  \ and we think what you're doing is great, but now everyone thinks that the shirt\
+  \ we're selling is just something we cut and pasted off the web, which kind of sucks\
+  \ for us. It'd be cool to see if we could put our side of the story out there and\
+  \ see if we can find the person who first put text over it, and have a complete\
+  \ history of origin of the meme. On October 25th, 2010, the Internet humor blog\
+  \ Smosh[10] published a listicle featuring 20 notable Philosoraptor examples. On\
+  \ November 23rd, the Internet news blog Mary Sue[11] posted an image gallery highlighting\
+  \ 50 Philosoraptor examples. By July 2011, Philosoraptor reached the \"God Tier\"\
+  \ on Memegenerator[6] with over 38,000 instances and 12 different templates. On\
+  \ December 29th, YouTuber Chris Schultz published an original pop song featuring\
+  \ lyrics inspired by Philosoraptor images (shown below, left). On August 28th, 2012,\
+  \ the animeme YouTube channel uploaded several animated versions of Philosoraptor\
+  \ image macros (shown below, right). In October 2013, a thread inviting users to\
+  \ post the best Philosoraptor jokes was submitted to the discussion site Quora.[12]\
+  \ On March 30th, 2016, the news site Observer[13] published an article describing\
+  \ the history of Philosoraptor and several other classic internet memes. Notable\
+  \ Examples Search Interest The largest peak in Philosoraptor queries began in December\
+  \ of 2008, two months following Smith's copyright registration. External References\
+  \ [1] LonelyDinosaur (via Wayback Machine) \u2013 Philosoraptor Shirt [2] Urban\
+  \ Dictionary \u2013 Philosoraptor [3] YTMND \u2013 New species of dinosaur discovered!\
+  \ [4] EnchantedLearning \u2013 Dinosaur Favorites [5] chanarchive (via Wayback Machine)\
+  \ \u2013 Philosoraptor [6] MemeGenerator (via Wayback Machine) \u2013 Philosoraptor\
+  \ [7] Democratic Underground Forum \u2013 Search Results for Philosoraptor [8] Blogspot\
+  \ \u2013 Philosoraptor [9] Encyclopedia Dramatica \u2013 Philosoraptor (page unavailable)\
+  \ [10] Smosh (via Wayback Machine) \u2013 The 20 Wisest Philosoraptor Quotes [11]\
+  \ The Mary Sue \u2013 Philosoraptors 50 Wisest Musings [12] Quora- What are the\
+  \ best philosoraptor jokes [13] Observer \u2013 The Origin Stories Behind 5 of the\
+  \ Internets Most Popular Memes Related Entries 115 total Ermahgerd Overly Attached\
+  \ Girlfriend Scumbag Steve Good Guy Greg Ridiculously Photogenic Guy Bad Luck Brian\
+  \ Annoying Facebook Girl The Most Interesting Man in the World Socially Awkward\
+  \ Penguin Bear Grylls / Better Drink My Own Piss Successful Black Man PTSD Clarinet\
+  \ Boy View All Related Entries Recent Videos 7 total PHILOSORAPTOR 2 Philosoraptor\
+  \ Uploaded by Abby of Many Fandoms Philosoraptor Philosoraptor Uploaded by Abby\
+  \ of Many Fandoms Philosoraptor in MY Dino D-Day? Philosoraptor Uploaded by Darkborn\
+  \ Philosoraptor Song Philosoraptor Uploaded by Pink Tokyo Know Your Meme: Philosoraptor\
+  \ Philosoraptor Uploaded by Brad Philosoraptor Live - If a wom... Philosoraptor\
+  \ Uploaded by Ted Artho Philosoraptor Live - Driveway... Philosoraptor Uploaded\
+  \ by Ted Artho + Add a Video Recent Images 694 total Philosoraptor Uploaded by Philosoraptor\
+  \ Philosoraptor Uploaded by Philosoraptor Philosoraptor Uploaded by Philosoraptor\
+  \ Philosoraptor Uploaded by Philosoraptor Philosoraptor Uploaded by Philosoraptor\
+  \ Philosoraptor Uploaded by Classic Rage Meme Rook 96 Philosoraptor Uploaded by\
+  \ Classic Rage Meme Rook 96 Philosoraptor Uploaded by Reddit Moments Philosoraptor\
+  \ Uploaded by Classic Rage Meme Rook 96 Philosoraptor Uploaded by UngaDooda Philosoraptor\
+  \ Uploaded by Reddit Moments Philosoraptor Uploaded by Cold Hard Crash + Add an\
+  \ Image View All Images Sign up for our Newsletter Top Comments Delete Sensitive\
+  \ TerribleTrike Apr 28, 2016 at 10:27AM EDT If you confirm an entry years after\
+  \ it is relevant is it still a meme? +71 Reply Delete Sensitive Hugh man Apr 28,\
+  \ 2016 at 07:33PM EDT >Be Kym >Confirm a bunch of forced memes and random pony shit.\
+  \ >Don't confirm Philosoraptor till 2016. +50 Reply + Add a Comment Comments (94)\
+  \ Display Comments Add a Comment Top Entries This Month Meme Saika Kawakita Smile\
+  \ GIF Event Assassination of UnitedHealthcare CEO Person Luigi Mangione UHC CEO\
+  \ Shooter Subculture The Ki Sisters Culture Pornography Site Whisper View More Suggest\
+  \ a Change Edit History Entry Editors (11) kikinak Commentator Brad Digital Archaeologist\
+  \ & Treasurer & Pundit & Gallery Housekeeper Chris Menning Digital Archaeologist\
+  \ & Archivist & Pundit & Early Adopter (#8) Mike Internet Scientist Don Administrator\
+  \ & Meme Daddy amanda b. Meme Librarian SabrinaTibbetts Memepuff Y F Digital Archaeologist\
+  \ & Treasurer & Media Maid Sophie Digital Archaeologist & Treasurer & Media Bus\
+  \ Boy andcallmeshirley Digital Archaeologist & Treasurer & Collection Butler shevyrolet\
+  \ Digital Archaeologist & Treasurer & Media Bus Boy \u25BC + Request Editorship\
+  \ View All Editors Today's Top Image Galleries Assassination of UnitedHealthcare\
+  \ CEO Squirrel Girl (Doreen Green) Team Fortress 2 The Amazing Digital Circus About\
+  \ Our Story Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes\
+  \ News Staff Contact Extras! Style Guide RSS Feeds"
+source: http://knowyourmeme.com/memes/philosoraptor
+template_id: philosoraptor
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2

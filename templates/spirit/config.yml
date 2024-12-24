@@ -1,71 +1,115 @@
-name: Fake Spirit Halloween Costume
-source: https://knowyourmeme.com/photos/2466845-fake-spirit-halloween-costumes
-keywords:
-  - adult size costume
-text:
-  - style: default
-    color: white
-    font: thick
-    anchor_x: 0.1
-    anchor_y: 0.28
-    angle: 0.0
-    scale_x: 0.35
-    scale_y: 0.16
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: default
-    color: white
-    font: thin
-    anchor_x: 0.1
-    anchor_y: 0.45
-    angle: 0.0
-    scale_x: 0.34
-    scale_y: 0.05
-    align: left
-    start: 0.0
-    stop: 1.0
-  - style: default
-    color: white
-    font: thin
-    anchor_x: 0.1
-    anchor_y: 0.51
-    angle: 0.0
-    scale_x: 0.34
-    scale_y: 0.08
-    align: left
-    start: 0.0
-    stop: 1.0
-  - style: default
-    color: white
-    font: thin
-    anchor_x: 0.1
-    anchor_y: 0.59
-    angle: 0.0
-    scale_x: 0.34
-    scale_y: 0.08
-    align: left
-    start: 0.0
-    stop: 1.0
-  - style: default
-    color: white
-    font: thin
-    anchor_x: 0.1
-    anchor_y: 0.67
-    angle: 0.0
-    scale_x: 0.34
-    scale_y: 0.08
-    align: left
-    start: 0.0
-    stop: 1.0
 example:
-  - My Dad
-  - 'Includes:'
-  - '- Nothing'
-  - '- Nothing'
-  - '- Nothing'
+- My Dad
+- 'Includes:'
+- '- Nothing'
+- '- Nothing'
+- '- Nothing'
+keywords:
+- adult size costume
+name: Fake Spirit Halloween Costume
 overlay:
-  - center_x: 0.65
-    center_y: 0.55
-    angle: 1.0
-    scale: 0.48
+- angle: 1.0
+  center_x: 0.65
+  center_y: 0.55
+  scale: 0.48
+scraped_content: "Spirit Halloween Costume Meme Template | Fake Spirit Halloween Costumes\
+  \ | Know Your Meme Yo Yo! You must login or signup first! Already a memeber? Login\
+  \ Now! Don't have an account? Sign up Now! Meme Encyclopedia All Cultures Events\
+  \ People Sites Subcultures Videos Submit \u2192 Images Trending Most Commented Most\
+  \ Favorited High Score Low Score Most Viewed All Templates Upload an Image Articles\
+  \ News Explainers Collections Interviews Meme Insider Magazine More Discord Newsletter\
+  \ Episodes Forums Meme Store Login Abstract user icon Memes Categories Trending\
+  \ News Images Trending Images Videos Trending Videos Editorials Meme Insider Magazine\
+  \ Newsletter Policies and Guidelines Meme Store Old site Login Know Your Meme is\
+  \ the property of Literally Media \xA92024 Literally Media. All Rights Reserved.\
+  \ This image Of Woman Confidently Strolling Through A Glass Panel Has Been A Redraw\
+  \ Format Since 2021 Three Years Ago, This Boar's Head 'Exploded' Onto The Meme Scene\
+  \ Remember Il Vaticano? The Anarchy Chess Memes Turns Two Years Old Today Phrase\
+  \ 'The Fridge Protects The Snacks' A Growing Favorite Among Pickup Artist Influencers\
+  \ Jamie G, The Bosh British Charva, Has Taken Over TikTok With His Signature 'Oh\
+  \ Cherie Amour' Sound Also Trending: Honey Extension Influencer Scam Renegade Raider\
+  \ Copypasta Assassination of UnitedHealthcare CEO +2 Spirit Halloween Costume Meme\
+  \ Template Uploaded by Zach Oct 27, 2022 at 10:49AM EDT Share Pin Download More\
+  \ spirit halloween meme spirit costume meme generator spirit halloween costume meme\
+  \ generator spirit halloween meme blank halloween costume meme template spirit halloween\
+  \ meme generator Origin Entry: Fake Spirit Halloween Costumes File type: png Resolution:\
+  \ (500px x 620px) File size: 455 KB View All 102 Images Load 1 Comment Comments\
+  \ 1 total Moar: spirit Share Pin spirit Share Pin spirit Share Pin spirit Share\
+  \ Pin 90's hardcore kid Share Pin spirit Share Pin spirit Share Pin spirit Share\
+  \ Pin spirit Share Pin spirit Share Pin spirit Share Pin spirit Share Pin Next 0\
+  \ +2 Fake Spirit Halloween Costumes - Spirit Halloween Costume Meme Template Like\
+  \ us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press the \u2190 and \u2192\
+  \ keys to navigate the gallery, 'g' to view the gallery, or 'r' to view a random\
+  \ image. \u25C4 Previous View Gallery Random Image Next \u25BA Moar: Fake Spirit\
+  \ Halloween Costumes Uploaded by Brandon Fake Spirit Halloween Costumes Uploaded\
+  \ by Brandon Fake Spirit Halloween Costumes Uploaded by Brandon Fake Spirit Halloween\
+  \ Costumes Uploaded by Jaimie Hamilton + Add a Comment Comments (1) Display Comments\
+  \ Add a Comment + Add an Image Image Details 26,140 views (2 from today) Uploaded\
+  \ Oct 27, 2022 at 10:49AM EDT Origin Entry Fake Spirit Halloween Costumes Tags spirit\
+  \ halloween meme, spirit costume meme generator, spirit halloween costume meme generator,\
+  \ spirit halloween meme blank, halloween costume meme template, spirit halloween\
+  \ meme generator Claim Authorship Edit History About the Uploader Zach Memenator\
+  \ Textile Embed !https://i.kym-cdn.com/photos/images/newsfeed/002/466/845/76f.png!\
+  \ Today's Top Image Galleries Assassination of UnitedHealthcare CEO Squirrel Girl\
+  \ (Doreen Green) Team Fortress 2 The Amazing Digital Circus About Our Story Site\
+  \ Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes News Staff\
+  \ Contact Extras! Style Guide RSS Feeds"
+source: https://knowyourmeme.com/photos/2466845-fake-spirit-halloween-costumes
+template_id: spirit
+text:
+- align: center
+  anchor_x: 0.1
+  anchor_y: 0.28
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 0.35
+  scale_y: 0.16
+  start: 0.0
+  stop: 1.0
+  style: default
+- align: left
+  anchor_x: 0.1
+  anchor_y: 0.45
+  angle: 0.0
+  color: white
+  font: thin
+  scale_x: 0.34
+  scale_y: 0.05
+  start: 0.0
+  stop: 1.0
+  style: default
+- align: left
+  anchor_x: 0.1
+  anchor_y: 0.51
+  angle: 0.0
+  color: white
+  font: thin
+  scale_x: 0.34
+  scale_y: 0.08
+  start: 0.0
+  stop: 1.0
+  style: default
+- align: left
+  anchor_x: 0.1
+  anchor_y: 0.59
+  angle: 0.0
+  color: white
+  font: thin
+  scale_x: 0.34
+  scale_y: 0.08
+  start: 0.0
+  stop: 1.0
+  style: default
+- align: left
+  anchor_x: 0.1
+  anchor_y: 0.67
+  angle: 0.0
+  color: white
+  font: thin
+  scale_x: 0.34
+  scale_y: 0.08
+  start: 0.0
+  stop: 1.0
+  style: default
+text_zones: 5

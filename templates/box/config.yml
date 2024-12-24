@@ -1,35 +1,158 @@
-name: What's in the box!?
-source: https://screenrant.com/hilarious-se7en-memes/
-keywords:
-  - Seven
-text:
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.0
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
-  - style: upper
-    color: white
-    font: thick
-    anchor_x: 0.0
-    anchor_y: 0.8
-    angle: 0.0
-    scale_x: 1.0
-    scale_y: 0.2
-    align: center
-    start: 0.0
-    stop: 1.0
 example:
-  - ''
-  - What's in the box!?
+- ''
+- What's in the box!?
+keywords:
+- Seven
+name: What's in the box!?
 overlay:
-  - center_x: 0.83
-    center_y: 0.5
-    angle: 0.0
-    scale: 0.6
+- angle: 0.0
+  center_x: 0.83
+  center_y: 0.5
+  scale: 0.6
+scraped_content: "What\u2019s In The Box: 10 Hilarious Se7en Memes Screen Rant Menu\
+  \ Sign in now Close Movies Submenu Movie Features Movie News Movie Reviews Movie\
+  \ Lists Movie Trailers TV Submenu TV Features TV News TV Reviews TV Lists Reality\
+  \ TV Submenu Reality TV Features Reality TV News Reality TV Lists Gaming Submenu\
+  \ Game Features Game News Game Guides Game Reviews Game Lists Comics Submenu Comic\
+  \ Features Comic News Comic Reviews Comic Lists Anime Submenu Anime Features Anime\
+  \ News Anime Lists WWE Videos Threads More Submenu Lists Interviews Podcasts Sign\
+  \ in Newsletter Trending SR Exclusives Star Wars Marvel DC Star Trek Best on Streaming\
+  \ Close What\u2019s In The Box: 10 Hilarious Se7en Memes Se7en By Stephen Barker\
+  \ Published Nov 18, 2020 Follow Followed Like Link copied to clipboard Se7en Related\
+  \ The Lord Of The Rings: The War Of The Rohirrim Digital Release Date Revealed After\
+  \ $15.4M Box Office Disappointment Amy Adams\u2019 2024 Horror-Comedy Movie Gets\
+  \ Streaming Release Date Netflix's Controversial 2022 Romance Movie Gets A Sequel\
+  \ Update From Sofia Carson Sign in to your ScreenRant account One of the most disturbing\
+  \ final movie scenes\_ever has been turned into a meme. As the end of Seven sees\
+  \ Brad Pitt find his wife\u2019s head in a box, which was dastardly planned by the\
+  \ serial killer John Doe, Pitt begins to scream at Doe. RELATED: David Fincher:\
+  \ His 5 Best (& 5 Worst) Films According To IMDb Being one of the weakest female\
+  \ characters in a Fincher movie and literally only existing so that this final scene\
+  \ can happen, it was shocking at the time, but the meme has since dampened the effect\
+  \ of the movie. However, it doesn\u2019t mean the memes aren\u2019t hilarious. COVID-19\
+  \ It\u2019s no secret that 2020 hasn\u2019t been the most exciting year, as it\u2019\
+  s been full of division, quarantine, forest fires, and riots. Pretty much everybody\
+  \ in the world is sick of the word \u201Cpandemic\u201D, with millions of people\
+  \ having to cancel huge plans at the beginning of the year; weddings, vacations,\
+  \ and nights out. As\_everybody\u2019s life was put on pause thanks to COVID-19,\
+  \ we are all\_no more useful than Gwyneth Paltrow\u2019s head in a box. Frozen Elsa\
+  \ Head A UK citizen had their head screwed on when this package came. Ordering a\
+  \ Frozen toy from the British supermarket, Tesco, the name of the product on the\
+  \ box was way too perfect, and it puts quite a spin on the modern classic Disney\
+  \ movie. Putting two and two together, they were quick to snap a photo and make\
+  \ the Seven comparison, pairing it with the now infamous shot of Brad Pitt in tears.\
+  \ The Kaaba Though Islam is a religion to 1.8 billion people, this huge black building\
+  \ left a\_lot of people perplexed, and with the number of people gathered around\
+  \ it, it left millions of people genuinely asking, \u201Cwhat\u2019s in the box?\u201D\
+  \ RELATED: The 5 Best (& 5 Worst) 2000s Thrillers The box is called the Kaaba, Islam\u2019\
+  s holiest shrine, and is located at the Grand Mosque in Mecca in Saudi Arabia. It\
+  \ is where a lot of Muslims travel to pray during the holy month of Ramadan as they\
+  \ believe the black box to be the house of God. Forgetting What You Ordered As the\
+  \ percentage of people in high street shopping decreases year on year, more and\
+  \ more packages are turning up at homes more than ever before. Whenever an unexpected\
+  \ package turns up at your home, the immediate reaction is, \u201Cwhat\u2019s in\
+  \ the box,\u201D and everybody\u2019s first thought goes directly to the end of\_\
+  Fincher\u2019s best movie, but it usually doesn\u2019t end as badly. Shopaholic\
+  \ We have all been there, and it applies just as much to men as it does to women.\
+  \ As ordering things online is way too easy and convenient, whether the item is\
+  \ of great importance or just something completely trivial, sometimes we can be\
+  \ too trigger happy\_at the thought of material things. And when we\u2019re unemployed\
+  \ or just strapped for cash, if whatever is in the box isn\u2019t a necessity, it\u2019\
+  s going to annoy the other half. Wayne\u2019s World Though the character of Somerset,\
+  \ Brad Pitt\u2019s character, was influenced by a lot of different movies, there\
+  \ might be one that went under everybody\u2019s radar. In Wayne\u2019s World, Stacey,\
+  \ Wayne\u2019s ex-girlfriend, brings him a box-shaped birthday present. When Wayne\
+  \ ponders what it could be, he says, \u201Cif it\u2019s a severed head, I\u2019\
+  m going to be very upset.\u201D The line is too perfect not to be paired with Brad\
+  \ Pitt\u2019s leaky face. The Lonely Island Though The Lonely Island have all but\
+  \ disbanded, they still live on through other projects, most notably with the underrated\
+  \ comedy, Popstar: Never Stop Never Stopping. RELATED: 10 Things You Didn\u2019\
+  t Know About Seven However, before the project slowed down, they released a ton\
+  \ of parody songs, including \u201CD*** In A Box.\u201D The song is hilarious and\
+  \ given the strange contents of what\u2019s in said box, the contrast between the\
+  \ comedy and the dramatic ending of Seven is perfect. The Gift It\u2019s one of\
+  \ the most annoying things that can possibly happen, and it leads to the anxiety\
+  \ that Brad Pitt had in one of Fincher\u2019s most unsettling scenes. What is so\
+  \ great about the scene is that the tension builds because Brad Pitt desperately\
+  \ wants to know what\u2019s in the box, but he doesn\u2019t want to open it, and\
+  \ it\u2019s a feeling we\u2019ve all shared when we\u2019ve been teased by something\
+  \ when it isn\u2019t quite the time. Which One Is It? Seven, one of the best 90s\
+  \ thrillers\_that should be remembered for its character development, its cinematography,\
+  \ its acting, and many other things, has instead been whittled down to a viral meme.\
+  \ The meme has everybody looking at boxes in different ways, just to see if they\
+  \ can get a meme of their own. Well, this one is one of\_the best, as one fan received\
+  \ a square box with four alternatives printed on it, which led to the big question.\
+  \ This Is America Given that the music video for Childish Gambino\u2019s hit track\
+  \ has well over 700 million views, this shot will be more than familiar. As Brad\
+  \ Pitt points the gun at\_John Doe after finally finding out what is in the box,\
+  \ he does exactly what Doe challenged him to do, murder him. One fan has hilariously\
+  \ replaced Donald Glover\u2019s face with Brad Pitt\u2019s and Kevin Spacey\u2019\
+  s head over the victim in the music video. And, of course, there\u2019s the box\
+  \ just to the side. NEXT: The Best Character In Each Of IMDb's 10 Top-Rated David\
+  \ Fincher Movies Movies Lists Se7en Follow Followed Like Share Facebook X LinkedIn\
+  \ Reddit Flipboard Copy link Email Close Popular Violent Night 2 Gets Exciting Script\
+  \ Update From Writers 2 Years After John Wick Producer's Santa Claus Action-Comedy's\
+  \ Release Movies EXCLUSIVE: Violent Night 2 gets an exciting script update from\
+  \ its writers, two years after the John Wick producer's Santa action-comedy was\
+  \ released. Posts By Nick Bythrow 20 hours ago The Six Triple Eight Review: Tyler\
+  \ Perry's Clunky War Drama Completely Misses The Point Of Its Powerful Story Posts\
+  \ 51 By Patrice Witherspoon 3 days ago Robotnik's Sonic The Hedgehog 3 Fate & Potential\
+  \ Future Return Addressed By Franchise Writers Posts 1 By Hannah Gearan 21 hours\
+  \ ago Unlike Christopher Nolan, 1 Oscar-Winning Director Wasn't A Fan Of Gladiator\
+  \ 2: \"Empty Calories\" Posts 4 By Matthew Rudoy 2 days ago James Gunn Addresses\
+  \ Potential DCU Flash Movie As He Reiterates His No. 1 Rule For Greenlighting New\
+  \ Projects Posts By TC Phillips 13 hours ago \u201CI Hate Everything About This\u201D\
+  : Daniel Craig\u2019s $1.1B James Bond Sequel Gets Scathing Review From VFX Artists\
+  \ For 1 Key Scene Posts 8 By Nathan Graham-Lowery 1 day ago Recommended Mark Harmon's\
+  \ New Movie Can Pave The Way For Gibbs' NCIS Season 22 Return NCIS Mark Harmon is\
+  \ set to reprise his Freaky Friday role in the sequel, Freakier Friday, raising\
+  \ the question of whether he could return to NCIS as Gibbs. Posts 3 hours ago Hetty's\
+  \ Power Reveal In Ghosts Is \"One Of The More Impressive,\" Tease Stars Ghosts (US)\
+  \ It seems Ghosts season 4 is preparing to finally reveal Hetty's special power,\
+  \ and stars Rose McIver and Utkarsh Ambudkar are seriously hyping it up. Posts 11\
+  \ hours ago How Yellowstone Star Filming New Post-Apocalyptic Movie After Taylor\
+  \ Sheridan Show's Final Season Was Like A \"Glitch In The Matrix\" Movies EXCLUSIVE:\
+  \ Dawn Olivieri may play villain Sarah Atwood in Yellowstone, but she is a hero\
+  \ in a recent movie. She explains that experience. Posts 5 minutes ago One Piece\
+  \ Creator Reveals the Real Reason They're So Invested in Netflix's Live-Action Anime\
+  \ Ahead of Season 2 One Piece (Live-Action) The creator of One Piece is opening\
+  \ up about the real reason he's so invested in Netflix's live-action adaptation.\
+  \ Posts 19 minutes ago What Time Squid Game Season 2 Releases On Netflix Squid Game\
+  \ Squid Game season 2 is one of the most anticipated TV shows of 2024, causing audiences\
+  \ to equally anticipate the exact time of its release on Netflix. Posts 3 hours\
+  \ ago Elsbeth Is Due For A Big Change That Could Make (Or Break) Carrie Preston's\
+  \ Quirky Procedural Elsbeth New info from Elsbeth star Carrie Preston suggests a\
+  \ storytelling change ahead that could make or break the mystery series in its sophomore\
+  \ year. Posts 3 hours ago Trending Now Why Back To The Future Recast Eric Stoltz\
+  \ As Marty McFly Leonardo DiCaprio: 2024 Net Worth, Age, Height & Everything You\
+  \ Need To Know About The Oscar-Winning Actor Sonic 3\u2019s Major Shadow Video Game\
+  \ Sequence Recreation Explained By Director: \u201CThe Fans Would Hunt Me Down If\
+  \ I Didn\u2019t\u201D Join Our Team Our Audience About Us Press & Events Review\
+  \ Policy Contact Us Follow Us Advertising Careers Terms Privacy Policies ScreenRant\
+  \ is part of the Valnet Publishing Group Copyright \xA9 2024 Valnet Inc."
+source: https://screenrant.com/hilarious-se7en-memes/
+template_id: box
+text:
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+- align: center
+  anchor_x: 0.0
+  anchor_y: 0.8
+  angle: 0.0
+  color: white
+  font: thick
+  scale_x: 1.0
+  scale_y: 0.2
+  start: 0.0
+  stop: 1.0
+  style: upper
+text_zones: 2
