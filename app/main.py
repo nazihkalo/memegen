@@ -130,6 +130,35 @@ async def setup_embeddings(app, loop):
         raise  # Re-raise to prevent server start if initialization fails
 
 
+@app.post("/templates/update-embeddings")
+async def update_embeddings(force_rescrape: bool = False):
+    """Update template embeddings, optionally forcing rescrape of source URLs."""
+    try:
+        await template_embeddings.update_embeddings(force_rescrape=force_rescrape)
+        return {"status": "success", "message": "Embeddings updated successfully"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/templates/process-missing")
+@openapi.summary("Process templates that don't have embeddings")
+@openapi.description("Find and process templates that don't have embeddings in the database")
+@openapi.parameter("force_rescrape", bool, "Whether to force rescraping of source URLs", required=False)
+async def process_missing_templates(request: Request):
+    """Process templates that don't have embeddings."""
+    try:
+        force_rescrape = request.args.get("force_rescrape", "false").lower() == "true"
+        success_count = await template_embeddings.process_missing_templates(force_rescrape)
+        return response.json({
+            "status": "success",
+            "processed_count": success_count,
+            "message": f"Successfully processed {success_count} templates"
+        })
+    except Exception as e:
+        logger.error(f"Error processing missing templates: {e}")
+        return response.json({"error": str(e)}, status=500)
+
+
 if __name__ == "__main__":
     app.run(
         host="0.0.0.0",

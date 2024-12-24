@@ -44,6 +44,9 @@ locust = { version = "^2.12", optional = true }
 chromadb = "^0.5.23"
 sentence-transformers = "^3.3.1"
 pyyaml = "^6.0.2"
+beautifulsoup4 = "^4.12.3"
+httpx = "^0.28.1"
+openai = "^1.58.1"
 
 [tool.poetry.group.dev.dependencies]
 
@@ -80,6 +83,7 @@ honcho = "^1.1"
 ipdb = "*"
 rope = "^0.18"
 watchdog = { version = "^2.2", extras = ["watchmedo"] }
+ipykernel = "^6.29.5"
 
 [tool.poetry.extras]
 
