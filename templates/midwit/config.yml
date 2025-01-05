@@ -1,229 +1,113 @@
+name: Midwit
+source: https://knowyourmeme.com/memes/iq-bell-curve-midwit
+keywords:
+- IQ Bell Curve / Midwit
+text:
+- style: default
+  color: black
+  font: thin
+  anchor_x: 0.02
+  anchor_y: 0.46
+  angle: 0.0
+  scale_x: 0.283
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: black
+  font: thin
+  anchor_x: 0.13
+  anchor_y: 0.02
+  angle: 0.0
+  scale_x: 0.7
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: black
+  font: thin
+  anchor_x: 0.687
+  anchor_y: 0.386
+  angle: 0.0
+  scale_x: 0.283
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - if it's good I do it
 - NOOOOO you have to have complex reasons for what you're doing. what is the point.
   what is your goal.
 - if it's good I do it
-keywords:
-- IQ Bell Curve / Midwit
-name: Midwit
 overlay:
-- angle: 0.0
-  center_x: 0.5
+- center_x: 0.5
   center_y: 0.725
+  angle: 0.0
   scale: 0.25
-scraped_content: "IQ Bell Curve / Midwit | Know Your Meme Hauu! You must login or\
-  \ signup first! Already a memeber? Login Now! Don't have an account? Sign up Now!\
-  \ Meme Encyclopedia All Cultures Events People Sites Subcultures Videos Submit \u2192\
-  \ Images Trending Most Commented Most Favorited High Score Low Score Most Viewed\
-  \ All Templates Upload an Image Articles News Explainers Collections Interviews\
-  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
-  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
-  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
-  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
-  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
-  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
-  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
-  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
-  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
-  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
-  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
-  \ CEO IQ Bell Curve / Midwit Added 4 years ago / Updated 10 months ago This entry\
-  \ contains content that may be considered sensitive to some viewers. Confirmed 295,633\
-  \ Navigation About \u2022 Origin \u2022 Spread \u2022 Search Interest \u2022 External\
-  \ References \u2022 Recent Images About IQ Bell Curve, also known as Midwit, refers\
-  \ to a series of memes that use the IQ distribution diagrams to mock one of the\
-  \ three main groups represented by the diagram, usually the largest group of people\
-  \ towards the center of the curve who possess average intelligence. The concept\
-  \ of IQ Bell Curve memes utilizes the horseshoe theory, implying that the groups\
-  \ with low intelligence and high intelligence often choose to follow the same goals\
-  \ while being guided by different reasoning. Those who possess average intelligence\
-  \ are referred to as \"midwits.\" While there were many versions of memes illustrating\
-  \ the concept, a variant of the meme using three different Wojaks gained particular\
-  \ popularity in the 2020s on X / Twitter and Reddit. Origin The word \"mid-witted\"\
-  \ was popularized by far-right activist and writer Vox Day. On February 17th, 2012,\
-  \ Vox Day[1] published the blog post \"The tragedy of the mid-witted\" in which\
-  \ he commented on a life story article \"Lessons of a very sexy pirate costume\"\
-  \ by Jennifer Wright.[2] In the blog post, Vox Day wrote, \"Those who possess above-average\
-  \ intelligence and trouble to occasionally read newspapers and magazines tend to\
-  \ genuinely be under the erroneous impression that they possess superlative intelligence\"\
-  \ (extract shown below). The term \"midwit,\" meaning a person of average intelligence,\
-  \ saw use on 4chan starting in late 2013 (example posts shown below).[3][4][5] On\
-  \ January 1st, 2017, an anonymous 4chan[6] user made the earliest found post that\
-  \ used the IQ bell curve diagram to argue about the similarity of political views\
-  \ of groups with low and high intelligence (shown below). The format did not see\
-  \ further use until December 2018. On December 14th, 2018, an anonymous /pol/ user[7]\
-  \ used the diagram to make a claim that people of both low intelligence and high\
-  \ intelligence are racist (shown below, left), with another user posting[8] an edited\
-  \ version of the diagram on the same day (shown below, right). Note: the images\
-  \ contain an uncensored racial slur; discretion advised. Spread Throughout 2019,\
-  \ the the edited image was reposted[9][10] on 4chan multiple times. On June 24th,\
-  \ 2019, an anonymous /pol/[11] user posted a Manlet meme referencing the horseshoe\
-  \ theory interpretation of the IQ bell curve (shown below, left). Several variations\
-  \ of the format were posted on /pol/[12][13][14] in late 2019 and early 2020 (example\
-  \ shown below, right). The viral popularity of the format began on March 10th, 2010,\
-  \ when an anonymous 4chan[15] user posted a meme about Ted Kaczynski and the anarcho-primitivistic\
-  \ ideology (shown below, left). On the same day, the user[16] launched the first\
-  \ \"midwit memes\" thread which gained 12 replies (shown below, right). In mid-March,\
-  \ the meme format in which the IQ bell curve was used to ridicule people of average\
-  \ intelligence, referred to as \"midwits,\" gained significant popularity on /pol/\
-  \ board, with multiple variations of the meme being posted[17][18] in the following\
-  \ weeks. After the viral spread on 4chan, the format also gained notable popularity\
-  \ on Facebook, with variations of the meme also appearing on other platforms in\
-  \ the following months. Crossover Beyond 4chan A version of the meme featuring three\
-  \ different Wojaks arrayed on an IQ Bell Curve chart gained increasing popularity\
-  \ in the early 2020s. At the lowest IQ level is a variant of Brainlet, in the middle\
-  \ of the curve is a Midwit crying Wojak and at the top end is a monk-like Wojak\
-  \ wearing a cloak. In this version, the Monk Wojak and the Brainlet Wojak agree\
-  \ with one another while the Midwit Wojak offers an unnecessarily complicated analysis.\
-  \ The earliest version of this posting came from the X account @owenbroadcast on\
-  \ July 11th, 2020 (seen below), earning over 2,200 likes in the course of three\
-  \ and a half years.[19] Following the @owenbroadcast post, versions of the meme\
-  \ using these three Wojaks and this background became dominant across X, Reddit\
-  \ and other platforms. On /r/dndmemes on January 3rd, 2021, the meme (seen below,\
-  \ top) earned over 4,100 upvotes in three years.[20] On /r/okbuddyphd on October\
-  \ 15th, 2022, a posting (seen below, bottom) riffing off the IQ bell curve format\
-  \ earned over 2,100 upvotes over the course of a year.[21] Search Interest External\
-  \ References [1] Vox Day \u2013 The tragedy of the mid-witted [2] Salon \u2013 Lessons\
-  \ of a very sexy pirate costume [3] 4chan \u2013 /pol/ Post #23691479 [4] 4chan\
-  \ \u2013 /pol/ Post #50667913 [5] 4chan \u2013 /r9k/ Post #28347169 [6] 4chan \u2013\
-  \ /pol/ Thread #105290193 [7] 4chan \u2013 /pol/ Post #196643836 [8] 4chan \u2013\
-  \ /pol/ Post #196672446 [9] 4chan \u2013 /pol/ Thread #227414002 [10] 4chan \u2013\
-  \ /pol/ Thread #228648992 [11] 4chan \u2013 /pol/ Post #10751356 [12] 4chan \u2013\
-  \ /pol/ Thread #228648992 [13] 4chan \u2013 /pol/ Post #236324288 [14] 4chan \u2013\
-  \ /pol/ Post #240385631 [15] 4chan \u2013 /pol/ Post #247368790 [16] 4chan \u2013\
-  \ /pol/ Thread #247369006 [17] 4chan \u2013 /pol/ Post #248043341 [18] 4chan \u2013\
-  \ /pol/ Post #248044758 [19] X \u2013 @owenbroadcast [20] Reddit \u2013 /r/dndmemes\
-  \ [21] Reddit \u2013 /r/okbuddyphd midwit iq bell curve distribution curve intelligence\
-  \ quotient intelligence /pol/ iq score horseshoe theory jennifer wright bell curve\
-  \ memes iq score graph meme Share Pin Recent Images 111 total View All Images Recent\
-  \ Videos 0 total There are no recent videos. Sign up for our Newsletter Load 110\
-  \ Comments Comments 110 total 16 IQ Bell Curve / Midwit 295,645 0 111 110 Updated\
-  \ Feb 01, 2024 at 02:45PM EST by Zach. Added Oct 30, 2020 at 10:35AM EDT by Philipp.\
-  \ Like us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press 'i' to view the\
-  \ image gallery, 'v' to view the video gallery, or 'r' to view a random entry. This\
-  \ entry contains content that may be considered sensitive to some viewers. Meme\
-  \ Status Confirmed Type: Exploitable Badges: Sensitive Year 2018 Origin 4chan Tags\
-  \ midwit, iq, bell curve, distribution curve, intelligence quotient, intelligence,\
-  \ /pol/, iq score, horseshoe theory, jennifer wright, bell curve memes, iq score\
-  \ graph meme About IQ Bell Curve, also known as Midwit, refers to a series of memes\
-  \ that use the IQ distribution diagrams to mock one of the three main groups represented\
-  \ by the diagram, usually the largest group of people towards the center of the\
-  \ curve who possess average intelligence. The concept of IQ Bell Curve memes utilizes\
-  \ the horseshoe theory, implying that the groups with low intelligence and high\
-  \ intelligence often choose to follow the same goals while being guided by different\
-  \ reasoning. Those who possess average intelligence are referred to as \"midwits.\"\
-  \ While there were many versions of memes illustrating the concept, a variant of\
-  \ the meme using three different Wojaks gained particular popularity in the 2020s\
-  \ on X / Twitter and Reddit. Origin The word \"mid-witted\" was popularized by far-right\
-  \ activist and writer Vox Day. On February 17th, 2012, Vox Day[1] published the\
-  \ blog post \"The tragedy of the mid-witted\" in which he commented on a life story\
-  \ article \"Lessons of a very sexy pirate costume\" by Jennifer Wright.[2] In the\
-  \ blog post, Vox Day wrote, \"Those who possess above-average intelligence and trouble\
-  \ to occasionally read newspapers and magazines tend to genuinely be under the erroneous\
-  \ impression that they possess superlative intelligence\" (extract shown below).\
-  \ The term \"midwit,\" meaning a person of average intelligence, saw use on 4chan\
-  \ starting in late 2013 (example posts shown below).[3][4][5] On January 1st, 2017,\
-  \ an anonymous 4chan[6] user made the earliest found post that used the IQ bell\
-  \ curve diagram to argue about the similarity of political views of groups with\
-  \ low and high intelligence (shown below). The format did not see further use until\
-  \ December 2018. On December 14th, 2018, an anonymous /pol/ user[7] used the diagram\
-  \ to make a claim that people of both low intelligence and high intelligence are\
-  \ racist (shown below, left), with another user posting[8] an edited version of\
-  \ the diagram on the same day (shown below, right). Note: the images contain an\
-  \ uncensored racial slur; discretion advised. Spread Throughout 2019, the the edited\
-  \ image was reposted[9][10] on 4chan multiple times. On June 24th, 2019, an anonymous\
-  \ /pol/[11] user posted a Manlet meme referencing the horseshoe theory interpretation\
-  \ of the IQ bell curve (shown below, left). Several variations of the format were\
-  \ posted on /pol/[12][13][14] in late 2019 and early 2020 (example shown below,\
-  \ right). The viral popularity of the format began on March 10th, 2010, when an\
-  \ anonymous 4chan[15] user posted a meme about Ted Kaczynski and the anarcho-primitivistic\
-  \ ideology (shown below, left). On the same day, the user[16] launched the first\
-  \ \"midwit memes\" thread which gained 12 replies (shown below, right). In mid-March,\
-  \ the meme format in which the IQ bell curve was used to ridicule people of average\
-  \ intelligence, referred to as \"midwits,\" gained significant popularity on /pol/\
-  \ board, with multiple variations of the meme being posted[17][18] in the following\
-  \ weeks. After the viral spread on 4chan, the format also gained notable popularity\
-  \ on Facebook, with variations of the meme also appearing on other platforms in\
-  \ the following months. Crossover Beyond 4chan A version of the meme featuring three\
-  \ different Wojaks arrayed on an IQ Bell Curve chart gained increasing popularity\
-  \ in the early 2020s. At the lowest IQ level is a variant of Brainlet, in the middle\
-  \ of the curve is a Midwit crying Wojak and at the top end is a monk-like Wojak\
-  \ wearing a cloak. In this version, the Monk Wojak and the Brainlet Wojak agree\
-  \ with one another while the Midwit Wojak offers an unnecessarily complicated analysis.\
-  \ The earliest version of this posting came from the X account @owenbroadcast on\
-  \ July 11th, 2020 (seen below), earning over 2,200 likes in the course of three\
-  \ and a half years.[19] Following the @owenbroadcast post, versions of the meme\
-  \ using these three Wojaks and this background became dominant across X, Reddit\
-  \ and other platforms. On /r/dndmemes on January 3rd, 2021, the meme (seen below,\
-  \ top) earned over 4,100 upvotes in three years.[20] On /r/okbuddyphd on October\
-  \ 15th, 2022, a posting (seen below, bottom) riffing off the IQ bell curve format\
-  \ earned over 2,100 upvotes over the course of a year.[21] Search Interest External\
-  \ References [1] Vox Day \u2013 The tragedy of the mid-witted [2] Salon \u2013 Lessons\
-  \ of a very sexy pirate costume [3] 4chan \u2013 /pol/ Post #23691479 [4] 4chan\
-  \ \u2013 /pol/ Post #50667913 [5] 4chan \u2013 /r9k/ Post #28347169 [6] 4chan \u2013\
-  \ /pol/ Thread #105290193 [7] 4chan \u2013 /pol/ Post #196643836 [8] 4chan \u2013\
-  \ /pol/ Post #196672446 [9] 4chan \u2013 /pol/ Thread #227414002 [10] 4chan \u2013\
-  \ /pol/ Thread #228648992 [11] 4chan \u2013 /pol/ Post #10751356 [12] 4chan \u2013\
-  \ /pol/ Thread #228648992 [13] 4chan \u2013 /pol/ Post #236324288 [14] 4chan \u2013\
-  \ /pol/ Post #240385631 [15] 4chan \u2013 /pol/ Post #247368790 [16] 4chan \u2013\
-  \ /pol/ Thread #247369006 [17] 4chan \u2013 /pol/ Post #248043341 [18] 4chan \u2013\
-  \ /pol/ Post #248044758 [19] X \u2013 @owenbroadcast [20] Reddit \u2013 /r/dndmemes\
-  \ [21] Reddit \u2013 /r/okbuddyphd Recent Videos There are no videos currently available.\
-  \ + Add a Video Recent Images 111 total IQ Bell Curve / Midwit Uploaded by Pepe\
-  \ 3 & Wojak IQ Bell Curve / Midwit Uploaded by Pepe 3 & Wojak IQ Bell Curve / Midwit\
-  \ Uploaded by FatmanAss IQ Bell Curve / Midwit Uploaded by Jaimie Hamilton IQ Bell\
-  \ Curve / Midwit Uploaded by Jaimie Hamilton IQ Bell Curve / Midwit Uploaded by\
-  \ thewayofthestoney IQ Bell Curve / Midwit Uploaded by MetroDolphin153 IQ Bell Curve\
-  \ / Midwit Uploaded by MetroDolphin153 IQ Bell Curve / Midwit Uploaded by MetroDolphin153\
-  \ IQ Bell Curve / Midwit Uploaded by Linkzor24 IQ Bell Curve / Midwit Uploaded by\
-  \ Anyone00 IQ Bell Curve / Midwit Uploaded by Lugamo + Add an Image View All Images\
-  \ Sign up for our Newsletter Top Comments Delete Sensitive Lone K. (Echoid) Oct\
-  \ 30, 2020 at 12:06PM EDT reset the net, /pol/ was a mistake +77 Reply Delete Sensitive\
-  \ Lurker Boy Oct 30, 2020 at 12:28PM EDT Alternate title: /pol/ circlejerks itself.\
-  \ +67 Reply + Add a Comment Comments (110) Display Comments Add a Comment Top Entries\
-  \ This Month Meme Saika Kawakita Smile GIF Event Assassination of UnitedHealthcare\
-  \ CEO Person Luigi Mangione UHC CEO Shooter Subculture The Ki Sisters Culture Pornography\
-  \ Site Whisper View More Suggest a Change Edit History Entry Editors (4) Philipp\
-  \ Memesplainer andcallmeshirley Digital Archaeologist & Treasurer & Collection Butler\
-  \ Zach Memenator Aidan Walker \"Discourse\" Analyst + Request Editorship View All\
-  \ Editors Today's Top Image Galleries Assassination of UnitedHealthcare CEO Team\
-  \ Fortress 2 Squirrel Girl (Doreen Green) The Amazing Digital Circus About Our Story\
-  \ Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes News\
-  \ Staff Contact Extras! Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/iq-bell-curve-midwit
-template_id: midwit
-text:
-- align: center
-  anchor_x: 0.02
-  anchor_y: 0.46
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.283
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.13
-  anchor_y: 0.02
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.7
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.687
-  anchor_y: 0.386
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.283
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 3
+scraped_content: 'About IQ Bell Curve, also known as Midwit, refers to a series of
+  memes that use the IQ distribution diagrams to mock one of the three main groups
+  represented by the diagram, usually the largest group of people towards the center
+  of the curve who possess average intelligence. The concept of IQ Bell Curve memes
+  utilizes the horseshoe theory, implying that the groups with low intelligence and
+  high intelligence often choose to follow the same goals while being guided by different
+  reasoning. Those who possess average intelligence are referred to as "midwits."
+  While there were many versions of memes illustrating the concept, a variant of the
+  meme using three different Wojaks gained particular popularity in the 2020s on X
+  / Twitter and Reddit. Origin The word "mid-witted" was popularized by far-right
+  activist and writer Vox Day. On February 17th, 2012, Vox Day[1] published the blog
+  post "The tragedy of the mid-witted" in which he commented on a life story article
+  "Lessons of a very sexy pirate costume" by Jennifer Wright.[2] In the blog post,
+  Vox Day wrote, "Those who possess above-average intelligence and trouble to occasionally
+  read newspapers and magazines tend to genuinely be under the erroneous impression
+  that they possess superlative intelligence" (extract shown below). The term "midwit,"
+  meaning a person of average intelligence, saw use on 4chan starting in late 2013
+  (example posts shown below).[3][4][5] On January 1st, 2017, an anonymous 4chan[6]
+  user made the earliest found post that used the IQ bell curve diagram to argue about
+  the similarity of political views of groups with low and high intelligence (shown
+  below). The format did not see further use until December 2018. On December 14th,
+  2018, an anonymous /pol/ user[7] used the diagram to make a claim that people of
+  both low intelligence and high intelligence are racist (shown below, left), with
+  another user posting[8] an edited version of the diagram on the same day (shown
+  below, right). Note: the images contain an uncensored racial slur; discretion advised.
+  Spread Throughout 2019, the the edited image was reposted[9][10] on 4chan multiple
+  times. On June 24th, 2019, an anonymous /pol/[11] user posted a Manlet meme referencing
+  the horseshoe theory interpretation of the IQ bell curve (shown below, left). Several
+  variations of the format were posted on /pol/[12][13][14] in late 2019 and early
+  2020 (example shown below, right). The viral popularity of the format began on March
+  10th, 2010, when an anonymous 4chan[15] user posted a meme about Ted Kaczynski and
+  the anarcho-primitivistic ideology (shown below, left). On the same day, the user[16]
+  launched the first "midwit memes" thread which gained 12 replies (shown below, right).
+  In mid-March, the meme format in which the IQ bell curve was used to ridicule people
+  of average intelligence, referred to as "midwits," gained significant popularity
+  on /pol/ board, with multiple variations of the meme being posted[17][18] in the
+  following weeks. After the viral spread on 4chan, the format also gained notable
+  popularity on Facebook, with variations of the meme also appearing on other platforms
+  in the following months. Crossover Beyond 4chan A version of the meme featuring
+  three different Wojaks arrayed on an IQ Bell Curve chart gained increasing popularity
+  in the early 2020s. At the lowest IQ level is a variant of Brainlet, in the middle
+  of the curve is a Midwit crying Wojak and at the top end is a monk-like Wojak wearing
+  a cloak. In this version, the Monk Wojak and the Brainlet Wojak agree with one another
+  while the Midwit Wojak offers an unnecessarily complicated analysis. The earliest
+  version of this posting came from the X account @owenbroadcast on July 11th, 2020
+  (seen below), earning over 2,200 likes in the course of three and a half years.[19]
+  Following the @owenbroadcast post, versions of the meme using these three Wojaks
+  and this background became dominant across X, Reddit and other platforms. On /r/dndmemes
+  on January 3rd, 2021, the meme (seen below, top) earned over 4,100 upvotes in three
+  years.[20] On /r/okbuddyphd on October 15th, 2022, a posting (seen below, bottom)
+  riffing off the IQ bell curve format earned over 2,100 upvotes over the course of
+  a year.[21] Search Interest External References [1] Vox Day – The tragedy of the
+  mid-witted [2] Salon – Lessons of a very sexy pirate costume [3] 4chan – /pol/ Post
+  #23691479 [4] 4chan – /pol/ Post #50667913 [5] 4chan – /r9k/ Post #28347169 [6]
+  4chan – /pol/ Thread #105290193 [7] 4chan – /pol/ Post #196643836 [8] 4chan – /pol/
+  Post #196672446 [9] 4chan – /pol/ Thread #227414002 [10] 4chan – /pol/ Thread #228648992
+  [11] 4chan – /pol/ Post #10751356 [12] 4chan – /pol/ Thread #228648992 [13] 4chan
+  – /pol/ Post #236324288 [14] 4chan – /pol/ Post #240385631 [15] 4chan – /pol/ Post
+  #247368790 [16] 4chan – /pol/ Thread #247369006 [17] 4chan – /pol/ Post #248043341
+  [18] 4chan – /pol/ Post #248044758 [19] X – @owenbroadcast [20] Reddit – /r/dndmemes
+  [21] Reddit – /r/okbuddyphd'
+aside_content: MemeStatusConfirmedType:ExploitableBadges:SensitiveYear2018Origin4chanTagsmidwit,iq,bell
+  curve,distribution curve,intelligence quotient,intelligence,/pol/,iq score,horseshoe
+  theory,jennifer wright,bell curve memes,iq score graph meme
+added_at: '2020-10-30T10:35:00-04:00'

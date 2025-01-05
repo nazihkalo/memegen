@@ -1,3 +1,74 @@
+name: American Chopper Argument
+source: https://knowyourmeme.com/memes/american-chopper-argument
+keywords:
+- null
+text:
+- style: default
+  color: khaki
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.2
+  angle: 0.0
+  scale_x: 0.495
+  scale_y: 0.13
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.495
+  anchor_y: 0.2
+  angle: 0.0
+  scale_x: 0.505
+  scale_y: 0.13
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.535
+  angle: 0.0
+  scale_x: 0.495
+  scale_y: 0.13
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.495
+  anchor_y: 0.525
+  angle: 0.0
+  scale_x: 0.505
+  scale_y: 0.14
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: upper
+  color: khaki
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.87
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.13
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: upper
+  color: white
+  font: thick
+  anchor_x: 0.5
+  anchor_y: 0.87
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.13
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - Let's expand safety nets
 - Socialism never works!
@@ -5,265 +76,71 @@ example:
 - They're not socialist. They're capitalist with strong welfare policies!
 - Then let's adopt those!
 - No that's socialism!!
-keywords:
-- null
-name: American Chopper Argument
 overlay:
-- angle: 0.0
-  center_x: 0.5
+- center_x: 0.5
   center_y: 0.5
+  angle: 0.0
   scale: 0.25
-scraped_content: "American Chopper Argument | Know Your Meme O HAI! You must login\
-  \ or signup first! Already a memeber? Login Now! Don't have an account? Sign up\
-  \ Now! Meme Encyclopedia All Cultures Events People Sites Subcultures Videos Submit\
-  \ \u2192 Images Trending Most Commented Most Favorited High Score Low Score Most\
-  \ Viewed All Templates Upload an Image Articles News Explainers Collections Interviews\
-  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
-  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
-  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
-  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
-  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
-  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
-  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
-  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
-  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
-  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
-  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
-  \ CEO American Chopper Argument Added 6 years ago / Updated 5 years ago Confirmed\
-  \ 522,143 View All 151 Images Navigation About \u2022 Origin \u2022 Spread \u2022\
-  \ Various Examples \u2022 Search Interest \u2022 External References \u2022 Recent\
-  \ Images \u2022 Recent Videos About American Chopper Argument refers to a scene\
-  \ from American reality TV show American Chopper in which Paul Teutul Sr. and Paul\
-  \ Teutul Jr. get in a shouting match about Jr.'s tardiness. Since its original airing\
-  \ in 2009, the explosive scene has spawned an exploitable photocomic series that\
-  \ humorously illustrate various debates in pop culture fandom. In March 2018, the\
-  \ meme made its first breakout on Twitter. Origin The scene aired in the first episode\
-  \ of Season 6 of Discovery Channel's American Chopper, \"NHL Bike B2 Bomber Bike,\"\
-  \ which aired April 9th, 2009[1] (shown below). In the scene, the Teutuls get into\
-  \ a violent argument after Paul Sr. raises issue with Paul Jr.'s tardiness in the\
-  \ morning. By the end of the episode, Teutul Jr. gets fired from the shop. Spread\
-  \ The scene started becoming an exploitable comic in late 2011. A post to /r/funny\
-  \ on November 24th, 2012[2] and made the dialogue wholesome gained over 1,300 upvotes\
-  \ (shown below, left). The post gained over 1,400 upvotes (shown below, right).\
-  \ Another variation was posted to fuckyeahdementia[3] on December 10th, 2011 (shown\
-  \ below, right). Over the following several years, there were some variations in\
-  \ the meme, but the majority of posts with the template featured the wholesome edit\
-  \ shown above. In March of 2018, the format began seeing new popular variations.\
-  \ For example, a Twitter post by @_ericcurtain referencing the All Women Are Queens\
-  \ meme gained over 14,000 retweets and 47,000 likes (shown below, left). A post\
-  \ on /r/MemeEconomy from March 27th, 2018 referencing Garfield gained over 1,600\
-  \ upvotes (shown below, right). Photoshop Parodies As the meme continued to grow\
-  \ in volume of iterations, photoshop variations of the dialogue began appearing,\
-  \ featuring characters from other media franchises superimposed over the original\
-  \ American Chopper template. On March 31st, 2018, FunnyJunk [5] user lerky posted\
-  \ several variations of the format, including a Prequel Memes version featuring\
-  \ the \"I have the higher ground\" meme (shown below, left). On April 4th, 2018\
-  \ Twitter[6] user @markpopham posted a version based on a scene from the American\
-  \ television situational comedy Frasier (shown below, center), garnering more than\
-  \ 2,200 retweets and 8,300 likes in six days. On April 6th, Twitter[7] user @notebooklines\
-  \ posted a recreation of the scene featuring Neon Genesis Evangelion characters\
-  \ (shown below, right), receiving more than 4,100 retweets and 8,700 likes in four\
-  \ days. On April 10th, Twitter user @grayflannelsuit[4] uploaded a \"twitter friendly\"\
-  \ version of the meme featuring the frames side-by-side to shorten the length of\
-  \ the image to comply with Twitter's format. Media Coverage Several media outlets\
-  \ covered the popularity of the meme, including Vice, [7] USA Today,[8] Cnet,[10]\
-  \ Slate,[11] Mashable [12] and more. Various Examples Fandom Metahumor Academic\
-  \ Political Discourse Some of have found the meme has various implications in class,\
-  \ politics and gender. Writing for Vox[9], Matthew Yglesias writes: \"Part of what\
-  \ makes the meme work is that you don\u2019t actually need to be familiar with the\
-  \ show to read the facial hair and cap as class signifiers. At the same time, the\
-  \ dispute is clearly taking place in an office setting -- reflecting the reality\
-  \ that the Teutuls are wealthy business owners and television stars rather than\
-  \ struggling workers. This dichotomy between economic status and the sociocultural\
-  \ aspects of \u201Cclass\u201D has become a hallmark of the Trump years, in which\
-  \ political disagreements between white Americans have come to be deeply polarized\
-  \ between the more and less educated even while the policy orientation of the GOP\
-  \ remains overwhelmingly focused on the wealthy. The Teutuls are, in this sense,\
-  \ the perfect Trump-era Republicans -- a couple of lowbrow regular guys who happen\
-  \ to be incredibly rich business owners who\u2019d probably appreciate a big tax\
-  \ cut for pass-through income. They\u2019re the social and political antithesis\
-  \ of the young, debt-burdened recent college graduates living in expensive cities\
-  \ and struggling to make a living in creative fields -- the sort of people who\u2019\
-  ve been enthusiastically creating and sharing the Chopper meme. Search Interest\
-  \ External References [1] Wikipedia \u2013 Season 6 [2] Reddit \u2013 /r/funny [3]\
-  \ fuckyeahdementia \u2013 Gentleman and Scholar [4] Twitter \u2013 @grayflannelsuit's\
-  \ Tweet [5] FunnyJunk \u2013 Hi I'm here to destroy this meme [6] Twitter \u2013\
-  \ @markpopham's Tweet [7] Vice \u2013 This Angry \u2018American Chopper\u2019 Meme\
-  \ Is Our New Favorite Meme [8] USA Today \u2013 The 'American Chopper' meme featuring\
-  \ Paul Teutul and son, explained [9] Vox \u2013 The American Chopper meme, explained\
-  \ [10] CNet \u2013 American Chopper argument revs Twitter with resurgent meme [11]\
-  \ Slate- How the American Chopper Meme American-Chopped Its Way Into Our Hearts\
-  \ [12] Mashable \u2013 The 'American Chopper' meme is perfect for when you have\
-  \ too many feelings argument american choppers american chopper paul teutul sr.\
-  \ paul teutul jr. orange county chopper orange county choppers occ paul teutel chopper\
-  \ boys fuckyeahdementia lerky frasier _ericcurtain markpopham notebooklines Share\
-  \ Pin Recent Images 151 total View All Images Recent Videos 3 total View All Videos\
-  \ Sign up for our Newsletter Load 11 Comments Comments 11 total 57 American Chopper\
-  \ Argument 522,143 3 151 11 Updated Nov 11, 2019 at 05:17AM EST by Y F. Added Mar\
-  \ 28, 2018 at 03:23PM EDT by Adam. Like us on Facebook! Like 1.8M Share Save Tweet\
-  \ PROTIP: Press 'i' to view the image gallery, 'v' to view the video gallery, or\
-  \ 'r' to view a random entry. Meme Status Confirmed Type: Exploitable Year 2009\
-  \ Origin American Choppers Tags argument, american choppers, american chopper, paul\
-  \ teutul sr., paul teutul jr., orange county chopper, orange county choppers, occ,\
-  \ paul teutel, chopper boys, fuckyeahdementia, lerky, frasier, _ericcurtain, markpopham,\
-  \ notebooklines About American Chopper Argument refers to a scene from American\
-  \ reality TV show American Chopper in which Paul Teutul Sr. and Paul Teutul Jr.\
-  \ get in a shouting match about Jr.'s tardiness. Since its original airing in 2009,\
-  \ the explosive scene has spawned an exploitable photocomic series that humorously\
-  \ illustrate various debates in pop culture fandom. In March 2018, the meme made\
-  \ its first breakout on Twitter. Origin The scene aired in the first episode of\
-  \ Season 6 of Discovery Channel's American Chopper, \"NHL Bike B2 Bomber Bike,\"\
-  \ which aired April 9th, 2009[1] (shown below). In the scene, the Teutuls get into\
-  \ a violent argument after Paul Sr. raises issue with Paul Jr.'s tardiness in the\
-  \ morning. By the end of the episode, Teutul Jr. gets fired from the shop. Spread\
-  \ The scene started becoming an exploitable comic in late 2011. A post to /r/funny\
-  \ on November 24th, 2012[2] and made the dialogue wholesome gained over 1,300 upvotes\
-  \ (shown below, left). The post gained over 1,400 upvotes (shown below, right).\
-  \ Another variation was posted to fuckyeahdementia[3] on December 10th, 2011 (shown\
-  \ below, right). Over the following several years, there were some variations in\
-  \ the meme, but the majority of posts with the template featured the wholesome edit\
-  \ shown above. In March of 2018, the format began seeing new popular variations.\
-  \ For example, a Twitter post by @_ericcurtain referencing the All Women Are Queens\
-  \ meme gained over 14,000 retweets and 47,000 likes (shown below, left). A post\
-  \ on /r/MemeEconomy from March 27th, 2018 referencing Garfield gained over 1,600\
-  \ upvotes (shown below, right). Photoshop Parodies As the meme continued to grow\
-  \ in volume of iterations, photoshop variations of the dialogue began appearing,\
-  \ featuring characters from other media franchises superimposed over the original\
-  \ American Chopper template. On March 31st, 2018, FunnyJunk [5] user lerky posted\
-  \ several variations of the format, including a Prequel Memes version featuring\
-  \ the \"I have the higher ground\" meme (shown below, left). On April 4th, 2018\
-  \ Twitter[6] user @markpopham posted a version based on a scene from the American\
-  \ television situational comedy Frasier (shown below, center), garnering more than\
-  \ 2,200 retweets and 8,300 likes in six days. On April 6th, Twitter[7] user @notebooklines\
-  \ posted a recreation of the scene featuring Neon Genesis Evangelion characters\
-  \ (shown below, right), receiving more than 4,100 retweets and 8,700 likes in four\
-  \ days. On April 10th, Twitter user @grayflannelsuit[4] uploaded a \"twitter friendly\"\
-  \ version of the meme featuring the frames side-by-side to shorten the length of\
-  \ the image to comply with Twitter's format. Media Coverage Several media outlets\
-  \ covered the popularity of the meme, including Vice, [7] USA Today,[8] Cnet,[10]\
-  \ Slate,[11] Mashable [12] and more. Various Examples Fandom Metahumor Academic\
-  \ Political Discourse Some of have found the meme has various implications in class,\
-  \ politics and gender. Writing for Vox[9], Matthew Yglesias writes: \"Part of what\
-  \ makes the meme work is that you don\u2019t actually need to be familiar with the\
-  \ show to read the facial hair and cap as class signifiers. At the same time, the\
-  \ dispute is clearly taking place in an office setting -- reflecting the reality\
-  \ that the Teutuls are wealthy business owners and television stars rather than\
-  \ struggling workers. This dichotomy between economic status and the sociocultural\
-  \ aspects of \u201Cclass\u201D has become a hallmark of the Trump years, in which\
-  \ political disagreements between white Americans have come to be deeply polarized\
-  \ between the more and less educated even while the policy orientation of the GOP\
-  \ remains overwhelmingly focused on the wealthy. The Teutuls are, in this sense,\
-  \ the perfect Trump-era Republicans -- a couple of lowbrow regular guys who happen\
-  \ to be incredibly rich business owners who\u2019d probably appreciate a big tax\
-  \ cut for pass-through income. They\u2019re the social and political antithesis\
-  \ of the young, debt-burdened recent college graduates living in expensive cities\
-  \ and struggling to make a living in creative fields -- the sort of people who\u2019\
-  ve been enthusiastically creating and sharing the Chopper meme. Search Interest\
-  \ External References [1] Wikipedia \u2013 Season 6 [2] Reddit \u2013 /r/funny [3]\
-  \ fuckyeahdementia \u2013 Gentleman and Scholar [4] Twitter \u2013 @grayflannelsuit's\
-  \ Tweet [5] FunnyJunk \u2013 Hi I'm here to destroy this meme [6] Twitter \u2013\
-  \ @markpopham's Tweet [7] Vice \u2013 This Angry \u2018American Chopper\u2019 Meme\
-  \ Is Our New Favorite Meme [8] USA Today \u2013 The 'American Chopper' meme featuring\
-  \ Paul Teutul and son, explained [9] Vox \u2013 The American Chopper meme, explained\
-  \ [10] CNet \u2013 American Chopper argument revs Twitter with resurgent meme [11]\
-  \ Slate- How the American Chopper Meme American-Chopped Its Way Into Our Hearts\
-  \ [12] Mashable \u2013 The 'American Chopper' meme is perfect for when you have\
-  \ too many feelings Recent Videos 3 total The American Chopper Guys Dis... American\
-  \ Chopper Argument Uploaded by Sirenhound I'm not your buddy, friend! American Chopper\
-  \ Argument Uploaded by darek4412 American Chopper Argument American Chopper Argument\
-  \ Uploaded by Captain Dramatic + Add a Video Recent Images 151 total American Chopper\
-  \ Argument Uploaded by Jaimie Hamilton American Chopper Argument Uploaded by Lugamo\
-  \ American Chopper Argument Uploaded by StarSword American Chopper Argument Uploaded\
-  \ by andcallmeshirley American Chopper Argument Uploaded by Cold Hard Crash American\
-  \ Chopper Argument Uploaded by bruhinb American Chopper Argument Uploaded by Kotor\
-  \ American Chopper Argument Uploaded by Phillip Hamilton American Chopper Argument\
-  \ Uploaded by OurDeerLeader American Chopper Argument Uploaded by Adam B. American\
-  \ Chopper Argument Uploaded by OurDeerLeader American Chopper Argument Uploaded\
-  \ by MGmirkin + Add an Image View All Images Sign up for our Newsletter Top Comments\
-  \ Delete Sensitive Walrus the Tree Mar 28, 2018 at 11:07PM EDT God, I hope this\
-  \ catches on. In its current form, it's one of the most effortful memes I've seen\
-  \ in a long time. You actually have to argue two sides. Even if you're making one\
-  \ look stupid in the process, not only could it go either way with who you choose,\
-  \ but you actually have to write out full complete sentences in a back-and-forth\
-  \ dialogue. +68 Reply Delete Sensitive Tysonist Apr 08, 2018 at 06:05AM EDT in reply\
-  \ to Walrus the Tree +51 Reply + Add a Comment Comments (11) Display Comments Add\
-  \ a Comment Top Entries This Month Meme Saika Kawakita Smile GIF Event Assassination\
-  \ of UnitedHealthcare CEO Person Luigi Mangione UHC CEO Shooter Subculture The Ki\
-  \ Sisters Culture Pornography Site Whisper View More Suggest a Change Edit History\
-  \ Entry Editors (5) Adam Know Your Meme Universal Champion Don Administrator & Meme\
-  \ Daddy Y F Digital Archaeologist & Treasurer & Media Maid Matt Secretary of Memes\
-  \ Brad Digital Archaeologist & Treasurer & Pundit & Gallery Housekeeper \u25BC +\
-  \ Request Editorship View All Editors Today's Top Image Galleries Assassination\
-  \ of UnitedHealthcare CEO Squirrel Girl (Doreen Green) Team Fortress 2 The Amazing\
-  \ Digital Circus About Our Story Site Rules Policies and Guidelines Credits Contact\
-  \ Meme DB Memes Episodes News Staff Contact Extras! Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/american-chopper-argument
-template_id: chair
-text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.2
-  angle: 0.0
-  color: khaki
-  font: thick
-  scale_x: 0.495
-  scale_y: 0.13
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.495
-  anchor_y: 0.2
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.505
-  scale_y: 0.13
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.535
-  angle: 0.0
-  color: khaki
-  font: thick
-  scale_x: 0.495
-  scale_y: 0.13
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.495
-  anchor_y: 0.525
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.505
-  scale_y: 0.14
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.87
-  angle: 0.0
-  color: khaki
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.13
-  start: 0.0
-  stop: 1.0
-  style: upper
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.87
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.13
-  start: 0.0
-  stop: 1.0
-  style: upper
-text_zones: 6
+scraped_content: 'About American Chopper Argument refers to a scene from American
+  reality TV show American Chopper in which Paul Teutul Sr. and Paul Teutul Jr. get
+  in a shouting match about Jr.''s tardiness. Since its original airing in 2009, the
+  explosive scene has spawned an exploitable photocomic series that humorously illustrate
+  various debates in pop culture fandom. In March 2018, the meme made its first breakout
+  on Twitter. Origin The scene aired in the first episode of Season 6 of Discovery
+  Channel''s American Chopper, "NHL Bike B2 Bomber Bike," which aired April 9th, 2009[1]
+  (shown below). In the scene, the Teutuls get into a violent argument after Paul
+  Sr. raises issue with Paul Jr.''s tardiness in the morning. By the end of the episode,
+  Teutul Jr. gets fired from the shop. Spread The scene started becoming an exploitable
+  comic in late 2011. A post to /r/funny on November 24th, 2012[2] and made the dialogue
+  wholesome gained over 1,300 upvotes (shown below, left). The post gained over 1,400
+  upvotes (shown below, right). Another variation was posted to fuckyeahdementia[3]
+  on December 10th, 2011 (shown below, right). Over the following several years, there
+  were some variations in the meme, but the majority of posts with the template featured
+  the wholesome edit shown above. In March of 2018, the format began seeing new popular
+  variations. For example, a Twitter post by @_ericcurtain referencing the All Women
+  Are Queens meme gained over 14,000 retweets and 47,000 likes (shown below, left).
+  A post on /r/MemeEconomy from March 27th, 2018 referencing Garfield gained over
+  1,600 upvotes (shown below, right). Photoshop Parodies As the meme continued to
+  grow in volume of iterations, photoshop variations of the dialogue began appearing,
+  featuring characters from other media franchises superimposed over the original
+  American Chopper template. On March 31st, 2018, FunnyJunk [5] user lerky posted
+  several variations of the format, including a Prequel Memes version featuring the
+  "I have the higher ground" meme (shown below, left). On April 4th, 2018 Twitter[6]
+  user @markpopham posted a version based on a scene from the American television
+  situational comedy Frasier (shown below, center), garnering more than 2,200 retweets
+  and 8,300 likes in six days. On April 6th, Twitter[7] user @notebooklines posted
+  a recreation of the scene featuring Neon Genesis Evangelion characters (shown below,
+  right), receiving more than 4,100 retweets and 8,700 likes in four days. On April
+  10th, Twitter user @grayflannelsuit[4] uploaded a "twitter friendly" version of
+  the meme featuring the frames side-by-side to shorten the length of the image to
+  comply with Twitter''s format. Media Coverage Several media outlets covered the
+  popularity of the meme, including Vice, [7] USA Today,[8] Cnet,[10] Slate,[11] Mashable
+  [12] and more. Various Examples Fandom Metahumor Academic Political Discourse Some
+  of have found the meme has various implications in class, politics and gender. Writing
+  for Vox[9], Matthew Yglesias writes: "Part of what makes the meme work is that you
+  don’t actually need to be familiar with the show to read the facial hair and cap
+  as class signifiers. At the same time, the dispute is clearly taking place in an
+  office setting -- reflecting the reality that the Teutuls are wealthy business owners
+  and television stars rather than struggling workers. This dichotomy between economic
+  status and the sociocultural aspects of “class” has become a hallmark of the Trump
+  years, in which political disagreements between white Americans have come to be
+  deeply polarized between the more and less educated even while the policy orientation
+  of the GOP remains overwhelmingly focused on the wealthy. The Teutuls are, in this
+  sense, the perfect Trump-era Republicans -- a couple of lowbrow regular guys who
+  happen to be incredibly rich business owners who’d probably appreciate a big tax
+  cut for pass-through income. They’re the social and political antithesis of the
+  young, debt-burdened recent college graduates living in expensive cities and struggling
+  to make a living in creative fields -- the sort of people who’ve been enthusiastically
+  creating and sharing the Chopper meme. Search Interest External References [1] Wikipedia
+  – Season 6 [2] Reddit – /r/funny [3] fuckyeahdementia – Gentleman and Scholar [4]
+  Twitter – @grayflannelsuit''s Tweet [5] FunnyJunk – Hi I''m here to destroy this
+  meme [6] Twitter – @markpopham''s Tweet [7] Vice – This Angry ‘American Chopper’
+  Meme Is Our New Favorite Meme [8] USA Today – The ''American Chopper'' meme featuring
+  Paul Teutul and son, explained [9] Vox – The American Chopper meme, explained [10]
+  CNet – American Chopper argument revs Twitter with resurgent meme [11] Slate- How
+  the American Chopper Meme American-Chopped Its Way Into Our Hearts [12] Mashable
+  – The ''American Chopper'' meme is perfect for when you have too many feelings'
+aside_content: MemeStatusConfirmedType:ExploitableYear2009OriginAmerican ChoppersTagsargument,american
+  choppers,american chopper,paul teutul sr.,paul teutul jr.,orange county chopper,orange
+  county choppers,occ,paul teutel,chopper boys,fuckyeahdementia,lerky,frasier,_ericcurtain,markpopham,notebooklines
+added_at: '2018-03-28T15:23:46-04:00'

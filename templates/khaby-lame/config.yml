@@ -1,81 +1,39 @@
-example:
-- Bad mood?
-- Laugh at memes
-keywords:
-- It's That Sample
 name: Khaby Lame Shrug
-overlay:
-- angle: 0.0
-  center_x: 0.25
-  center_y: 0.255
-  scale: 0.48
-- angle: 0.0
-  center_x: 0.25
-  center_y: 0.745
-  scale: 0.48
-scraped_content: "Khaby Lame Shrug Template | Khaby Lame Shrug / It's That Simple\
-  \ | Know Your Meme Hauu! You must login or signup first! Already a memeber? Login\
-  \ Now! Don't have an account? Sign up Now! Meme Encyclopedia All Cultures Events\
-  \ People Sites Subcultures Videos Submit \u2192 Images Trending Most Commented Most\
-  \ Favorited High Score Low Score Most Viewed All Templates Upload an Image Articles\
-  \ News Explainers Collections Interviews Meme Insider Magazine More Discord Newsletter\
-  \ Episodes Forums Meme Store Login Abstract user icon Memes Categories Trending\
-  \ News Images Trending Images Videos Trending Videos Editorials Meme Insider Magazine\
-  \ Newsletter Policies and Guidelines Meme Store Old site Login Know Your Meme is\
-  \ the property of Literally Media \xA92024 Literally Media. All Rights Reserved.\
-  \ This image Of Woman Confidently Strolling Through A Glass Panel Has Been A Redraw\
-  \ Format Since 2021 Three Years Ago, This Boar's Head 'Exploded' Onto The Meme Scene\
-  \ Remember Il Vaticano? The Anarchy Chess Memes Turns Two Years Old Today Phrase\
-  \ 'The Fridge Protects The Snacks' A Growing Favorite Among Pickup Artist Influencers\
-  \ Jamie G, The Bosh British Charva, Has Taken Over TikTok With His Signature 'Oh\
-  \ Cherie Amour' Sound Also Trending: Honey Extension Influencer Scam Renegade Raider\
-  \ Copypasta Assassination of UnitedHealthcare CEO +1 Khaby Lame Shrug Template Uploaded\
-  \ by Phillip Hamilton Jun 24, 2021 at 10:15AM EDT Share Pin Download More shrug\
-  \ black man shrug drake meme it's that simple khaby lame tiktok Origin Entry: Khaby\
-  \ Lame Shrug / It's That Simple File type: jpg Resolution: (1284px x 1280px) File\
-  \ size: 481 KB View All 19 Images More: OnlyFans Vs. Boobies Khaby Lame Shrugging\
-  \ Share Pin YouTube Is Run by A Bunch of Simps for Cardi B Share Pin goth Share\
-  \ Pin Medieval Khaby Lame Template Share Pin Drawing Birds Share Pin Just use \"\
-  Revive\"! Share Pin Next 0 +1 Khaby Lame Shrug / It's That Simple - Khaby Lame Shrug\
-  \ Template Like us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press the \u2190\
-  \ and \u2192 keys to navigate the gallery, 'g' to view the gallery, or 'r' to view\
-  \ a random image. \u25C4 Previous View Gallery Random Image Next \u25BA More: Khaby\
-  \ Lame Shrug / It's That ... Uploaded by Autumn Able Khaby Lame Shrug / It's That\
-  \ ... Uploaded by Autumn Able Khaby Lame Shrug / It's That ... Uploaded by Phillip\
-  \ Hamilton Khaby Lame Shrug / It's That ... Uploaded by Phillip Hamilton + Add a\
-  \ Comment Comments (0) There are no comments currently available. Display Comments\
-  \ Add a Comment + Add an Image Image Details 989 views (12 from today) Uploaded\
-  \ Jun 24, 2021 at 10:15AM EDT Origin Entry Khaby Lame Shrug / It's That Simple Tags\
-  \ shrug, black man shrug, drake meme, it's that simple, khaby lame, tiktok Claim\
-  \ Authorship Edit History About the Uploader Phillip Hamilton Bonk Connoisseur Textile\
-  \ Embed !https://i.kym-cdn.com/photos/images/newsfeed/002/132/291/ea2.jpg! Today's\
-  \ Top Image Galleries Assassination of UnitedHealthcare CEO Squirrel Girl (Doreen\
-  \ Green) Team Fortress 2 The Amazing Digital Circus About Our Story Site Rules Policies\
-  \ and Guidelines Credits Contact Meme DB Memes Episodes News Staff Contact Extras!\
-  \ Style Guide RSS Feeds"
 source: https://knowyourmeme.com/photos/2132291-khaby-lame-shrug-its-that-simple
-template_id: khaby-lame
+keywords:
+  - It's That Sample
 text:
-- align: center
-  anchor_x: 0.02
-  anchor_y: 0.02
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.45
-  scale_y: 0.47
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.02
-  anchor_y: 0.51
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.45
-  scale_y: 0.47
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 2
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.02
+    angle: 0.0
+    scale_x: 0.45
+    scale_y: 0.47
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.02
+    anchor_y: 0.51
+    angle: 0.0
+    scale_x: 0.45
+    scale_y: 0.47
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - Bad mood?
+  - Laugh at memes
+overlay:
+  - center_x: 0.25
+    center_y: 0.255
+    angle: 0.0
+    scale: 0.48
+  - center_x: 0.25
+    center_y: 0.745
+    angle: 0.0
+    scale: 0.48

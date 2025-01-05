@@ -1,175 +1,88 @@
+name: Left Exit 12 Off Ramp
+source: https://knowyourmeme.com/memes/left-exit-12-off-ramp
+keywords:
+- null
+text:
+- style: default
+  color: '#BBBBBB'
+  font: thin
+  anchor_x: 0.24
+  anchor_y: 0.15
+  angle: 0.0
+  scale_x: 0.15
+  scale_y: 0.22
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: thin
+  color: '#BBBBBB'
+  font: thin
+  anchor_x: 0.53
+  anchor_y: 0.15
+  angle: 0.0
+  scale_x: 0.22
+  scale_y: 0.22
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thin
+  anchor_x: 0.46
+  anchor_y: 0.85
+  angle: 9.0
+  scale_x: 0.32
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - The Pins
 - The Gutter
 - Bowling Ball
-keywords:
-- null
-name: Left Exit 12 Off Ramp
 overlay:
-- angle: 0.0
-  center_x: 0.31
+- center_x: 0.31
   center_y: 0.26
+  angle: 0.0
   scale: 0.17
-- angle: 0.0
-  center_x: 0.64
+- center_x: 0.64
   center_y: 0.26
+  angle: 0.0
   scale: 0.17
-- angle: 8.0
-  center_x: 0.52
+- center_x: 0.52
   center_y: 0.82
+  angle: 8.0
   scale: 0.3
-scraped_content: "Left Exit 12 Off Ramp | Know Your Meme Sup! You must login or signup\
-  \ first! Already a memeber? Login Now! Don't have an account? Sign up Now! Meme\
-  \ Encyclopedia All Cultures Events People Sites Subcultures Videos Submit \u2192\
-  \ Images Trending Most Commented Most Favorited High Score Low Score Most Viewed\
-  \ All Templates Upload an Image Articles News Explainers Collections Interviews\
-  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
-  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
-  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
-  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
-  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
-  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
-  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
-  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
-  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
-  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
-  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
-  \ CEO Left Exit 12 Off Ramp Added 6 years ago / Updated 8 days ago Confirmed 205,409\
-  \ Part of a series on Object Labeling. [View Related Entries] View All 58 Images\
-  \ Navigation About \u2022 Origin \u2022 Spread \u2022 Various Examples \u2022 External\
-  \ References \u2022 Recent Images \u2022 Recent Videos About Left Exit 12 Off Ramp\
-  \ is a series of exploitables in which a car swerving into an off ramp. On the highway\
-  \ sign, the meme's author photoshops something the author disapproves of and something\
-  \ they would prefer. The car swerves toward the preference. Origin The meme is a\
-  \ photoshop composite based on a YouTube video entitled \"How to exit freeway like\
-  \ a boss.\" Uploaded on July 4th, 2013, the video by YouTuber[7] Fredrik S\xF8rlie\
-  \ shows a car drifting into an off ramp; however, there are no highway signs at\
-  \ the off ramp. The video (shown below) received more than 97,000 views in four\
-  \ and a half years. Spread The earliest known use of the video as a meme was posted\
-  \ on December 29th, 2017 by HiddenLOL[6] user anon90. The post (shown below) entitled\
-  \ \"made a template, don't know if it has potential, template in comments,\" shows\
-  \ car with the Swedish flag on it avoiding a photoshopped highway exit for \"Continue\
-  \ being a stable first world country\" and taking the exit for \"Mass uncontrolled\
-  \ migration from third world nations.\" When shared by Redditor [3] Throwthowk,\
-  \ the post (shown below, left) received more than 275 points (94% upvoted) in less\
-  \ than one week. That day, HUGELOL[2] user dankhunt42 posted a version entitled\
-  \ \"end it pls,\" which shows the car labeled me avoiding the exit for \"A great\
-  \ life full of opportunities friends , girlfriends\" for the exit \"Fucking kill\
-  \ myself.\" The post (shown below, left) received more than 40 points in less than\
-  \ one week. The next day, on December 31st, Redditor[4] Laughing_Fish posted a variation\
-  \ on the /r/dankmemes subreddit. This version shows \"A new year filled with new\
-  \ opportunities to better myself and make a difference\" on the left. On the right,\
-  \ it reads, \"Another year of shitposting memes on Reddit.\" The post (shown below,\
-  \ center) received more than 18,600 points (96% upvoted) and 120 comments in four\
-  \ days. On January 1st, 2018, Imgur [5] user ArigatoKamisama posted another New\
-  \ Years version, featuring \"New year new me\" and \"same shit different year.\"\
-  \ The post (shown below, right) received more than 2,100 views in three days. Various\
-  \ Examples External References [1] YouTube \u2013 cara exit highway yang betul [2]\
-  \ HUGELOL \u2013 end it pls [3] Reddit \u2013 Swedish Suicide Pill [4] Reddit \u2013\
-  \ New year, new memes [5] Imgur \u2013 Back on my bullshit \xAF\\(\u30C4)/\xAF [6]\
-  \ HiddenLOL \u2013 made a template, don't know if it has potential, template in\
-  \ comments [7] YouTube \u2013 How to exit freeway like a boss car off ramp photoshop\
-  \ wrong choice fredrik s\xF8rlie throwthowk dankhunt42 arigatokamisama Share Pin\
-  \ Related Entries 93 total Distracted Boyfriend Forced to Drink Milk Epic Handshake\
-  \ Trumpet Boy View All Related Entries Recent Images 58 total View All Images Recent\
-  \ Videos 1 total View All Videos Sign up for our Newsletter Load 11 Comments Comments\
-  \ 11 total 30 Left Exit 12 Off Ramp 205,409 1 58 11 Part of a series on Object Labeling.\
-  \ [View Related Entries] Updated Dec 15, 2024 at 04:35PM EST by LiterallyAustin.\
-  \ Added Jan 04, 2018 at 03:38PM EST by Matt. Like us on Facebook! Like 1.8M Share\
-  \ Save Tweet PROTIP: Press 'i' to view the image gallery, 'v' to view the video\
-  \ gallery, or 'r' to view a random entry. Meme Status Confirmed Type: Exploitable\
-  \ Year 2017 Origin YouTube Tags car, off ramp, photoshop, wrong choice, fredrik\
-  \ s\xF8rlie, throwthowk, dankhunt42, arigatokamisama About Left Exit 12 Off Ramp\
-  \ is a series of exploitables in which a car swerving into an off ramp. On the highway\
-  \ sign, the meme's author photoshops something the author disapproves of and something\
-  \ they would prefer. The car swerves toward the preference. Origin The meme is a\
-  \ photoshop composite based on a YouTube video entitled \"How to exit freeway like\
-  \ a boss.\" Uploaded on July 4th, 2013, the video by YouTuber[7] Fredrik S\xF8rlie\
-  \ shows a car drifting into an off ramp; however, there are no highway signs at\
-  \ the off ramp. The video (shown below) received more than 97,000 views in four\
-  \ and a half years. Spread The earliest known use of the video as a meme was posted\
-  \ on December 29th, 2017 by HiddenLOL[6] user anon90. The post (shown below) entitled\
-  \ \"made a template, don't know if it has potential, template in comments,\" shows\
-  \ car with the Swedish flag on it avoiding a photoshopped highway exit for \"Continue\
-  \ being a stable first world country\" and taking the exit for \"Mass uncontrolled\
-  \ migration from third world nations.\" When shared by Redditor [3] Throwthowk,\
-  \ the post (shown below, left) received more than 275 points (94% upvoted) in less\
-  \ than one week. That day, HUGELOL[2] user dankhunt42 posted a version entitled\
-  \ \"end it pls,\" which shows the car labeled me avoiding the exit for \"A great\
-  \ life full of opportunities friends , girlfriends\" for the exit \"Fucking kill\
-  \ myself.\" The post (shown below, left) received more than 40 points in less than\
-  \ one week. The next day, on December 31st, Redditor[4] Laughing_Fish posted a variation\
-  \ on the /r/dankmemes subreddit. This version shows \"A new year filled with new\
-  \ opportunities to better myself and make a difference\" on the left. On the right,\
-  \ it reads, \"Another year of shitposting memes on Reddit.\" The post (shown below,\
-  \ center) received more than 18,600 points (96% upvoted) and 120 comments in four\
-  \ days. On January 1st, 2018, Imgur [5] user ArigatoKamisama posted another New\
-  \ Years version, featuring \"New year new me\" and \"same shit different year.\"\
-  \ The post (shown below, right) received more than 2,100 views in three days. Various\
-  \ Examples External References [1] YouTube \u2013 cara exit highway yang betul [2]\
-  \ HUGELOL \u2013 end it pls [3] Reddit \u2013 Swedish Suicide Pill [4] Reddit \u2013\
-  \ New year, new memes [5] Imgur \u2013 Back on my bullshit \xAF\\(\u30C4)/\xAF [6]\
-  \ HiddenLOL \u2013 made a template, don't know if it has potential, template in\
-  \ comments [7] YouTube \u2013 How to exit freeway like a boss Related Entries 93\
-  \ total Distracted Boyfriend Forced to Drink Milk Epic Handshake Trumpet Boy Respect\
-  \ Women Baton Roue Bronze Medal Germany Oneesan / Anime Girl's Nazi Past The What\
-  \ / Rug Doctor Woman Ad Fantasy Painting Object Labeling Assassination Chain Dabbing\
-  \ Dude View All Related Entries Recent Videos 1 total How to exit freeway like a\
-  \ bo... Left Exit 12 Off Ramp Uploaded by Matt + Add a Video Recent Images 58 total\
-  \ Left Exit 12 Off Ramp Uploaded by Reddit Moments Left Exit 12 Off Ramp Uploaded\
-  \ by Aidan Walker Left Exit 12 Off Ramp Uploaded by TOMNICE Left Exit 12 Off Ramp\
-  \ Uploaded by Aidan Walker Left Exit 12 Off Ramp Uploaded by Lugamo Left Exit 12\
-  \ Off Ramp Uploaded by shevyrolet Left Exit 12 Off Ramp Uploaded by Y F Left Exit\
-  \ 12 Off Ramp Uploaded by andcallmeshirley Left Exit 12 Off Ramp Uploaded by Ally\
-  \ Dinning Left Exit 12 Off Ramp Uploaded by Adam B. Left Exit 12 Off Ramp Uploaded\
-  \ by Cold Hard Crash Left Exit 12 Off Ramp Uploaded by Bridget + Add an Image View\
-  \ All Images Sign up for our Newsletter Top Comments Delete Sensitive Beatrice Santello\
-  \ Jan 05, 2018 at 11:15AM EST Post dem Eurobeats gents. It's mandatory. +13 Reply\
-  \ Delete Sensitive Bunger, Voiced By Chris Pratt Jan 05, 2018 at 12:20PM EST in\
-  \ reply to Beatrice Santello MULTI-EUROBEAT POSTING!? +6 Reply + Add a Comment Comments\
-  \ (11) Display Comments Add a Comment Top Entries This Month Meme Saika Kawakita\
-  \ Smile GIF Event Assassination of UnitedHealthcare CEO Person Luigi Mangione UHC\
-  \ CEO Shooter Subculture The Ki Sisters Culture Pornography Site Whisper View More\
-  \ Suggest a Change Edit History Entry Editors (3) Matt Secretary of Memes Don Administrator\
-  \ & Meme Daddy Y F Digital Archaeologist & Treasurer & Media Maid + Request Editorship\
-  \ View All Editors Today's Top Image Galleries Assassination of UnitedHealthcare\
-  \ CEO Squirrel Girl (Doreen Green) Team Fortress 2 The Amazing Digital Circus About\
-  \ Our Story Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes\
-  \ News Staff Contact Extras! Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/left-exit-12-off-ramp
-template_id: exit
-text:
-- align: center
-  anchor_x: 0.24
-  anchor_y: 0.15
-  angle: 0.0
-  color: '#BBBBBB'
-  font: thin
-  scale_x: 0.15
-  scale_y: 0.22
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.53
-  anchor_y: 0.15
-  angle: 0.0
-  color: '#BBBBBB'
-  font: thin
-  scale_x: 0.22
-  scale_y: 0.22
-  start: 0.0
-  stop: 1.0
-  style: thin
-- align: center
-  anchor_x: 0.46
-  anchor_y: 0.85
-  angle: 9.0
-  color: white
-  font: thin
-  scale_x: 0.32
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 3
+scraped_content: About Left Exit 12 Off Ramp is a series of exploitables in which
+  a car swerving into an off ramp. On the highway sign, the meme's author photoshops
+  something the author disapproves of and something they would prefer. The car swerves
+  toward the preference. Origin The meme is a photoshop composite based on a YouTube
+  video entitled "How to exit freeway like a boss." Uploaded on July 4th, 2013, the
+  video by YouTuber[7] Fredrik Sørlie shows a car drifting into an off ramp; however,
+  there are no highway signs at the off ramp. The video (shown below) received more
+  than 97,000 views in four and a half years. Spread The earliest known use of the
+  video as a meme was posted on December 29th, 2017 by HiddenLOL[6] user anon90. The
+  post (shown below) entitled "made a template, don't know if it has potential, template
+  in comments," shows car with the Swedish flag on it avoiding a photoshopped highway
+  exit for "Continue being a stable first world country" and taking the exit for "Mass
+  uncontrolled migration from third world nations." When shared by Redditor [3] Throwthowk,
+  the post (shown below, left) received more than 275 points (94% upvoted) in less
+  than one week. That day, HUGELOL[2] user dankhunt42 posted a version entitled "end
+  it pls," which shows the car labeled me avoiding the exit for "A great life full
+  of opportunities friends , girlfriends" for the exit "Fucking kill myself." The
+  post (shown below, left) received more than 40 points in less than one week. The
+  next day, on December 31st, Redditor[4] Laughing_Fish posted a variation on the
+  /r/dankmemes subreddit. This version shows "A new year filled with new opportunities
+  to better myself and make a difference" on the left. On the right, it reads, "Another
+  year of shitposting memes on Reddit." The post (shown below, center) received more
+  than 18,600 points (96% upvoted) and 120 comments in four days. On January 1st,
+  2018, Imgur [5] user ArigatoKamisama posted another New Years version, featuring
+  "New year new me" and "same shit different year." The post (shown below, right)
+  received more than 2,100 views in three days. Various Examples External References
+  [1] YouTube – cara exit highway yang betul [2] HUGELOL – end it pls [3] Reddit –
+  Swedish Suicide Pill [4] Reddit – New year, new memes [5] Imgur – Back on my bullshit
+  ¯\(ツ)/¯ [6] HiddenLOL – made a template, don't know if it has potential, template
+  in comments [7] YouTube – How to exit freeway like a boss
+aside_content: MemeStatusConfirmedType:ExploitableYear2017OriginYouTubeTagscar,off
+  ramp,photoshop,wrong choice,fredrik sørlie,throwthowk,dankhunt42,arigatokamisama
+added_at: '2018-01-04T15:38:12-05:00'

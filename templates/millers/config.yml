@@ -1,103 +1,59 @@
-example:
-- ''
-- You are making 500 thousand dollars and you were only gonna pay me 30?
-- You're getting 30 grand? I'm getting a thousand!
-- You guys are getting paid?
-keywords:
-- null
 name: You Guys Are Getting Paid?
-overlay:
-- angle: 0.0
-  center_x: 0.5
-  center_y: 0.5
-  scale: 0.25
-scraped_content: "Template | You Guys Are Getting Paid? | Know Your Meme Howdy! You\
-  \ must login or signup first! Already a memeber? Login Now! Don't have an account?\
-  \ Sign up Now! Meme Encyclopedia All Cultures Events People Sites Subcultures Videos\
-  \ Submit \u2192 Images Trending Most Commented Most Favorited High Score Low Score\
-  \ Most Viewed All Templates Upload an Image Articles News Explainers Collections\
-  \ Interviews Meme Insider Magazine More Discord Newsletter Episodes Forums Meme\
-  \ Store Login Abstract user icon Memes Categories Trending News Images Trending\
-  \ Images Videos Trending Videos Editorials Meme Insider Magazine Newsletter Policies\
-  \ and Guidelines Meme Store Old site Login Know Your Meme is the property of Literally\
-  \ Media \xA92024 Literally Media. All Rights Reserved. This image Of Woman Confidently\
-  \ Strolling Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years\
-  \ Ago, This Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The\
-  \ Anarchy Chess Memes Turns Two Years Old Today Phrase 'The Fridge Protects The\
-  \ Snacks' A Growing Favorite Among Pickup Artist Influencers Jamie G, The Bosh British\
-  \ Charva, Has Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also\
-  \ Trending: Honey Extension Influencer Scam Renegade Raider Copypasta Assassination\
-  \ of UnitedHealthcare CEO +4 Template Uploaded by Sum Lu Zer Jan 19, 2020 at 12:47PM\
-  \ EST Share Pin Download More you guys are getting paid? template Origin Entry:\
-  \ You Guys Are Getting Paid? File type: png Resolution: (1619px x 1620px) File size:\
-  \ 1.77 MB View All 45 Images More: Just some dumb idea that I had. Share Pin Rose\
-  \ is just jealous of his Z Axis Share Pin you guys are having sex? | /r/dankmemes\
-  \ Share Pin Very true Share Pin You Guys Getting Opacity? Share Pin u/SMA_O Share\
-  \ Pin Villains (most likely has been done before) | /r/ShitPostCrusaders/ Share\
-  \ Pin It\u2019s (almost) free real estate | r/HistoryMemes Share Pin This has probably\
-  \ been done before but i worked hard to get the colours right before adding text\
-  \ | r/dankmemes Share Pin Who needs them emojis anyway? | r/memes Share Pin sorry\
-  \ not sorry Share Pin Indentured Servants Share Pin Next 1 +4 You Guys Are Getting\
-  \ Paid? - Template Like us on Facebook! Like 1.8M Share Save Tweet PROTIP: Press\
-  \ the \u2190 and \u2192 keys to navigate the gallery, 'g' to view the gallery, or\
-  \ 'r' to view a random image. \u25C4 Previous View Gallery Random Image Next \u25BA\
-  \ More: You Guys Are Getting Paid? Uploaded by R-Switz You Guys Are Getting Paid?\
-  \ Uploaded by Adam You Guys Are Getting Paid? Uploaded by Reddit Moments You Guys\
-  \ Are Getting Paid? Uploaded by Sum Lu Zer + Add a Comment Comments (0) There are\
-  \ no comments currently available. Display Comments Add a Comment + Add an Image\
-  \ Image Details 13,278 views (5 from today) Uploaded Jan 19, 2020 at 12:47PM EST\
-  \ Origin Entry You Guys Are Getting Paid? Source Source Tags you guys are getting\
-  \ paid?, template Claim Authorship Edit History About the Uploader Sum Lu Zer Treasurer\
-  \ & Conversationalist & Media Maid Textile Embed !https://i.kym-cdn.com/photos/images/newsfeed/001/712/302/80b.png!\
-  \ Today's Top Image Galleries Assassination of UnitedHealthcare CEO Squirrel Girl\
-  \ (Doreen Green) Team Fortress 2 The Amazing Digital Circus About Our Story Site\
-  \ Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes News Staff\
-  \ Contact Extras! Style Guide RSS Feeds"
 source: https://knowyourmeme.com/photos/1712302-you-guys-are-getting-paid
-template_id: millers
+keywords:
+  -
 text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.35
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.15
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.35
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.15
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.85
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.15
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.85
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.15
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 4
+  - style: default
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.35
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: white
+    font: thick
+    anchor_x: 0.5
+    anchor_y: 0.35
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.85
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: default
+    color: white
+    font: thick
+    anchor_x: 0.5
+    anchor_y: 0.85
+    angle: 0.0
+    scale_x: 0.5
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - ''
+  - You are making 500 thousand dollars and you were only gonna pay me 30?
+  - You're getting 30 grand? I'm getting a thousand!
+  - You guys are getting paid?
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25

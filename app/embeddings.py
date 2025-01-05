@@ -10,14 +10,39 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load environment variables
 load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-async def scrape_webpage(url: str) -> Optional[str]:
-    """Scrape text content from a webpage."""
+def parse_kym_date(date_str: str) -> Optional[str]:
+    """Parse Know Your Meme date format to YYYY-MM-DD."""
+    if not date_str:
+        return None
+    try:
+        # Parse ISO format date and convert to YYYY-MM-DD
+        dt = datetime.fromisoformat(date_str)
+        return dt.strftime("%Y-%m-%d")
+    except Exception as e:
+        logger.error(f"Error parsing date {date_str}: {e}")
+        return None
+
+def date_to_timestamp(date_str: str) -> Optional[float]:
+    """Convert date string to Unix timestamp."""
+    try:
+        if 'T' in date_str:  # ISO format
+            dt = datetime.fromisoformat(date_str)
+        else:  # YYYY-MM-DD format
+            dt = datetime.strptime(date_str, "%Y-%m-%d")
+        return dt.timestamp()
+    except Exception as e:
+        logger.error(f"Error converting date to timestamp: {e}")
+        return None
+
+async def scrape_webpage(url: str) -> dict:
+    """Scrape text content and metadata from a webpage."""
     try:
         # Configure client with redirect following and longer timeout
         async with httpx.AsyncClient(follow_redirects=True, timeout=30.0) as client:
@@ -25,16 +50,56 @@ async def scrape_webpage(url: str) -> Optional[str]:
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             
-            # Remove script and style elements
-            for script in soup(['script', 'style']):
+            # Extract added_at datetime by finding the "Added" text and then its associated timeago
+            added_at = None
+            added_at_timestamp = None
+            footer_paragraphs = soup.find_all('p')
+            for p in footer_paragraphs:
+                if p.get_text().strip().startswith('Added'):
+                    timeago = p.find('abbr', class_='timeago')
+                    if timeago:
+                        raw_date = timeago.get('title')
+                        # Convert "Jun 05, 2019 at 01:33PM EDT" to ISO format
+                        try:
+                            dt = datetime.strptime(raw_date, "%b %d, %Y at %I:%M%p %Z")
+                            added_at = dt.isoformat()
+                            added_at_timestamp = dt.timestamp()
+                        except Exception as e:
+                            logger.error(f"Error parsing date {raw_date}: {e}")
+                        break
+            
+            # Find the main entry body
+            entry_body = soup.find('div', {'class': 'c', 'id': 'entry_body'})
+            if not entry_body:
+                logger.warning("Could not find entry body div")
+                return None
+                
+            # Extract left aside content
+            aside_content = ""
+            aside = entry_body.find('aside', {'class': 'left'})
+            if aside:
+                # Remove script and style elements from aside
+                for script in aside(['script', 'style']):
+                    script.decompose()
+                aside_content = aside.get_text(strip=True)
+                # Remove the aside from entry_body to not duplicate content
+                aside.decompose()
+            
+            # Remove remaining script and style elements from entry_body
+            for script in entry_body(['script', 'style']):
                 script.decompose()
                 
             # Get text and clean it up
-            text = soup.get_text()
-            lines = (line.strip() for line in text.splitlines())
+            main_text = entry_body.get_text()
+            lines = (line.strip() for line in main_text.splitlines())
             chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-            text = ' '.join(chunk for chunk in chunks if chunk)
-            return text
+            main_text = ' '.join(chunk for chunk in chunks if chunk)
+            
+            return {
+                "text": main_text,
+                "aside_content": aside_content,
+                "added_at": added_at
+            }
     except Exception as e:
         logger.error(f"Failed to scrape {url}: {str(e)}")
         return None
@@ -147,9 +212,13 @@ class TemplateEmbeddings:
         if not force_rescrape and 'scraped_content' in config and config['scraped_content']:
             return config
             
-        content = await scrape_webpage(config['source'])
-        if content:
-            config['scraped_content'] = content
+        result = await scrape_webpage(config['source'])
+        if result:
+            config['scraped_content'] = result['text']
+            if result.get('aside_content'):
+                config['aside_content'] = result['aside_content']
+            if result.get('added_at'):
+                config['added_at'] = result['added_at']
             
             # Save updated config back to file if template_id is available
             if 'template_id' in config:
@@ -228,11 +297,17 @@ class TemplateEmbeddings:
                 logger.error(f"Failed to get embedding for template: {template_id}")
                 return False
             
+            # Convert added_at to timestamp if present
+            added_at = config.get('added_at', '')
+            added_at_timestamp = date_to_timestamp(added_at) if added_at else None
+            
             # Store metadata with serialized config
             metadata = {
                 'name': config.get('name', ''),
                 'template_id': template_id,
                 'text_zones': str(config.get('text_zones', 2)),
+                'added_at': added_at,  # Keep original ISO format for display
+                'added_at_ts': added_at_timestamp,  # Add timestamp for filtering
                 'config_json': json.dumps(config)
             }
             
@@ -327,43 +402,74 @@ class TemplateEmbeddings:
             logger.error(f"Error getting template {template_id}: {e}")
             return None
     
-    async def search_templates(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
-        """Search for templates similar to the query."""
-        logger.info(f"Searching templates with query: {query}")
+    async def search_templates(
+        self, 
+        query: str, 
+        n_results: int = 5,
+        from_date: Optional[str] = None,
+        to_date: Optional[str] = None
+    ) -> List[Dict[str, Any]]:
+        """Search for templates using semantic similarity.
         
-        # Get embedding for query
-        query_embedding = get_embedding(query)
-        if not query_embedding:
-            logger.error("Failed to get embedding for query")
-            return []
-            
-        # Search in ChromaDB
-        results = self.collection.query(
-            query_embeddings=[query_embedding],
-            n_results=n_results
-        )
-        
-        templates = [
-            {
-                'template_id': id,
-                'metadata': {
-                    'name': metadata.get('name', ''),
-                    'template_id': metadata.get('template_id', ''),
-                    'text_zones': int(metadata.get('text_zones', 2))
-                },
-                'config': json.loads(metadata.get('config_json', '{}')),
-                'text_zones': int(metadata.get('text_zones', 2)),
-                'distance': distance
-            }
-            for id, metadata, distance in zip(
-                results['ids'][0],
-                results['metadatas'][0],
-                results['distances'][0]
+        Args:
+            query: Search query
+            n_results: Number of results to return
+            from_date: Filter templates added after this date (format: YYYY-MM-DD)
+            to_date: Filter templates added before this date (format: YYYY-MM-DD)
+        """
+        try:
+            # Get embedding for query
+            query_embedding = get_embedding(query)
+            if not query_embedding:
+                logger.error("Failed to get embedding for query")
+                return []
+                
+            # Prepare where clause for date filtering
+            where = {}
+            if from_date:
+                # Convert YYYY-MM-DD to timestamp for comparison
+                from_ts = date_to_timestamp(from_date)
+                if from_ts:
+                    where["added_at_ts"] = {"$gte": from_ts}
+            if to_date:
+                # Convert YYYY-MM-DD to timestamp for comparison
+                to_ts = date_to_timestamp(to_date)
+                if to_ts:
+                    if "added_at_ts" in where:
+                        where["added_at_ts"]["$lte"] = to_ts
+                    else:
+                        where["added_at_ts"] = {"$lte": to_ts}
+                
+            logger.debug(f"Using where clause: {where}")
+                
+            # Search ChromaDB
+            results = self.collection.query(
+                query_embeddings=[query_embedding],
+                n_results=n_results,
+                where=where if where else None,
+                include=['metadatas', 'documents', 'distances']
             )
-        ]
-        
-        logger.info(f"Found {len(templates)} matching templates")
-        return templates
+            
+            # Process results
+            templates = []
+            for i, template_id in enumerate(results['ids'][0]):
+                metadata = results['metadatas'][0][i]
+                config = json.loads(metadata['config_json'])
+                
+                templates.append({
+                    'template_id': template_id,
+                    'name': metadata['name'],
+                    'text_zones': int(metadata['text_zones']),
+                    'added_at': metadata.get('added_at', ''),  # Use original ISO format for display
+                    'similarity': 1 - results['distances'][0][i],  # Convert distance to similarity
+                    'config': config
+                })
+                
+            return templates
+            
+        except Exception as e:
+            logger.error(f"Search error: {e}")
+            return []
 
     async def get_missing_templates(self) -> List[Dict[str, Any]]:
         """Get template configs that don't have embeddings in ChromaDB."""

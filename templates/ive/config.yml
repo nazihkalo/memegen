@@ -1,95 +1,35 @@
-example:
-- we think
-- you'll love it
-keywords:
-- null
 name: Jony Ive Redesigns Things
-overlay:
-- angle: 0.0
-  center_x: 0.5
-  center_y: 0.5
-  scale: 0.25
-scraped_content: "Newsroom - Apple AppleStoreMaciPadiPhoneWatchVisionAirPodsTV & HomeEntertainmentAccessoriesSupport\
-  \ 0+ Newsroom Apple Services Apple Stories Open Newsroom navigation Close Newsroom\
-  \ navigation Search Newsroom Close opens in new window Newsroom Latest News QUICK\
-  \ READ Apple reveals 2024\u2019s most downloaded apps and games on the App\_Store\
-  \ December 16, 2024 PHOTOS His Majesty King Charles III visits Apple\u2019s U.K.\
-  \ headquarters December 12, 2024 UPDATE Voice Memos update brings Layered Recording\
-  \ to iPhone\_16\_Pro lineup December 11, 2024 PRESS RELEASE Apple honors 2024 App\_\
-  Store\_Award winners December 11, 2024 PRESS RELEASE Apple Intelligence now features\
-  \ Image Playground, Genmoji, and\_more December 11, 2024 PRESS RELEASE Apple Music\
-  \ expands live global radio offering with three brand-new stations December 10,\
-  \ 2024 PRESS RELEASE Apple announces Apple Retail expansion in the Kingdom of Saudi\
-  \ Arabia December 8, 2024 QUICK READ MLS Cup streams free on Apple\_TV this Saturday\
-  \ December 5, 2024 UPDATE Apple Podcasts names Hysterical the 2024 Show\_of\_the\_\
-  Year December 3, 2024 UPDATE Apple reveals 45\_app and game finalists for the\_\
-  2024 App\_Store\_Awards November 25, 2024 UPDATE Billie Eilish is Apple\_Music\u2019\
-  s Artist\_of\_the\_Year for 2024 November 21, 2024 Apple Stories The creators, developers,\
-  \ and innovators leaving the world better than they found it. Sports Driving the\
-  \ game forward: iPad teams up with college football November 1, 2024 health How\
-  \ Apple developed the world\u2019s first end-to-end hearing health experience October\
-  \ 28, 2024 education Apple and 4-H are bringing technology to a new generation of\
-  \ learners August 21, 2024 creatives HBCU students chart their career paths in America\u2019\
-  s Music City June 27, 2024 iPad\u2019s integration on the sidelines brings major\
-  \ advancements to the game. Here\u2019s a look inside the Audio Lab, the hub for\
-  \ Apple\u2019s hearing health features. 4-H includes greater access to technology\
-  \ with support from Apple. HBCU students are prepping for careers with hands-on\
-  \ experiences and mentorship. Sports Driving the game forward: iPad teams up with\
-  \ college football November 1, 2024 health How Apple developed the world\u2019s\
-  \ first end-to-end hearing health experience October 28, 2024 education Apple and\
-  \ 4-H are bringing technology to a new generation of learners August 21, 2024 creatives\
-  \ HBCU students chart their career paths in America\u2019s Music City June 27, 2024\
-  \ View All More from Newsroom UPDATE Shazam hits 100\_billion song recognitions\
-  \ November 20, 2024 QUICK READ Apple shares the most popular podcasts of 2024 November\
-  \ 19, 2024 UPDATE Apple debuts The\_Weeknd\u2019s immersive music experience for\
-  \ Apple\_Vision\_Pro November 14, 2024 UPDATE Final Cut Pro 11 begins a new chapter\
-  \ for video editing on\_Mac November 13, 2024 UPDATE Apple Arcade unwraps new games\
-  \ for the holiday season November 13, 2024 UPDATE Apple\u2019s Find My enables sharing\
-  \ location of lost items with third parties November 11, 2024 PRESS RELEASE Apple\
-  \ reports fourth quarter results October 31, 2024 PRESS RELEASE New MacBook Pro\
-  \ features M4 family of chips and Apple\_Intelligence October 30, 2024 View Archive\
-  \ Apple Footer \uF8FF Apple Newsroom Shop and Learn Shop and Learn Store Mac iPad\
-  \ iPhone Watch Vision AirPods TV & Home AirTag Accessories Gift Cards Apple Wallet\
-  \ Apple Wallet Wallet Apple\_Card Apple\_Pay Apple\_Cash Account Account Manage\
-  \ Your Apple\_ID Apple Store Account iCloud.com Entertainment Entertainment Apple\_\
-  One Apple\_TV+ Apple\_Music Apple\_Arcade Apple\_Fitness+ Apple\_News+ Apple Podcasts\
-  \ Apple\_Books App\_Store Apple Store Apple Store Find a Store Genius Bar Today\
-  \ at Apple Group Reservations Apple Camp Apple Store App Certified Refurbished Apple\_\
-  Trade\_In Financing Carrier Deals at Apple Order Status Shopping Help For Business\
-  \ For Business Apple and Business Shop for Business For Education For Education\
-  \ Apple and Education Shop for K-12 Shop for College For Healthcare For Healthcare\
-  \ Apple in Healthcare Mac in Healthcare Health on Apple\_Watch Health Records on\
-  \ iPhone and iPad For Government For Government Shop for Government Shop for Veterans\
-  \ and Military Apple Values Apple Values Accessibility Education Environment Inclusion\
-  \ and Diversity Privacy Racial Equity and Justice Supply Chain About Apple About\
-  \ Apple Newsroom Apple Leadership Career Opportunities Investors Ethics & Compliance\
-  \ Events Contact Apple More ways to shop: Find an Apple Store or other retailer\
-  \ near you. Or call 1-800-MY-APPLE. United States (English) Espa\xF1ol Copyright\
-  \ \xA9 2024 Apple Inc. All rights reserved. Privacy Policy Terms of Use Sales and\
-  \ Refunds Legal Site Map"
 source: https://www.apple.com/pr/bios/jonathan-ive.html
-template_id: ive
+keywords:
+  -
 text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.0
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 1.0
-  scale_y: 0.2
-  start: 0.0
-  stop: 1.0
-  style: upper
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.8
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 1.0
-  scale_y: 0.2
-  start: 0.0
-  stop: 1.0
-  style: upper
-text_zones: 2
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.0
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0.0
+    anchor_y: 0.8
+    angle: 0.0
+    scale_x: 1.0
+    scale_y: 0.2
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - we think
+  - you'll love it
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25

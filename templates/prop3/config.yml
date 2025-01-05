@@ -1,80 +1,23 @@
-example:
-- Zipper Merging
-keywords:
-- Michigan Proposal 3
 name: Too Confusing, Too Extreme
-overlay:
-- angle: 0.0
-  center_x: 0.5
-  center_y: 0.5
-  scale: 0.25
-scraped_content: "Too Extreme? Michigan Political Catch Phrase Gets Roasted Online\
-  \ Skip to main contentSkip to site footerWhat's HotWIN: $500 Target CardGet The\
-  \ Grand Mobile AppDining DealsCyber MondayWeatherHomeDJsEric MeierJannaTommy McNeillListenListen\
-  \ LiveDownload Our AppPlaylistsRecently PlayedNewsletterWin StuffContestsSign UpVIP\
-  \ SupportDining DealsExtraWeatherClosingsContact UsHelp & Contact InfoLocal Advertising\
-  \ SolutionsAdvertiseJob OpeningsNon-Profit PSA SubmissionsEEO Public File ReportMoreHomeDJsEric\
-  \ MeierJannaTommy McNeillListenListen LiveDownload Our AppPlaylistsRecently PlayedNewsletterWin\
-  \ StuffContestsSign UpVIP SupportDining DealsExtraWeatherClosingsContact UsHelp\
-  \ & Contact InfoLocal Advertising SolutionsAdvertiseJob OpeningsNon-Profit PSA SubmissionsEEO\
-  \ Public File ReportVisit us on FacebookVisit us on TwitterSearch The Site\u201C\
-  Too Extreme\u201D? Michigan Political Catch Phrase Gets Roasted OnlineJojo GirardJojo\
-  \ GirardPublished: November 1, 2022Wendy Reed, Townsquare Media/Canva.comShare on\
-  \ FacebookShare on TwitterIt's the catchphrase of the midterm elections, with both\
-  \ sides calling the other extreme,\_and now a GR humor group is roasting the slogan,\
-  \ and churning out some funny, but true memes.It Turns Out The \"Too Confusing,\
-  \ Too Extreme\" Slogan Can Be Applied To AnythingLiberals and Conservatives alike\
-  \ love to call each other \"extreme\", and now thanks to the Grand Rapids improv\
-  \ group Plant Parenthood, we can find out what things around West Michigan fits\
-  \ that bill.Plant Parenthood snagged a photo of some Proposal 3 opponents holding\
-  \ a sign that read \"Too Confusing, Too Extreme\", and they've blanked out the words\
-  \ \"Proposal Three\", and substituted it with other confusing area stuff to make\
-  \ us laugh a bit over a way too serious election cycle.It began simply enough with\
-  \ the confusion between I-96, and its interstate companion, I-196. From there, the\
-  \ battle was on to find more funny in the confusion of everyday West Michigan life.Other\
-  \ Confusing Things: Mountain Dew Baja Blast and the Taco Bell On MichiganAn actual\
-  \ sign was made and placed in someone's yard to enquire of the extreme and confusing\
-  \ nature of the Mountain Dew flavor no one can figure out.Others took the Plant\
-  \ Parenthood photo and made it their own, asking serious questions, like why can't\
-  \ West Michiganders learn how to zipper merge.And why is the Wealthy Street traffic\
-  \ circle is even there, and why ordering at Madcap Coffee is so difficult.There\
-  \ are many more \"too extreme\" signs posted out there, asking if the Spectrum switch\
-  \ to the name \"Corewell\" is too confusing and if rotating one lane squeezes on\
-  \ the Ford Freeway are \"too extreme\".Grab it, and go have fun with it. Nothing\
-  \ else about politics this year has been fun.These Are Michigan's Most Dangerous\
-  \ Intersections If you're driving in Michigan you might want to avoid these intersections.\
-  \ Michigan Auto Law\_a Michigan-based law firm created the list of Michigan's most\
-  \ dangerous intersections using Police information from 2021 to determine which\
-  \ intersections saw the most crashes.Gallery Credit: Big Joe Pesh\_\_\_\_Categories:\
-  \ Grand Rapids News, Michigan News, West Michigan NewsMore From 98.7 The GrandMichigan\
-  \ Ranks Third for Most Miserable Winters in the United StatesMichigan Ranks Third\
-  \ for Most Miserable Winters in the United StatesThe Big Mac Bridge Is 65: Here\u2019\
-  s What It Was Like Before It Was BuiltThe Big Mac Bridge Is 65: Here\u2019s What\
-  \ It Was Like Before It Was Built\u2018A Christmas Story Christmas\u2019 Trailer:\
-  \ Ralphie Is Back\u2018A Christmas Story Christmas\u2019 Trailer: Ralphie Is BackUPDATE:\
-  \ The Fulton Street Dairy Queen Is Closed For GoodUPDATE: The Fulton Street Dairy\
-  \ Queen Is Closed For GoodCharming $5.9M Cedar-Clad \u2018Boardwalk Cottage\u2019\
-  \ For Sale on Mackinac IslandCharming $5.9M Cedar-Clad \u2018Boardwalk Cottage\u2019\
-  \ For Sale on Mackinac IslandMarshall, Michigan \u2013 The State Capitol That Never\
-  \ WasMarshall, Michigan \u2013 The State Capitol That Never WasThese Luxurious Detroit\
-  \ Apartments Were Home To A MurderThese Luxurious Detroit Apartments Were Home To\
-  \ A MurderInformationEEOMarketing and Advertising SolutionsPublic FileNeed AssistanceFCC\
-  \ ApplicationsReport an InaccuracyTermsContest RulesPrivacy PolicyAccessibility\
-  \ StatementExercise My Data RightsDo Not Sell or Share My Personal InformationContactGrand\
-  \ Rapids Business ListingsFollow UsVisit us on FacebookVisit us on Twitter2024 98.7\
-  \ The Grand, Townsquare Media, Inc. All rights reserved."
 source: https://wfgr.com/too-extreme-state-political-catch-phrase-gets-roasted-online/
-template_id: prop3
+keywords:
+  - Michigan Proposal 3
 text:
-- align: center
-  anchor_x: 0.15
-  anchor_y: 0.31
-  angle: -3.0
-  color: maroon
-  font: thin
-  scale_x: 0.64
-  scale_y: 0.31
-  start: 0.0
-  stop: 1.0
-  style: none
-text_zones: 1
+  - style: none
+    color: maroon
+    font: thin
+    anchor_x: 0.15
+    anchor_y: 0.31
+    angle: -3.0
+    scale_x: 0.64
+    scale_y: 0.31
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - Zipper Merging
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25

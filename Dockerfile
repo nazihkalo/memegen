@@ -1,43 +1,45 @@
-FROM python:3.12-slim
+ARG ARG_PORT=5000
+ARG ARG_MAX_REQUESTS=0
+ARG ARG_MAX_REQUESTS_JITTER=0
+
+# Use bookworm (Debian 12) which has SQLite 3.40.1
+FROM docker.io/python:3.12.5-bookworm as build
 
 # Install system dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    curl \
-    git \
-    && rm -rf /var/lib/apt/lists/*
+RUN apt update && apt install --yes webp cmake sqlite3
+RUN pip install poetry
 
-# Install Poetry with increased timeouts
-ENV POETRY_HOME=/opt/poetry \
-    POETRY_INSTALLER_MAX_WORKERS=10 \
-    POETRY_INSTALLER_PARALLEL=false \
-    POETRY_HTTP_TIMEOUT=120
-RUN curl -sSL https://install.python-poetry.org | python3 - \
-    && cd /usr/local/bin \
-    && ln -s /opt/poetry/bin/poetry \
-    && poetry config virtualenvs.create false
+# Create the memegen user
+RUN useradd -md /opt/memegen -u 1000 memegen
+USER memegen
 
-# Set working directory
-WORKDIR /app
+# Set the working directory
+WORKDIR /opt/memegen
 
-# Copy Poetry files
-COPY pyproject.toml poetry.lock ./
+# Copy project files
+COPY --chown=memegen templates /opt/memegen/templates
+COPY --chown=memegen scripts /opt/memegen/scripts
+COPY --chown=memegen fonts /opt/memegen/fonts
+COPY --chown=memegen docs /opt/memegen/docs
+COPY --chown=memegen bin /opt/memegen/bin
+COPY --chown=memegen app /opt/memegen/app
+COPY --chown=memegen pyproject.toml /opt/memegen/
+COPY --chown=memegen poetry.lock /opt/memegen/
+COPY --chown=memegen CHANGELOG.md /opt/memegen/CHANGELOG.md
 
-# Install dependencies with retries
-RUN for i in 1 2 3; do \
-        poetry install --no-interaction --no-ansi && break || sleep 5; \
-    done
-
-# Copy application code
-COPY . .
+# Install project dependencies
+RUN poetry install --no-dev
 
 # Set environment variables
-ENV WEB_CONCURRENCY=2 \
-    MAX_REQUESTS=0 \
-    MAX_REQUESTS_JITTER=0
+ENV PATH="/opt/memegen/.local/bin:${PATH}"
+ENV PORT="${ARG_PORT:-5000}"
+ENV MAX_REQUESTS="${ARG_MAX_REQUESTS:-0}"
+ENV MAX_REQUESTS_JITTER="${ARG_MAX_REQUESTS_JITTER:-0}"
 
-# Expose port
-EXPOSE 5000
-
-# Run the application
-CMD ["poetry", "run", "honcho", "start", "web"] 
+# Set the entrypoint
+ENTRYPOINT poetry run gunicorn --bind "0.0.0.0:$PORT" \
+    --worker-class uvicorn.workers.UvicornWorker  \
+    --max-requests="$MAX_REQUESTS" \
+    --max-requests-jitter="$MAX_REQUESTS_JITTER" \
+    --timeout=20  \
+    app.main:app

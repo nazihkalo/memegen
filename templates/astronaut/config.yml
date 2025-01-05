@@ -1,189 +1,91 @@
+name: Always Has Been
+source: https://knowyourmeme.com/memes/wait-its-all-ohio-always-has-been
+keywords:
+- null
+text:
+- style: default
+  color: white
+  font: thin
+  anchor_x: 0.45
+  anchor_y: 0.35
+  angle: 0.0
+  scale_x: 0.25
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thin
+  anchor_x: 0.75
+  anchor_y: 0.0
+  angle: 0.0
+  scale_x: 0.25
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.375
+  anchor_y: 0.8
+  angle: 0.0
+  scale_x: 0.25
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.75
+  anchor_y: 0.7
+  angle: 0.0
+  scale_x: 0.25
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - Wait, it's round?
 - Always has been
 - Flat Earther
 - Science
-keywords:
-- null
-name: Always Has Been
 overlay:
-- angle: 0.0
-  center_x: 0.27
+- center_x: 0.27
   center_y: 0.47
+  angle: 0.0
   scale: 0.425
-scraped_content: "Wait, It's All Ohio? Always Has Been | Know Your Meme Yo! You must\
-  \ login or signup first! Already a memeber? Login Now! Don't have an account? Sign\
-  \ up Now! Meme Encyclopedia All Cultures Events People Sites Subcultures Videos\
-  \ Submit \u2192 Images Trending Most Commented Most Favorited High Score Low Score\
-  \ Most Viewed All Templates Upload an Image Articles News Explainers Collections\
-  \ Interviews Meme Insider Magazine More Discord Newsletter Episodes Forums Meme\
-  \ Store Login Abstract user icon Memes Categories Trending News Images Trending\
-  \ Images Videos Trending Videos Editorials Meme Insider Magazine Newsletter Policies\
-  \ and Guidelines Meme Store Old site Login Know Your Meme is the property of Literally\
-  \ Media \xA92024 Literally Media. All Rights Reserved. This image Of Woman Confidently\
-  \ Strolling Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years\
-  \ Ago, This Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The\
-  \ Anarchy Chess Memes Turns Two Years Old Today Phrase 'The Fridge Protects The\
-  \ Snacks' A Growing Favorite Among Pickup Artist Influencers Jamie G, The Bosh British\
-  \ Charva, Has Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also\
-  \ Trending: Honey Extension Influencer Scam Renegade Raider Copypasta Wait, It's\
-  \ All Ohio? Always Has Been Added 4 years ago / Updated 3 months ago Confirmed 1,333,837\
-  \ Part of a series on Ohio vs. the World. [View Related Entries] Related Explainer:\
-  \ What Is \u2018Wait, It\u2019s All Ohio?\u2019 The \u2018Always Has Been\u2019\
-  \ Meme Explained View All 193 Images Navigation About \u2022 Origin \u2022 Spread\
-  \ \u2022 Various Examples \u2022 Template \u2022 Search Interest \u2022 External\
-  \ References \u2022 Recent Images \u2022 Recent Videos About Wait, It's All Ohio?\
-  \ Always Has Been refers to an exploitable template in which two astronauts are\
-  \ in space. One looks at Earth and realizes the entire Earth is made up of something\
-  \ other than what is expected, and asks \"Wait, it's all X?\" The other astronaut,\
-  \ preparing a gun, says \"Always has been.\" Origin On December 11th, 2016, Redditor\
-  \ Wiegand6 posted in the /r/dankmemes[11] an MSPaint illustration of two astronauts\
-  \ looking at flat earth. One astronaut says, \"wtf it's flat!!!\" The other, pointing\
-  \ a gun at their fellow astronaut, says, \"Sry fam.\" The post received more than\
-  \ 485 points (97% upvoted) in less than four years (shown below). On August 7th,\
-  \ 2018, an anonymous 4chan user posted the earliest known version of the template,\
-  \ using America as the surprise[1] (shown below). Spread The template did not begin\
-  \ seeing widespread use until over a year later in conjunction with the rise of\
-  \ Ohio vs. the World edits, when \"Ohio\" became a popular variation of the template's\
-  \ punchline. user iOhioian posted such an edit was posted to iFunny[2] on October\
-  \ 17th, 2019 (shown below, left). The post received more than 46,000 reactions and\
-  \ 1,700 comments in less than one year. This was reposted to Twitter,[3] Reddit,[4]\
-  \ Tumblr[5], and Instagram.[6] The image inspired further MS-Paint edits. For example,\
-  \ Facebook page Twingo Memes[7] posted an edit in which the punchline was France,\
-  \ gaining over 530 reactions (shown below, right). Edits would later come to use\
-  \ more realistic-looking versions of the astronauts. For example, on June 7th, 2020,\
-  \ Redditor nickslicktricks posted an example to /r/memes,[8] gaining over 33,000\
-  \ points (shown below, left). On June 19th, 2020, Twitter user @Alexis_Grump[9]\
-  \ made an example using Bugsnax (shown below, right). On July 14th, Ebaumsworld[10]\
-  \ published a gallery featuring notable examples of the meme. Various Examples Template\
-  \ Search Interest External References [1] 4chan \u2013 pol [2] iFunny \u2013 iOhioan's\
-  \ Post [3] Twitter \u2013 @burgertownmw2 [4] Reddit \u2013 IHateOhio [5] Tumblr\
-  \ \u2013 chemtraildude (unavailable) [6] Instagram \u2013 salad.snake (private account)\
-  \ [7] Facebook \u2013 Twingo Memes [8] Reddit \u2013 /r/memes [9] Twitter \u2013\
-  \ Alexis_Grump [10] Ebaumsworld \u2013 Wait, It's All Ohio? Always Has Been Astronaut\
-  \ Memes That Are Out of This World [11] Reddit \u2013 /r/dankmemes astronauts ohio\
-  \ vs. the world gun wait its all? always has been nickslicktricks @alexis_grump\
-  \ always has been meme Share Pin Related Entries 1 total Can't Even Play Minecraft\
-  \ In ... Recent Images 193 total View All Images Recent Videos 446 total View All\
-  \ Videos Sign up for our Newsletter Load 18 Comments Comments 18 total 50 Wait,\
-  \ It's All Ohio? Always Has Been 1,333,838 446 193 18 Part of a series on Ohio vs.\
-  \ the World. [View Related Entries] Updated Sep 04, 2024 at 10:38AM EDT by Zach.\
-  \ Added Jun 26, 2020 at 04:05PM EDT by Adam. Like us on Facebook! Like 1.8M Share\
-  \ Save Tweet PROTIP: Press 'i' to view the image gallery, 'v' to view the video\
-  \ gallery, or 'r' to view a random entry. Related Explainer: What Is \u2018Wait,\
-  \ It\u2019s All Ohio?\u2019 The \u2018Always Has Been\u2019 Meme Explained Meme\
-  \ Status Confirmed Type: Catchphrase, Exploitable Year 2018 Origin 4chan Tags astronauts,\
-  \ ohio vs. the world, gun, wait, its all?, always has been, nickslicktricks, @alexis_grump,\
-  \ always has been meme Additional References Meme Generator Memebase About Wait,\
-  \ It's All Ohio? Always Has Been refers to an exploitable template in which two\
-  \ astronauts are in space. One looks at Earth and realizes the entire Earth is made\
-  \ up of something other than what is expected, and asks \"Wait, it's all X?\" The\
-  \ other astronaut, preparing a gun, says \"Always has been.\" Origin On December\
-  \ 11th, 2016, Redditor Wiegand6 posted in the /r/dankmemes[11] an MSPaint illustration\
-  \ of two astronauts looking at flat earth. One astronaut says, \"wtf it's flat!!!\"\
-  \ The other, pointing a gun at their fellow astronaut, says, \"Sry fam.\" The post\
-  \ received more than 485 points (97% upvoted) in less than four years (shown below).\
-  \ On August 7th, 2018, an anonymous 4chan user posted the earliest known version\
-  \ of the template, using America as the surprise[1] (shown below). Spread The template\
-  \ did not begin seeing widespread use until over a year later in conjunction with\
-  \ the rise of Ohio vs. the World edits, when \"Ohio\" became a popular variation\
-  \ of the template's punchline. user iOhioian posted such an edit was posted to iFunny[2]\
-  \ on October 17th, 2019 (shown below, left). The post received more than 46,000\
-  \ reactions and 1,700 comments in less than one year. This was reposted to Twitter,[3]\
-  \ Reddit,[4] Tumblr[5], and Instagram.[6] The image inspired further MS-Paint edits.\
-  \ For example, Facebook page Twingo Memes[7] posted an edit in which the punchline\
-  \ was France, gaining over 530 reactions (shown below, right). Edits would later\
-  \ come to use more realistic-looking versions of the astronauts. For example, on\
-  \ June 7th, 2020, Redditor nickslicktricks posted an example to /r/memes,[8] gaining\
-  \ over 33,000 points (shown below, left). On June 19th, 2020, Twitter user @Alexis_Grump[9]\
-  \ made an example using Bugsnax (shown below, right). On July 14th, Ebaumsworld[10]\
-  \ published a gallery featuring notable examples of the meme. Various Examples Template\
-  \ Search Interest External References [1] 4chan \u2013 pol [2] iFunny \u2013 iOhioan's\
-  \ Post [3] Twitter \u2013 @burgertownmw2 [4] Reddit \u2013 IHateOhio [5] Tumblr\
-  \ \u2013 chemtraildude (unavailable) [6] Instagram \u2013 salad.snake (private account)\
-  \ [7] Facebook \u2013 Twingo Memes [8] Reddit \u2013 /r/memes [9] Twitter \u2013\
-  \ Alexis_Grump [10] Ebaumsworld \u2013 Wait, It's All Ohio? Always Has Been Astronaut\
-  \ Memes That Are Out of This World [11] Reddit \u2013 /r/dankmemes Related Entries\
-  \ 1 total Can't Even Play Minecraft In Ohio Recent Videos 446 total Power and Glory\
-  \ but it\u2019s all ... Wait, It's All Ohio? Always H... Uploaded by liveangel Wait...\
-  \ its all EARTH? Wait, It's All Ohio? Always H... Uploaded by Y F Wait It's All...\
-  \ Marketable P... Wait, It's All Ohio? Always H... Uploaded by Y F Wait, it's all\
-  \ America? Wait, It's All Ohio? Always H... Uploaded by Y F Wait, it's all\u300C\
-  ZA WARUDO\u300D? Wait, It's All Ohio? Always H... Uploaded by Y F Wait! It's all...\
-  \ (Pokemon Ver.) Wait, It's All Ohio? Always H... Uploaded by Y F \"Wait, It's all\
-  \ EARTH?\" Wait, It's All Ohio? Always H... Uploaded by Y F Wait, it's all Bonk?\
-  \ Wait, It's All Ohio? Always H... Uploaded by Y F + Add a Video View All Videos\
-  \ Recent Images 193 total Wait, It's All Ohio? Always H... Uploaded by Triplem Wait,\
-  \ It's All Ohio? Always H... Uploaded by Jokes Joestar \U0001F44C\uA66E Wait, It's\
-  \ All Ohio? Always H... Uploaded by Triplem Wait, It's All Ohio? Always H... Uploaded\
-  \ by Trooper57 Wait, It's All Ohio? Always H... Uploaded by Oclaf Wait, It's All\
-  \ Ohio? Always H... Uploaded by RollytheBall Wait, It's All Ohio? Always H... Uploaded\
-  \ by Blue Yoshi Wait, It's All Ohio? Always H... Uploaded by MechWarriorNY Wait,\
-  \ It's All Ohio? Always H... Uploaded by L Boy Wait, It's All Ohio? Always H...\
-  \ Uploaded by Aidan Walker Wait, It's All Ohio? Always H... Uploaded by Zach Wait,\
-  \ It's All Ohio? Always H... Uploaded by Reddit Moments + Add an Image View All\
-  \ Images Sign up for our Newsletter Top Comments Delete Sensitive The Nate Jun 29,\
-  \ 2020 at 11:39AM EDT \"Wait, it's all Hazbin?\" \"Always Hazbin.\" +66 Reply Delete\
-  \ Sensitive Raul Satisacro Jun 28, 2020 at 03:26PM EDT Don't be sillies. The world\
-  \ is actually a giant turtle with 4 elephants on her back, and they are carrying\
-  \ the world on their backs. +30 Reply + Add a Comment Comments (18) Display Comments\
-  \ Add a Comment Top Entries This Month Meme Saika Kawakita Smile GIF Event Assassination\
-  \ of UnitedHealthcare CEO Person Luigi Mangione UHC CEO Shooter Subculture The Ki\
-  \ Sisters Culture Pornography Site Whisper View More Suggest a Change Edit History\
-  \ Entry Editors (8) Adam Know Your Meme Universal Champion Don Administrator & Meme\
-  \ Daddy andcallmeshirley Digital Archaeologist & Treasurer & Collection Butler Y\
-  \ F Digital Archaeologist & Treasurer & Media Maid 3kole5 Sr. Entry Moderator Matt\
-  \ Secretary of Memes shevyrolet Digital Archaeologist & Treasurer & Media Bus Boy\
-  \ Zach Memenator \u25BC + Request Editorship View All Editors Today's Top Image\
-  \ Galleries Assassination of UnitedHealthcare CEO Team Fortress 2 Squirrel Girl\
-  \ (Doreen Green) The Amazing Digital Circus About Our Story Site Rules Policies\
-  \ and Guidelines Credits Contact Meme DB Memes Episodes News Staff Contact Extras!\
-  \ Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/wait-its-all-ohio-always-has-been
-template_id: astronaut
-text:
-- align: center
-  anchor_x: 0.45
-  anchor_y: 0.35
-  angle: 0.0
-  color: white
-  font: thin
-  scale_x: 0.25
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.75
-  anchor_y: 0.0
-  angle: 0.0
-  color: white
-  font: thin
-  scale_x: 0.25
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.375
-  anchor_y: 0.8
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.25
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.75
-  anchor_y: 0.7
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.25
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 4
+scraped_content: About Wait, It's All Ohio? Always Has Been refers to an exploitable
+  template in which two astronauts are in space. One looks at Earth and realizes the
+  entire Earth is made up of something other than what is expected, and asks "Wait,
+  it's all X?" The other astronaut, preparing a gun, says "Always has been." Origin
+  On December 11th, 2016, Redditor Wiegand6 posted in the /r/dankmemes[11] an MSPaint
+  illustration of two astronauts looking at flat earth. One astronaut says, "wtf it's
+  flat!!!" The other, pointing a gun at their fellow astronaut, says, "Sry fam." The
+  post received more than 485 points (97% upvoted) in less than four years (shown
+  below). On August 7th, 2018, an anonymous 4chan user posted the earliest known version
+  of the template, using America as the surprise[1] (shown below). Spread The template
+  did not begin seeing widespread use until over a year later in conjunction with
+  the rise of Ohio vs. the World edits, when "Ohio" became a popular variation of
+  the template's punchline. user iOhioian posted such an edit was posted to iFunny[2]
+  on October 17th, 2019 (shown below, left). The post received more than 46,000 reactions
+  and 1,700 comments in less than one year. This was reposted to Twitter,[3] Reddit,[4]
+  Tumblr[5], and Instagram.[6] The image inspired further MS-Paint edits. For example,
+  Facebook page Twingo Memes[7] posted an edit in which the punchline was France,
+  gaining over 530 reactions (shown below, right). Edits would later come to use more
+  realistic-looking versions of the astronauts. For example, on June 7th, 2020, Redditor
+  nickslicktricks posted an example to /r/memes,[8] gaining over 33,000 points (shown
+  below, left). On June 19th, 2020, Twitter user @Alexis_Grump[9] made an example
+  using Bugsnax (shown below, right). On July 14th, Ebaumsworld[10] published a gallery
+  featuring notable examples of the meme. Various Examples Template Search Interest
+  External References [1] 4chan – pol [2] iFunny – iOhioan's Post [3] Twitter – @burgertownmw2
+  [4] Reddit – IHateOhio [5] Tumblr – chemtraildude (unavailable) [6] Instagram –
+  salad.snake (private account) [7] Facebook – Twingo Memes [8] Reddit – /r/memes
+  [9] Twitter – Alexis_Grump [10] Ebaumsworld – Wait, It's All Ohio? Always Has Been
+  Astronaut Memes That Are Out of This World [11] Reddit – /r/dankmemes
+aside_content: MemeStatusConfirmedType:Catchphrase,ExploitableYear2018Origin4chanTagsastronauts,ohio
+  vs. the world,gun,wait,its all?,always has been,nickslicktricks,@alexis_grump,always
+  has been memeAdditional ReferencesMeme GeneratorMemebase
+added_at: '2020-06-26T16:05:23-04:00'

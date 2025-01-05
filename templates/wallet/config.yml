@@ -1,3 +1,96 @@
+name: Patrick Star's Wallet
+source: https://knowyourmeme.com/memes/patrick-stars-wallet
+keywords:
+- null
+text:
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.17
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.08
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.18
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.07
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.4
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.43
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.07
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.65
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.67
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.08
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: white
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.92
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.08
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.92
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.08
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - Aren't you Patrick Star?
 - Yup.
@@ -7,214 +100,35 @@ example:
 - That makes sense to me.
 - Then take it!
 - It's not my wallet.
-keywords:
-- null
-name: Patrick Star's Wallet
 overlay:
-- angle: 0.0
-  center_x: 0.22
+- center_x: 0.22
   center_y: 0.12
+  angle: 0.0
   scale: 0.21
-scraped_content: "Patrick Star's Wallet | Know Your Meme O HAI! You must login or\
-  \ signup first! Already a memeber? Login Now! Don't have an account? Sign up Now!\
-  \ Meme Encyclopedia All Cultures Events People Sites Subcultures Videos Submit \u2192\
-  \ Images Trending Most Commented Most Favorited High Score Low Score Most Viewed\
-  \ All Templates Upload an Image Articles News Explainers Collections Interviews\
-  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
-  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
-  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
-  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
-  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
-  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
-  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
-  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
-  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
-  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
-  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
-  \ CEO Patrick Star's Wallet Added 7 years ago / Updated 12 days ago Confirmed 185,071\
-  \ Part of a series on SpongeBob SquarePants. [View Related Entries] View All 57\
-  \ Images Navigation About \u2022 Origin \u2022 Spread \u2022 Various Examples \u2022\
-  \ Search Interest \u2022 External References \u2022 Recent Images \u2022 Recent\
-  \ Videos About Patrick Star Wallet refers to a scene from Spongebob Squarepants\
-  \ in which the villain Man Ray attempts to teach a lesson about morality to Patrick\
-  \ Star. The scene has been parodied and turned into an exploitable in which the\
-  \ characters and dialogue are altered. Origin On September 14th, 2001, the Spongebob\
-  \ Squarepants episode \"Mermaid Man and Barnacle Boy III\" premiered in the United\
-  \ States.[1] In the episode, Man Ray roleplays giving back Patrick's lost wallet.\
-  \ However, Patrick denies that the wallet is his despite Man Ray's logical reasoning,\
-  \ angering him (shown below). An image macro of the scene appeared online in the\
-  \ mid-2010s. An example was posted on Imgur on July 21st, 2013,[2] though the image\
-  \ had been circulating online prior. Spread The image began to grow into an exploitable\
-  \ in the summer of 2016. On August 1st, one of the earliest examples was posted\
-  \ to Imgur, [3] in which Patrick is represented as an Xbox and Man Ray is represented\
-  \ as a gamer. The post has been viewed over 40,000 times (shown below). The exploitables\
-  \ soon adopted a political tone, as people satirized their frustrations with opposing\
-  \ viewpoints by representing the opposing viewpoint as Patrick. For example, a popular\
-  \ edit satirizing Not My President Democrats has Patrick agreeing to all the conditions\
-  \ that would make Donald Trump one's president, then staunchly denying that Trump\
-  \ is his president[4] (shown below, top). From the other side, a GIF of the scene\
-  \ in which Patrick represents the Alt-Right gained over 139,000 views on Imgur (shown\
-  \ below, bottom).[5] Political edits have made up the majority of the edits, though\
-  \ there have been examples featuring different topics, particularly video games.\
-  \ No this is Patrick Various Examples Search Interest External References [1] Spongebob\
-  \ Wikia \u2013 Mermaid Man and Barnacle Boy III [2] Imgur \u2013 Comic Form [3]\
-  \ Imgur \u2013 Xbox Post [4] Imgur \u2013 Not My President [5] Imgur \u2013 Alt-Right\
-  \ spongbebob squarepants patrick star man-ray exploitable Share Pin Related Entries\
-  \ 218 total Mocking SpongeBob SpongeGar / Primitive Sponge ... Squidward's Suicide\
-  \ Surprised Patrick View All Related Entries Recent Images 57 total View All Images\
-  \ Recent Videos 5 total View All Videos Sign up for our Newsletter Load 16 Comments\
-  \ Comments 16 total 36 Patrick Star's Wallet 185,071 5 57 16 Part of a series on\
-  \ SpongeBob SquarePants. [View Related Entries] Updated Dec 11, 2024 at 01:15PM\
-  \ EST by LiterallyAustin. Added Aug 18, 2017 at 02:44PM EDT by Adam. Like us on\
-  \ Facebook! Like 1.8M Share Save Tweet PROTIP: Press 'i' to view the image gallery,\
-  \ 'v' to view the video gallery, or 'r' to view a random entry. Meme Status Confirmed\
-  \ Type: Exploitable Year 2016 Origin Spongebob Squarepants Tags spongbebob squarepants,\
-  \ patrick star, man-ray, exploitable About Patrick Star Wallet refers to a scene\
-  \ from Spongebob Squarepants in which the villain Man Ray attempts to teach a lesson\
-  \ about morality to Patrick Star. The scene has been parodied and turned into an\
-  \ exploitable in which the characters and dialogue are altered. Origin On September\
-  \ 14th, 2001, the Spongebob Squarepants episode \"Mermaid Man and Barnacle Boy III\"\
-  \ premiered in the United States.[1] In the episode, Man Ray roleplays giving back\
-  \ Patrick's lost wallet. However, Patrick denies that the wallet is his despite\
-  \ Man Ray's logical reasoning, angering him (shown below). An image macro of the\
-  \ scene appeared online in the mid-2010s. An example was posted on Imgur on July\
-  \ 21st, 2013,[2] though the image had been circulating online prior. Spread The\
-  \ image began to grow into an exploitable in the summer of 2016. On August 1st,\
-  \ one of the earliest examples was posted to Imgur, [3] in which Patrick is represented\
-  \ as an Xbox and Man Ray is represented as a gamer. The post has been viewed over\
-  \ 40,000 times (shown below). The exploitables soon adopted a political tone, as\
-  \ people satirized their frustrations with opposing viewpoints by representing the\
-  \ opposing viewpoint as Patrick. For example, a popular edit satirizing Not My President\
-  \ Democrats has Patrick agreeing to all the conditions that would make Donald Trump\
-  \ one's president, then staunchly denying that Trump is his president[4] (shown\
-  \ below, top). From the other side, a GIF of the scene in which Patrick represents\
-  \ the Alt-Right gained over 139,000 views on Imgur (shown below, bottom).[5] Political\
-  \ edits have made up the majority of the edits, though there have been examples\
-  \ featuring different topics, particularly video games. No this is Patrick Various\
-  \ Examples Search Interest External References [1] Spongebob Wikia \u2013 Mermaid\
-  \ Man and Barnacle Boy III [2] Imgur \u2013 Comic Form [3] Imgur \u2013 Xbox Post\
-  \ [4] Imgur \u2013 Not My President [5] Imgur \u2013 Alt-Right Related Entries 218\
-  \ total Mocking SpongeBob SpongeGar / Primitive Sponge / Caveman Spongebob Squidward's\
-  \ Suicide Surprised Patrick *breath in* Boi Push It Somewhere Else Patrick Inappropriate\
-  \ Timing Spongebob Banner \"Ocean Man\" by Ween Welcome to the Salty Spitoon. How\
-  \ Tough Are Ya? Fake History No, This Is Patrick Smitty Werbenjagermanjensen View\
-  \ All Related Entries Recent Videos 5 total It really do be like that tho Patrick\
-  \ Star's Wallet Uploaded by Sum Lu Zer Spyro - It's Not My Wallet (4K) Patrick Star's\
-  \ Wallet Uploaded by Sum Lu Zer Witty title Patrick Star's Wallet Uploaded by sus\
-  \ bed stain True Socialism Patrick Star's Wallet Uploaded by Mand'alor Alt Right\
-  \ Patrick Star's Wallet Uploaded by Adam + Add a Video Recent Images 57 total Patrick\
-  \ Star's Wallet Uploaded by Jaimie Hamilton Patrick Star's Wallet Uploaded by Reddit\
-  \ Moments Patrick Star's Wallet Uploaded by piperwillow Patrick Star's Wallet Uploaded\
-  \ by CyberRobotnix Patrick Star's Wallet Uploaded by CyberRobotnix Patrick Star's\
-  \ Wallet Uploaded by elchew Patrick Star's Wallet Uploaded by Mr. Nobody Returns\
-  \ Patrick Star's Wallet Uploaded by CyberRobotnix Patrick Star's Wallet Uploaded\
-  \ by Memister Patrick Star's Wallet Uploaded by Stormwatch Patrick Star's Wallet\
-  \ Uploaded by Molemanninethousand Patrick Star's Wallet Uploaded by Excitebot theLEGO\
-  \ + Add an Image View All Images Sign up for our Newsletter Top Comments Delete\
-  \ Sensitive Chadxican Aug 19, 2017 at 02:57PM EDT in reply to tino768 \u2026And\
-  \ this became political. +50 Reply Delete Sensitive Walrus the Tree Aug 20, 2017\
-  \ at 11:36AM EDT It may be kind of a \"Thing I don't like meme\", but this deserves\
-  \ credit for being an OG \"Thing I don't like meme\". That, and it's like 50 times\
-  \ more relevant when the Patrick figure in the picture is denying everything IRL.\
-  \ +38 Reply + Add a Comment Comments (16) Display Comments Add a Comment Top Entries\
-  \ This Month Meme Saika Kawakita Smile GIF Event Assassination of UnitedHealthcare\
-  \ CEO Person Luigi Mangione UHC CEO Shooter Subculture The Ki Sisters Culture Pornography\
-  \ Site Whisper View More Suggest a Change Edit History Entry Editors (3) Adam Know\
-  \ Your Meme Universal Champion Y F Digital Archaeologist & Treasurer & Media Maid\
-  \ TjsWorld2011 Jr. Researcher + Request Editorship View All Editors Today's Top\
-  \ Image Galleries Assassination of UnitedHealthcare CEO Squirrel Girl (Doreen Green)\
-  \ Team Fortress 2 The Amazing Digital Circus About Our Story Site Rules Policies\
-  \ and Guidelines Credits Contact Meme DB Memes Episodes News Staff Contact Extras!\
-  \ Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/patrick-stars-wallet
-template_id: wallet
-text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.17
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.08
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.18
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.07
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.4
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.43
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.07
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.65
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.67
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.08
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.92
-  angle: 0.0
-  color: white
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.08
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.92
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.08
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 8
+scraped_content: About Patrick Star Wallet refers to a scene from Spongebob Squarepants
+  in which the villain Man Ray attempts to teach a lesson about morality to Patrick
+  Star. The scene has been parodied and turned into an exploitable in which the characters
+  and dialogue are altered. Origin On September 14th, 2001, the Spongebob Squarepants
+  episode "Mermaid Man and Barnacle Boy III" premiered in the United States.[1] In
+  the episode, Man Ray roleplays giving back Patrick's lost wallet. However, Patrick
+  denies that the wallet is his despite Man Ray's logical reasoning, angering him
+  (shown below). An image macro of the scene appeared online in the mid-2010s. An
+  example was posted on Imgur on July 21st, 2013,[2] though the image had been circulating
+  online prior. Spread The image began to grow into an exploitable in the summer of
+  2016. On August 1st, one of the earliest examples was posted to Imgur, [3] in which
+  Patrick is represented as an Xbox and Man Ray is represented as a gamer. The post
+  has been viewed over 40,000 times (shown below). The exploitables soon adopted a
+  political tone, as people satirized their frustrations with opposing viewpoints
+  by representing the opposing viewpoint as Patrick. For example, a popular edit satirizing
+  Not My President Democrats has Patrick agreeing to all the conditions that would
+  make Donald Trump one's president, then staunchly denying that Trump is his president[4]
+  (shown below, top). From the other side, a GIF of the scene in which Patrick represents
+  the Alt-Right gained over 139,000 views on Imgur (shown below, bottom).[5] Political
+  edits have made up the majority of the edits, though there have been examples featuring
+  different topics, particularly video games. No this is Patrick Various Examples
+  Search Interest External References [1] Spongebob Wikia – Mermaid Man and Barnacle
+  Boy III [2] Imgur – Comic Form [3] Imgur – Xbox Post [4] Imgur – Not My President
+  [5] Imgur – Alt-Right
+aside_content: MemeStatusConfirmedType:ExploitableYear2016OriginSpongebob SquarepantsTagsspongbebob
+  squarepants,patrick star,man-ray,exploitable
+added_at: '2017-08-18T14:44:59-04:00'

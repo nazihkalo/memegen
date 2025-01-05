@@ -6,7 +6,10 @@ description = "A meme generator API"
 authors = ["Your Name <your.email@example.com>"]
 license = "MIT"
 
-packages = [{ include = "app" }]
+packages = [
+    { include = "app" },
+    { include = "app/**/*.py" }
+]
 
 [tool.poetry.dependencies]
 

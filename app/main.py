@@ -1,5 +1,6 @@
 import asyncio
 import logging
+from datetime import datetime
 
 from sanic import Sanic, response
 from sanic.request import Request
@@ -98,20 +99,63 @@ async def robots(request: Request):
 
 @app.get("/search")
 @openapi.summary("Search for templates using natural language")
-@openapi.description("Search for meme templates using natural language queries")
+@openapi.description("""
+Search for meme templates using natural language queries.
+Optionally filter by date range using from_date and to_date parameters.
+Dates should be in YYYY-MM-DD format.
+""")
 @openapi.parameter("q", str, "Search query", required=True)
 @openapi.parameter("n", int, "Number of results to return", required=False)
+@openapi.parameter("from_date", str, "Filter templates added after this date (YYYY-MM-DD)", required=False)
+@openapi.parameter("to_date", str, "Filter templates added before this date (YYYY-MM-DD)", required=False)
 async def search_templates(request: Request):
     query = request.args.get("q")
     n_results = int(request.args.get("n", 5))
+    from_date = request.args.get("from_date")
+    to_date = request.args.get("to_date")
     
     if not query:
         return response.json({"error": "Missing query parameter 'q'"}, status=400)
         
-    logger.info(f"Searching templates with query: {query}")
-    results = await template_embeddings.search_templates(query, n_results)
-    logger.debug(f"Search returned {len(results)} results")
-    return response.json({"results": results})
+    # Validate date formats if provided
+    date_format = "%Y-%m-%d"
+    if from_date:
+        try:
+            datetime.strptime(from_date, date_format)
+        except ValueError:
+            return response.json({"error": "Invalid from_date format. Use YYYY-MM-DD"}, status=400)
+            
+    if to_date:
+        try:
+            datetime.strptime(to_date, date_format)
+        except ValueError:
+            return response.json({"error": "Invalid to_date format. Use YYYY-MM-DD"}, status=400)
+        
+    logger.info(f"Searching templates with query: {query}, from_date: {from_date}, to_date: {to_date}")
+    try:
+        results = await template_embeddings.search_templates(
+            query, 
+            n_results,
+            from_date=from_date,
+            to_date=to_date
+        )
+        logger.debug(f"Search returned {len(results)} results")
+        
+        return response.json({
+            "status": "success",
+            "query": query,
+            "filters": {
+                "from_date": from_date,
+                "to_date": to_date
+            },
+            "results": [dict(result) if hasattr(result, '__dict__') else result for result in results]
+        })
+    except Exception as e:
+        logger.error(f"Search error: {e}", exc_info=True)
+        return response.json({
+            "status": "error",
+            "error": str(e)
+        }, status=500)
 
 
 @app.before_server_start

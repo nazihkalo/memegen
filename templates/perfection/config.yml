@@ -1,3 +1,74 @@
+name: Perfection
+source: https://knowyourmeme.com/memes/perfection
+keywords:
+- I Prefer the Real Raven
+text:
+- style: upper
+  color: black
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.0
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.333
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.225
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: upper
+  color: black
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.333
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.333
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.56
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: upper
+  color: black
+  font: thick
+  anchor_x: 0.0
+  anchor_y: 0.666
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.333
+  align: center
+  start: 0.0
+  stop: 1.0
+- style: default
+  color: khaki
+  font: thin
+  anchor_x: 0.5
+  anchor_y: 0.895
+  angle: 0.0
+  scale_x: 0.5
+  scale_y: 0.1
+  align: center
+  start: 0.0
+  stop: 1.0
 example:
 - Sebastian Shaw
 - I prefer the real Darth Vader.
@@ -5,201 +76,43 @@ example:
 - I said, the real Darth Vader.
 - Jake Lloyd
 - Perfection.
-keywords:
-- I Prefer the Real Raven
-name: Perfection
 overlay:
-- angle: 0.0
-  center_x: 0.25
+- center_x: 0.25
   center_y: 0.166
+  angle: 0.0
   scale: 0.333
-- angle: 0.0
-  center_x: 0.25
+- center_x: 0.25
   center_y: 0.5
+  angle: 0.0
   scale: 0.333
-- angle: 0.0
-  center_x: 0.25
+- center_x: 0.25
   center_y: 0.833
+  angle: 0.0
   scale: 0.333
-scraped_content: "Magneto's \"Perfection\" | Know Your Meme Word Up! You must login\
-  \ or signup first! Already a memeber? Login Now! Don't have an account? Sign up\
-  \ Now! Meme Encyclopedia All Cultures Events People Sites Subcultures Videos Submit\
-  \ \u2192 Images Trending Most Commented Most Favorited High Score Low Score Most\
-  \ Viewed All Templates Upload an Image Articles News Explainers Collections Interviews\
-  \ Meme Insider Magazine More Discord Newsletter Episodes Forums Meme Store Login\
-  \ Abstract user icon Memes Categories Trending News Images Trending Images Videos\
-  \ Trending Videos Editorials Meme Insider Magazine Newsletter Policies and Guidelines\
-  \ Meme Store Old site Login Know Your Meme is the property of Literally Media \xA9\
-  2024 Literally Media. All Rights Reserved. This image Of Woman Confidently Strolling\
-  \ Through A Glass Panel Has Been A Redraw Format Since 2021 Three Years Ago, This\
-  \ Boar's Head 'Exploded' Onto The Meme Scene Remember Il Vaticano? The Anarchy Chess\
-  \ Memes Turns Two Years Old Today Phrase 'The Fridge Protects The Snacks' A Growing\
-  \ Favorite Among Pickup Artist Influencers Jamie G, The Bosh British Charva, Has\
-  \ Taken Over TikTok With His Signature 'Oh Cherie Amour' Sound Also Trending: Honey\
-  \ Extension Influencer Scam Renegade Raider Copypasta Assassination of UnitedHealthcare\
-  \ CEO Magneto's \"Perfection\" Added 7 years ago / Updated 3 months ago Confirmed\
-  \ 367,857 Part of a series on X-Men. [View Related Entries] View All 85 Images Navigation\
-  \ About \u2022 Origin \u2022 Spread \u2022 Various Examples \u2022 Search Interest\
-  \ \u2022 External References \u2022 Recent Images \u2022 Recent Videos About Perfection\
-  \ refers to an exploitable image macro in which the character Erik Magnus Lehnsherr\
-  \ (Michael Fassbender), aka Magneto, in X-Men: First Class asks to be shown \"the\
-  \ real X.\" He asks twice, and upon seeing what he is looking for, he says, \"Perfection.\"\
-  \ What he is looking for is generally the punchline of the joke. Origin The scene\
-  \ comes from 2011's X Men: First Class. Raven Darkh\xF6lme (Jennifer Lawrence),\
-  \ aka Mystique, a mutant with shapeshifting powers, attempts to seduce Erik by showing\
-  \ herself to him as a beautiful blonde woman (Rebecca Romijn). Erik responds by\
-  \ saying \"I prefer the real Raven.\" Raven then shifts into the human form she\
-  \ usually presents to others. Erik presses, \"I said the real Raven.\" Raven then\
-  \ turns into her natural blue form, to which Erik replies \"Perfection.\" On October\
-  \ 14th of that year, user jstupack uploaded the first variation of the exploitable\
-  \ to /r/funny.[1] In the post, Raven turns into actress Raven Symone before Erik\
-  \ says, \"Perfection.\" The post gained 645 points (shown below). Spread In the\
-  \ following years, the format would prove a durable template for various jokes.\
-  \ After various plays on the word \"Raven,\" the joke expanded to include various\
-  \ other \"real\" objects. For example, on May 13th, 2015, FunnyJunk user gwlk[2]\
-  \ uploaded a variation with Pepe the Frog that gained 1,111 points on the site (shown\
-  \ below). The format grew popular again in 2017 when it was adopted by the Star\
-  \ Wars fandom on Reddit as a means to compare various iterations of the franchise's\
-  \ characters. On April 16th, user TehFlygon[3] posted a question to /r/OutOfTheLoop[3]\
-  \ asking about the origin of the template. Various Examples Search Interest External\
-  \ References [1] Reddit \u2013 /r/funny [2] FunnyJunk \u2013 The Rarest Pepe [3]\
-  \ Reddit \u2013 What is the \"I prefer the real _____\" meme from? xmen magneto\
-  \ exploitable erik magnus lehnsherr michael fassbender raven darkh\xF6lme mystique\
-  \ rebecca romijn jstupack gwlk tehflygon Share Pin Related Entries 9 total Peace\
-  \ Was Never An Option I'm The Juggernaut, Bitch! Wolverine Crush Magneto Was Right\
-  \ View All Related Entries Recent Images 85 total View All Images Recent Videos\
-  \ 12 total View All Videos Sign up for our Newsletter Load 5 Comments Comments 5\
-  \ total 27 Magneto's \"Perfection\" 367,857 12 85 5 Part of a series on X-Men. [View\
-  \ Related Entries] Updated Sep 14, 2024 at 02:13AM EDT by Triplem. Added May 05,\
-  \ 2017 at 01:20PM EDT by Adam. Like us on Facebook! Like 1.8M Share Save Tweet PROTIP:\
-  \ Press 'i' to view the image gallery, 'v' to view the video gallery, or 'r' to\
-  \ view a random entry. Meme Status Confirmed Type: Image Macro, Pop Culture Reference\
-  \ Year 2011 Origin X-Men: First Class Tags xmen, magneto, exploitable, erik magnus\
-  \ lehnsherr, michael fassbender, raven darkh\xF6lme, mystique, rebecca romijn, jstupack,\
-  \ gwlk, tehflygon About Perfection refers to an exploitable image macro in which\
-  \ the character Erik Magnus Lehnsherr (Michael Fassbender), aka Magneto, in X-Men:\
-  \ First Class asks to be shown \"the real X.\" He asks twice, and upon seeing what\
-  \ he is looking for, he says, \"Perfection.\" What he is looking for is generally\
-  \ the punchline of the joke. Origin The scene comes from 2011's X Men: First Class.\
-  \ Raven Darkh\xF6lme (Jennifer Lawrence), aka Mystique, a mutant with shapeshifting\
-  \ powers, attempts to seduce Erik by showing herself to him as a beautiful blonde\
-  \ woman (Rebecca Romijn). Erik responds by saying \"I prefer the real Raven.\" Raven\
-  \ then shifts into the human form she usually presents to others. Erik presses,\
-  \ \"I said the real Raven.\" Raven then turns into her natural blue form, to which\
-  \ Erik replies \"Perfection.\" On October 14th of that year, user jstupack uploaded\
-  \ the first variation of the exploitable to /r/funny.[1] In the post, Raven turns\
-  \ into actress Raven Symone before Erik says, \"Perfection.\" The post gained 645\
-  \ points (shown below). Spread In the following years, the format would prove a\
-  \ durable template for various jokes. After various plays on the word \"Raven,\"\
-  \ the joke expanded to include various other \"real\" objects. For example, on May\
-  \ 13th, 2015, FunnyJunk user gwlk[2] uploaded a variation with Pepe the Frog that\
-  \ gained 1,111 points on the site (shown below). The format grew popular again in\
-  \ 2017 when it was adopted by the Star Wars fandom on Reddit as a means to compare\
-  \ various iterations of the franchise's characters. On April 16th, user TehFlygon[3]\
-  \ posted a question to /r/OutOfTheLoop[3] asking about the origin of the template.\
-  \ Various Examples Search Interest External References [1] Reddit \u2013 /r/funny\
-  \ [2] FunnyJunk \u2013 The Rarest Pepe [3] Reddit \u2013 What is the \"I prefer\
-  \ the real _____\" meme from? Related Entries 9 total Peace Was Never An Option\
-  \ I'm The Juggernaut, Bitch! Wolverine Crush Magneto Was Right Welcome to Die! Sad\
-  \ Wolverine Seeing Jean Grey and Cyclops Kiss Professor X's Mind Rays X-Men Gold\
-  \ Controversy X-Men '97 / X-Men: The Animated Series Recent Videos 12 total Perfection\
-  \ Meme Clip Magneto's \"Perfection\" Uploaded by Y F *P E R F E C T I O N* Magneto's\
-  \ \"Perfection\" Uploaded by Y F I prefer the real Turk Empire Magneto's \"Perfection\"\
-  \ Uploaded by Y F NINJA PERFECTION MEME VIDEO!! Magneto's \"Perfection\" Uploaded\
-  \ by Y F The Perfect Mutant 2 Magneto's \"Perfection\" Uploaded by Y F The Perfect\
-  \ Mutant Magneto's \"Perfection\" Uploaded by Y F Perfection Magneto's \"Perfection\"\
-  \ Uploaded by Y F X-men Perfection Scene Magneto's \"Perfection\" Uploaded by Y\
-  \ F + Add a Video View All Videos Recent Images 85 total Magneto's \"Perfection\"\
-  \ Uploaded by Reddit Moments Magneto's \"Perfection\" Uploaded by Excitebot theLEGO\
-  \ Magneto's \"Perfection\" Uploaded by Bilbo Swaggins Magneto's \"Perfection\" Uploaded\
-  \ by Alex8000 Magneto's \"Perfection\" Uploaded by Soup King Magneto's \"Perfection\"\
-  \ Uploaded by Liquid Fiend Magneto's \"Perfection\" Uploaded by Molemanninethousand\
-  \ Magneto's \"Perfection\" Uploaded by OurDeerLeader Magneto's \"Perfection\" Uploaded\
-  \ by LZen10 Magneto's \"Perfection\" Uploaded by LZen10 Magneto's \"Perfection\"\
-  \ Uploaded by Adam B. Magneto's \"Perfection\" Uploaded by baldarek + Add an Image\
-  \ View All Images Sign up for our Newsletter Top Comments Delete Sensitive Non-related\
-  \ May 09, 2017 at 05:56PM EDT \"I prefer Cell.\" \"No, not that Cell.\" \"Not that\
-  \ one either.\" \"Perfection.\" +11 Reply Delete Sensitive Duke Bruh May 06, 2017\
-  \ at 01:17PM EDT Did somebody say perfection? +3 Reply + Add a Comment Comments\
-  \ (5) Display Comments Add a Comment Top Entries This Month Meme Saika Kawakita\
-  \ Smile GIF Event Assassination of UnitedHealthcare CEO Person Luigi Mangione UHC\
-  \ CEO Shooter Subculture The Ki Sisters Culture Pornography Site Whisper View More\
-  \ Suggest a Change Edit History Entry Editors (7) Adam Know Your Meme Universal\
-  \ Champion Don Administrator & Meme Daddy Y F Digital Archaeologist & Treasurer\
-  \ & Media Maid shevyrolet Digital Archaeologist & Treasurer & Media Bus Boy Autumn\
-  \ Able Sr. Entry Moderator andcallmeshirley Digital Archaeologist & Treasurer &\
-  \ Collection Butler Triplem Entry Moderator \u25BC + Request Editorship View All\
-  \ Editors Today's Top Image Galleries Assassination of UnitedHealthcare CEO Squirrel\
-  \ Girl (Doreen Green) Team Fortress 2 The Amazing Digital Circus About Our Story\
-  \ Site Rules Policies and Guidelines Credits Contact Meme DB Memes Episodes News\
-  \ Staff Contact Extras! Style Guide RSS Feeds"
-source: https://knowyourmeme.com/memes/perfection
-template_id: perfection
-text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.0
-  angle: 0.0
-  color: black
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.333
-  start: 0.0
-  stop: 1.0
-  style: upper
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.225
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.333
-  angle: 0.0
-  color: black
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.333
-  start: 0.0
-  stop: 1.0
-  style: upper
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.56
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.666
-  angle: 0.0
-  color: black
-  font: thick
-  scale_x: 0.5
-  scale_y: 0.333
-  start: 0.0
-  stop: 1.0
-  style: upper
-- align: center
-  anchor_x: 0.5
-  anchor_y: 0.895
-  angle: 0.0
-  color: khaki
-  font: thin
-  scale_x: 0.5
-  scale_y: 0.1
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 6
+scraped_content: 'About Perfection refers to an exploitable image macro in which the
+  character Erik Magnus Lehnsherr (Michael Fassbender), aka Magneto, in X-Men: First
+  Class asks to be shown "the real X." He asks twice, and upon seeing what he is looking
+  for, he says, "Perfection." What he is looking for is generally the punchline of
+  the joke. Origin The scene comes from 2011''s X Men: First Class. Raven Darkhölme
+  (Jennifer Lawrence), aka Mystique, a mutant with shapeshifting powers, attempts
+  to seduce Erik by showing herself to him as a beautiful blonde woman (Rebecca Romijn).
+  Erik responds by saying "I prefer the real Raven." Raven then shifts into the human
+  form she usually presents to others. Erik presses, "I said the real Raven." Raven
+  then turns into her natural blue form, to which Erik replies "Perfection." On October
+  14th of that year, user jstupack uploaded the first variation of the exploitable
+  to /r/funny.[1] In the post, Raven turns into actress Raven Symone before Erik says,
+  "Perfection." The post gained 645 points (shown below). Spread In the following
+  years, the format would prove a durable template for various jokes. After various
+  plays on the word "Raven," the joke expanded to include various other "real" objects.
+  For example, on May 13th, 2015, FunnyJunk user gwlk[2] uploaded a variation with
+  Pepe the Frog that gained 1,111 points on the site (shown below). The format grew
+  popular again in 2017 when it was adopted by the Star Wars fandom on Reddit as a
+  means to compare various iterations of the franchise''s characters. On April 16th,
+  user TehFlygon[3] posted a question to /r/OutOfTheLoop[3] asking about the origin
+  of the template. Various Examples Search Interest External References [1] Reddit
+  – /r/funny [2] FunnyJunk – The Rarest Pepe [3] Reddit – What is the "I prefer the
+  real _____" meme from?'
+aside_content: 'MemeStatusConfirmedType:Image Macro,Pop Culture ReferenceYear2011OriginX-Men:
+  First ClassTagsxmen,magneto,exploitable,erik magnus lehnsherr,michael fassbender,raven
+  darkhölme,mystique,rebecca romijn,jstupack,gwlk,tehflygon'
+added_at: '2017-05-05T13:20:50-04:00'

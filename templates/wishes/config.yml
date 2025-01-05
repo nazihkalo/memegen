@@ -1,71 +1,24 @@
-example:
-- I want to divide by zero
-keywords:
-- wish
-- want
 name: Genie Rules
-overlay:
-- angle: 0.0
-  center_x: 0.5
-  center_y: 0.5
-  scale: 0.25
-scraped_content: "Genie Rules - Meming Wiki AnonymousNot logged inCreate accountLog\
-  \ inMeming WikiSearchNavigationMemesAll ImagesAll CategoriesMagicTrendsRandom MemeIn\
-  \ other languagesDeutsch\u0420\u0443\u0441\u0441\u043A\u0438\u0439 Genie Rules Blank\
-  \ template Contents 1 About 2 Origin 3 Meaning 4 Examples 5 Popularity 6 See also\
-  \ About \u201CGenie Rules\u201D refers to a series of memes centered around how\
-  \ a genie might respond to a person\u2019s wishes. It is based on the mythology\
-  \ and pop culture tropes about being limited to three wishes and how wishes may\
-  \ have unwanted consequences. In this case, the genie states that there are 3 rules\
-  \ attached to wishes that it may grant. The title \u201CGenie Rules\u201D applies\
-  \ to a template which has seen consistent use since 2019. It is a three panel webcomic\
-  \ which generally depicts the genie\u2019s disapproval. Therefore, it\u2019s long\
-  \ form name is \u201CThere Are Four Rules\u201D. It is not to be confused with a\
-  \ similar template which is generally referred to as \u201CGood Wish Bro\u201D,\
-  \ in which the genie typically expresses approval rather than disapproval. It is\
-  \ not believed to be connected in any way to earlier memes about the genie from\
-  \ Disney\u2019s Aladdin or any other previous media pertaining to genies. However,\
-  \ it is possibly an influence as the genie offers the same three conditions for\
-  \ wishes as in the movie. The film has had a substantial impact on common conceptions\
-  \ of genies which deviates from the mythological and religious interpretations.\
-  \ Origin This template is believed to have been influenced by \u201CGood Wish Bro\u201D\
-  \ and it emerged roughly one year after. Its creator is unknown but some credit\
-  \ the first popular sighting to be in a Reddit post from dankbob_memepants_ on r/MemeEconomy\
-  \ on May 6, 2018. This post is a buy call, and it proved to be correct in predicting\
-  \ the meme\u2019s popularity and versatility. While this meme does not predate \u201C\
-  Good Wish Bro\u201D, it eclipses it in popularity. Roughly three times as many instances\
-  \ of this meme exist than the other. However, most of these exist in niche spaces,\
-  \ especially pages pertaining to gaming. Like its apparent predecessor, much of\
-  \ its spread is due to engagement with Reddit posts. As time went on, the meme began\
-  \ to see attention on Instagram and various gaming forums. Many of the latter produced\
-  \ memes depicting the wisher as characters or as people they knew. Meaning A genie\
-  \ typically offers the person who frees him three wishes, which are limited by three\
-  \ rules. In this case, the genie is either stumped or disgusted by the person\u2019\
-  s request, and thus states that there are four rules. The fourth rule is whatever\
-  \ negates the offending request. While most uses of this template are not so deep,\
-  \ this meme can be used to explore moral and philosophical problems. It can be used\
-  \ to expose some of the depravities one might find online, or simply as an opportunity\
-  \ to let out some shock humor. It is also often used to point out some of the paradoxes\
-  \ in the genie scenario. For example, can a person wish for there to be zero rules?\
-  \ The meme is usually about a person or character trying to do the impossible. It\
-  \ has even been used as a relatable. Like most memes, this template can be made\
-  \ about nearly anything with some creativity. It is a versatile template with many\
-  \ possible meanings. Examples Popularity Loading... See also Good Wish Bro Random\
-  \ Meme \U0001F920 Categories: ImagesThree-panelEmbedded caption tweet post share\
-  \ post email This page was last edited on 1 July 2022, at 13:50.ChannelSubscriptionTermsSupportSUNINVEST\
-  \ D.O.O. \xA9 2024"
 source: https://en.meming.world/wiki/Genie_Rules
-template_id: wishes
+keywords:
+  - wish
+  - want
 text:
-- align: center
-  anchor_x: 0.0
-  anchor_y: 0.48
-  angle: 0.0
-  color: black
-  font: thin
-  scale_x: 0.45
-  scale_y: 0.15
-  start: 0.0
-  stop: 1.0
-  style: default
-text_zones: 1
+  - style: default
+    color: black
+    font: thin
+    anchor_x: 0.0
+    anchor_y: 0.48
+    angle: 0.0
+    scale_x: 0.45
+    scale_y: 0.15
+    align: center
+    start: 0.0
+    stop: 1.0
+example:
+  - I want to divide by zero
+overlay:
+  - center_x: 0.5
+    center_y: 0.5
+    angle: 0.0
+    scale: 0.25
